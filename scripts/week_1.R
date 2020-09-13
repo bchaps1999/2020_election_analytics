@@ -35,7 +35,8 @@ vote_stats %>%
       name = "Percent"
     ) +
     labs(title = "Percent of Elections Won by Democrats Since 1992") + 
-    theme_void()
+    theme_void() + 
+  ggsave(filename = "percent_won.jpg")
   
 vote_stats %>% 
   mutate(average_margin = abs(average_margin)) %>% 
@@ -46,8 +47,7 @@ vote_stats %>%
 option = "plasma", limits = c(0, 35), name = "Vote Margin"
   ) +
   labs(title = "Average Percentage Point Difference Between Party Vote Shares Since 1992") + 
-  theme_void() + 
-  ggsave(filename = "average_margin_map.jpg")
+  theme_void()
 
 
 stats_2016 %>% 
@@ -59,3 +59,6 @@ stats_2016 %>%
   ) +
   labs(title = "Percentage Point Difference Between Party Vote Shares in 2016") + 
   theme_void()
+
+stats_2016 %>% 
+  arrange(average_margin)
