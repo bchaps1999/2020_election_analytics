@@ -1,4 +1,4 @@
-## Visualizig Swing States
+## Visualizing Swing States
 
 Phrases like “swing states” and “battleground states” are commonly throw around in both the news media and in everyday conversations in the months leading up to an election. But what does it actually mean for a state to be a swing state? In this blog post, I am going to talk a little bit about what a swing state is in the US presidential election, why they are so important, and what states you should keep an eye on going into the election this year. 
 
