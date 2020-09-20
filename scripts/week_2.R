@@ -79,7 +79,8 @@ rdpi_oct %>%
        y = "Vote Share for Incumbent Party",
        color = "Party",
        caption = "RDPI Source: FRED Economic Data") + 
-  theme_minimal()
+  theme_minimal() +
+  ggsave(filename = "figures/rdpi_oct.png")
 
 rdpi_july %>% 
   ggplot(aes(x = change, y = pv2p)) + 
@@ -92,7 +93,8 @@ rdpi_july %>%
        y = "Vote Share for Incumbent Party",
        color = "Party",
        caption = "RDPI Source: FRED Economic Data") + 
-  theme_minimal()
+  theme_minimal() + 
+  ggsave(filename = "figures/rdpi_july.png")
 
 sp_growth %>% 
   ggplot(aes(x = change, y = pv2p)) +
@@ -105,7 +107,8 @@ sp_growth %>%
        y = "Incumbent Party Share of Two-Party Vote",
        color = "Party", 
        caption = "S&P 500 Data Source: Yahoo Finance") +
-  theme_minimal()
+  theme_minimal() + 
+  ggsave(filename = "figures/sp_growth.png")
 
 gdp_growth %>% 
   ggplot(aes(x = gdp_growth_qt, y = pv2p)) +
@@ -117,7 +120,8 @@ gdp_growth %>%
        x = "GDP Percent Growth in 2nd Quarter",
        y = "Vote Share for Incumbent Party",
        color = "Party") +
-  theme_minimal()
+  theme_minimal()+ 
+  ggsave(filename = "figures/gdp_growth.png")
 
 # Models and error
 
