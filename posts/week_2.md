@@ -1,3 +1,5 @@
+### The Economy and the Election - 9/19/20
+
 In a townhall with voters on ABC earlier this week, George Stephanopoulos asked President Trump about the recovery of the economy, and specifically about his claims that the stock market gains have been beneficial to the general public. In response, President Trump doubled down on his argument:
 
 “Look, we’re having a tremendous thing in the stock market, and that’s good for everybody. But people that aren’t rich own stock, and they have 401(k)s. You take a look at the 401(k)s, they’re in many cases better than they were before the pandemic came.”
