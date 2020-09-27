@@ -11,7 +11,7 @@ polls <- state_polls %>%
   mutate(trump_votes = trump_poll * population,
          biden_votes = biden_poll * population,
          trump_2p = trump_votes/(trump_votes + biden_votes),
-         trump_margin = 2 * trump_2p - 1)
+         trump_margin = 100* (2 * trump_2p - 1))
 
 polls %>% 
   summarize(trump_total = sum(trump_votes)/sum(population),
@@ -28,8 +28,9 @@ polls %>%
     mid = "white",
     low = "blue",
     midpoint = 0,
-    name = "Percent"
+    name = "Percentage
+    Points"
   ) +
   labs(title = "Poll Margin for President Trump by State") + 
-  theme_void() + 
-  ggsave("../plots/poll_margin.png")
+  theme_void() +
+  ggsave(filename = "poll_margin.jpg")
