@@ -4,3 +4,4 @@
 
 # [Visualizing Swing States - 9/12/20](posts/week_1.md)
 # [The Economy and the Election - 9/19/20](posts/week_2.md)
+# [E Pluribus Unum: Combining State Polls - 9/26/2020](posts/week_3.md)
