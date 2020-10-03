@@ -33,4 +33,4 @@ polls %>%
   ) +
   labs(title = "Poll Margin for President Trump by State") + 
   theme_void() +
-  ggsave(filename = "poll_margin.jpg")
+  ggsave(filename = "poll_margin.png")
