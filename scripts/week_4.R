@@ -98,7 +98,7 @@ market_vote_2016 %>%
   labs(x = "Closing Market Price on Nov 7, 2016",
        y = "Two-Party Popular Vote Percent for Clinton",
        title = "PredictIt Market Price and Final Vote Percent by State")+
-  ggsave("../figures/predictit_model.jpg")
+  ggsave("../figures/predictit_model.png")
 
 model <- lm(pv2p ~ poly(price,3), data = market_vote_2016)
 

@@ -1,0 +1,103 @@
+state,party,avg_poll
+Alabama,Democratic,38.7
+Alabama,Republican,56.7
+Alaska,Democratic,45.6
+Alaska,Republican,50.1
+Arizona,Democratic,48.6
+Arizona,Republican,44.8
+Arkansas,Democratic,40
+Arkansas,Republican,55.7
+California,Democratic,62
+California,Republican,30.8
+Colorado,Democratic,51.7
+Colorado,Republican,39.9
+Connecticut,Democratic,58.4
+Connecticut,Republican,34
+Delaware,Democratic,58.7
+Delaware,Republican,34.1
+District of Columbia,Democratic,81
+District of Columbia,Republican,16
+Florida,Democratic,48.9
+Florida,Republican,44.6
+Georgia,Democratic,47.4
+Georgia,Republican,46.7
+Hawaii,Democratic,62.1
+Hawaii,Republican,31.7
+Idaho,Democratic,35.8
+Idaho,Republican,59.8
+Illinois,Democratic,56.2
+Illinois,Republican,38.2
+Indiana,Democratic,41
+Indiana,Republican,52.7
+Iowa,Democratic,47.5
+Iowa,Republican,46.4
+Kansas,Democratic,43.2
+Kansas,Republican,50
+Kentucky,Democratic,38.7
+Kentucky,Republican,56.9
+Louisiana,Democratic,39.8
+Louisiana,Republican,53.7
+Maine,Democratic,54.3
+Maine,Republican,39.2
+Maryland,Democratic,62.6
+Maryland,Republican,30.6
+Massachusetts,Democratic,65.7
+Massachusetts,Republican,28.7
+Michigan,Democratic,50.9
+Michigan,Republican,42.6
+Minnesota,Democratic,50.2
+Minnesota,Republican,41.1
+Mississippi,Democratic,40.8
+Mississippi,Republican,53
+Missouri,Democratic,45.3
+Missouri,Republican,50.9
+Montana,Democratic,42.8
+Montana,Republican,51.5
+Nebraska,Democratic,47
+Nebraska,Republican,53
+Nevada,Democratic,49.2
+Nevada,Republican,42.4
+New Hampshire,Democratic,53.4
+New Hampshire,Republican,42.7
+New Jersey,Democratic,55.8
+New Jersey,Republican,36.9
+New Mexico,Democratic,54
+New Mexico,Republican,40.2
+New York,Democratic,62.2
+New York,Republican,31.6
+North Carolina,Democratic,48.9
+North Carolina,Republican,46.1
+North Dakota,Democratic,36
+North Dakota,Republican,57.9
+Ohio,Democratic,47.2
+Ohio,Republican,46.3
+Oklahoma,Democratic,35.1
+Oklahoma,Republican,58.8
+Oregon,Democratic,56.8
+Oregon,Republican,37.7
+Pennsylvania,Democratic,50.9
+Pennsylvania,Republican,43.8
+Rhode Island,Democratic,59
+Rhode Island,Republican,41
+South Carolina,Democratic,44.5
+South Carolina,Republican,50
+South Dakota,Democratic,38
+South Dakota,Republican,60
+Tennessee,Democratic,40.9
+Tennessee,Republican,54.5
+Texas,Democratic,46.7
+Texas,Republican,48.3
+Utah,Democratic,39
+Utah,Republican,51.7
+Vermont,Democratic,61.9
+Vermont,Republican,30.3
+Virginia,Democratic,52.7
+Virginia,Republican,40.3
+Washington,Democratic,61.3
+Washington,Republican,33.7
+West Virginia,Democratic,35.4
+West Virginia,Republican,61.1
+Wisconsin,Democratic,50.5
+Wisconsin,Republican,43.2
+Wyoming,Democratic,33
+Wyoming,Republican,65
