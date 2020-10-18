@@ -4,7 +4,7 @@ In making my predictions this week, I decided to continue to develop the predict
 
 I also considered adding another variable to my model this week, such as demographic data. Although it would be interesting to see how variations in turnout for different groups could affect the predicted share of the popular vote, I decided to focus on developing this existing model by using it to generate a probabilistic prediction for the election.
 
-First, let me update my point predictions for the share of the two-party vote that each candidate will receive. No fundamental changes were made to the model itself this week, although I found a CSV file on the FiveThirtyEight website that includes all of the average polling data that I have been manually scraping. Below are my predictions for each candidate, along with a map of the predicted winners of each state:
+First, let me update my point predictions for the share of the two-party vote that each candidate will receive. No fundamental changes were made to the model itself this week, although I found a CSV file on the [FiveThirtyEight website](https://data.fivethirtyeight.com/) that includes all of the average polling data that I have been manually scraping. Below are my predictions for each candidate, along with a map of the predicted winners of each state:
 
 Biden: 52.3
 Trump: 47.7
