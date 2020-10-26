@@ -1,228 +1,2020 @@
 cycle,state,modeldate,candidate_name,pct_estimate,pct_trend_adjusted
-2020,Wyoming,10/17/2020,Joseph R. Biden Jr.,29.62294,30.18601
-2020,Wisconsin,10/17/2020,Joseph R. Biden Jr.,50.63951,50.86083
-2020,West Virginia,10/17/2020,Joseph R. Biden Jr.,35.54683,35.93199
-2020,Washington,10/17/2020,Joseph R. Biden Jr.,58.11724,59.4696
-2020,Virginia,10/17/2020,Joseph R. Biden Jr.,52.80133,53.53393
-2020,Vermont,10/17/2020,Joseph R. Biden Jr.,62.54181,63.25946
-2020,Utah,10/17/2020,Joseph R. Biden Jr.,38.51167,39.59627
-2020,Texas,10/17/2020,Joseph R. Biden Jr.,46.72376,47.14702
-2020,Tennessee,10/17/2020,Joseph R. Biden Jr.,39.32634,40.78505
-2020,South Dakota,10/17/2020,Joseph R. Biden Jr.,39.57742,40.21699
-2020,South Carolina,10/17/2020,Joseph R. Biden Jr.,42.95382,43.33106
-2020,Rhode Island,10/17/2020,Joseph R. Biden Jr.,62.66085,63.77013
-2020,Pennsylvania,10/17/2020,Joseph R. Biden Jr.,50.51903,50.79458
-2020,Oregon,10/17/2020,Joseph R. Biden Jr.,56.18808,57.1353
-2020,Oklahoma,10/17/2020,Joseph R. Biden Jr.,35.36227,36.1939
-2020,Ohio,10/17/2020,Joseph R. Biden Jr.,46.69654,46.91527
-2020,North Dakota,10/17/2020,Joseph R. Biden Jr.,36.47215,37.15935
-2020,North Carolina,10/17/2020,Joseph R. Biden Jr.,48.78773,49.03353
-2020,New York,10/17/2020,Joseph R. Biden Jr.,61.02781,62.50888
-2020,New Mexico,10/17/2020,Joseph R. Biden Jr.,52.87515,54.05318
-2020,New Jersey,10/17/2020,Joseph R. Biden Jr.,55.53653,56.23252
-2020,New Hampshire,10/17/2020,Joseph R. Biden Jr.,53.40059,53.66575
-2020,Nevada,10/17/2020,Joseph R. Biden Jr.,48.932,49.58139
-2020,Nebraska,10/17/2020,Joseph R. Biden Jr.,43.07634,43.83815
-2020,National,10/17/2020,Joseph R. Biden Jr.,52.32272,52.44144
-2020,NE-2,10/17/2020,Joseph R. Biden Jr.,49.47528,50.64753
-2020,NE-1,10/17/2020,Joseph R. Biden Jr.,44.51487,45.70056
-2020,Montana,10/17/2020,Joseph R. Biden Jr.,43.56667,43.85585
-2020,Missouri,10/17/2020,Joseph R. Biden Jr.,44.65326,44.9402
-2020,Mississippi,10/17/2020,Joseph R. Biden Jr.,39.22594,40.06802
-2020,Minnesota,10/17/2020,Joseph R. Biden Jr.,50.04955,50.65314
-2020,Michigan,10/17/2020,Joseph R. Biden Jr.,50.41938,50.63793
-2020,Massachusetts,10/17/2020,Joseph R. Biden Jr.,65.02616,66.42728
-2020,Maryland,10/17/2020,Joseph R. Biden Jr.,62.30954,63.041
-2020,Maine,10/17/2020,Joseph R. Biden Jr.,53.67459,54.20774
-2020,ME-2,10/17/2020,Joseph R. Biden Jr.,46.9153,47.354
-2020,ME-1,10/17/2020,Joseph R. Biden Jr.,57.8957,58.44069
-2020,Louisiana,10/17/2020,Joseph R. Biden Jr.,38.44757,39.10545
-2020,Kentucky,10/17/2020,Joseph R. Biden Jr.,37.92353,38.90811
-2020,Kansas,10/17/2020,Joseph R. Biden Jr.,42.4644,43.42735
-2020,Iowa,10/17/2020,Joseph R. Biden Jr.,47.44794,47.73543
-2020,Indiana,10/17/2020,Joseph R. Biden Jr.,40.71486,41.4747
-2020,Illinois,10/17/2020,Joseph R. Biden Jr.,55.577,56.50441
-2020,Idaho,10/17/2020,Joseph R. Biden Jr.,36.35061,37.08841
-2020,Hawaii,10/17/2020,Joseph R. Biden Jr.,62.10911,63.03058
-2020,Georgia,10/17/2020,Joseph R. Biden Jr.,47.63821,47.8827
-2020,Florida,10/17/2020,Joseph R. Biden Jr.,48.79801,49.05997
-2020,District of Columbia,10/17/2020,Joseph R. Biden Jr.,86.6968,87.07522
-2020,Delaware,10/17/2020,Joseph R. Biden Jr.,58.90482,59.82909
-2020,Connecticut,10/17/2020,Joseph R. Biden Jr.,57.00566,59.20293
-2020,Colorado,10/17/2020,Joseph R. Biden Jr.,52.88117,53.15157
-2020,California,10/17/2020,Joseph R. Biden Jr.,61.24184,62.13691
-2020,Arkansas,10/17/2020,Joseph R. Biden Jr.,39.46544,40.35984
-2020,Arizona,10/17/2020,Joseph R. Biden Jr.,48.65987,48.99961
-2020,Alaska,10/17/2020,Joseph R. Biden Jr.,43.34333,44.00166
-2020,Alabama,10/17/2020,Joseph R. Biden Jr.,38.12991,38.78856
-2020,Wyoming,10/17/2020,Donald Trump,65.02543,65.00404
-2020,Wisconsin,10/17/2020,Donald Trump,43.24913,43.12268
-2020,West Virginia,10/17/2020,Donald Trump,58.94228,58.93922
-2020,Washington,10/17/2020,Donald Trump,34.55924,34.1971
-2020,Virginia,10/17/2020,Donald Trump,40.40522,40.11212
-2020,Vermont,10/17/2020,Donald Trump,29.78764,29.57438
-2020,Utah,10/17/2020,Donald Trump,51.49651,51.23355
-2020,Texas,10/17/2020,Donald Trump,48.68647,48.52891
-2020,Tennessee,10/17/2020,Donald Trump,54.95687,54.42069
-2020,South Dakota,10/17/2020,Donald Trump,54.39957,54.42345
-2020,South Carolina,10/17/2020,Donald Trump,50.81066,50.62634
-2020,Rhode Island,10/17/2020,Donald Trump,32.39079,32.31424
-2020,Pennsylvania,10/17/2020,Donald Trump,44.08606,43.95515
-2020,Oregon,10/17/2020,Donald Trump,37.662,37.34249
-2020,Oklahoma,10/17/2020,Donald Trump,57.68932,57.55014
-2020,Ohio,10/17/2020,Donald Trump,47.18507,47.06105
-2020,North Dakota,10/17/2020,Donald Trump,57.08339,56.86212
-2020,North Carolina,10/17/2020,Donald Trump,45.99561,45.87368
-2020,New York,10/17/2020,Donald Trump,31.85229,31.42641
-2020,New Mexico,10/17/2020,Donald Trump,40.70673,40.34483
-2020,New Jersey,10/17/2020,Donald Trump,36.65371,36.35294
-2020,New Hampshire,10/17/2020,Donald Trump,42.45262,42.22594
-2020,Nevada,10/17/2020,Donald Trump,43.50728,43.16898
-2020,Nebraska,10/17/2020,Donald Trump,51.06791,51.07661
-2020,National,10/17/2020,Donald Trump,41.84925,41.79308
-2020,NE-2,10/17/2020,Donald Trump,43.33115,43.05189
-2020,NE-1,10/17/2020,Donald Trump,49.44374,49.78552
-2020,Montana,10/17/2020,Donald Trump,52.1689,52.02909
-2020,Missouri,10/17/2020,Donald Trump,51.21581,51.13963
-2020,Mississippi,10/17/2020,Donald Trump,53.8921,53.69593
-2020,Minnesota,10/17/2020,Donald Trump,42.03922,41.70194
-2020,Michigan,10/17/2020,Donald Trump,42.90272,42.78802
-2020,Massachusetts,10/17/2020,Donald Trump,28.45688,28.18423
-2020,Maryland,10/17/2020,Donald Trump,30.65346,30.412
-2020,Maine,10/17/2020,Donald Trump,39.54446,39.2349
-2020,ME-2,10/17/2020,Donald Trump,45.11914,44.90115
-2020,ME-1,10/17/2020,Donald Trump,34.05162,33.73069
-2020,Louisiana,10/17/2020,Donald Trump,53.68715,53.5848
-2020,Kentucky,10/17/2020,Donald Trump,56.66479,56.64433
-2020,Kansas,10/17/2020,Donald Trump,50.34808,50.09327
-2020,Iowa,10/17/2020,Donald Trump,47.67513,47.49222
-2020,Indiana,10/17/2020,Donald Trump,51.45089,51.31707
-2020,Illinois,10/17/2020,Donald Trump,38.08377,37.7794
-2020,Idaho,10/17/2020,Donald Trump,58.17529,58.04166
-2020,Hawaii,10/17/2020,Donald Trump,30.30439,30.19387
-2020,Georgia,10/17/2020,Donald Trump,46.68712,46.58376
-2020,Florida,10/17/2020,Donald Trump,45.18357,45.09325
-2020,District of Columbia,10/17/2020,Donald Trump,9.0558,9.021019
-2020,Delaware,10/17/2020,Donald Trump,33.36154,33.01804
-2020,Connecticut,10/17/2020,Donald Trump,33.75848,33.09452
-2020,Colorado,10/17/2020,Donald Trump,40.09903,39.92944
-2020,California,10/17/2020,Donald Trump,31.49282,31.19232
-2020,Arkansas,10/17/2020,Donald Trump,54.02154,54.23407
-2020,Arizona,10/17/2020,Donald Trump,45.30962,45.17857
-2020,Alaska,10/17/2020,Donald Trump,48.77525,48.79073
-2020,Alabama,10/17/2020,Donald Trump,56.49918,56.44177
-2020,Wyoming,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.76915,40.66006
-2020,Wisconsin,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.19642,40.25147
-2020,West Virginia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.37231,40.4171
-2020,Washington,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.43404,40.28611
-2020,Virginia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.23439,40.57485
-2020,Vermont,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.15249,40.34504
-2020,Utah,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.5256,40.31218
-2020,Texas,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.71323,40.01591
-2020,Tennessee,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.45909,40.45108
-2020,South Dakota,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.65615,40.57394
-2020,South Carolina,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.89462,39.74057
-2020,Rhode Island,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.6769,40.60099
-2020,Pennsylvania,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.00043,40.12307
-2020,Oregon,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.81773,40.3793
-2020,Oklahoma,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.80258,40.24438
-2020,Ohio,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.05444,40.21352
-2020,North Dakota,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.51051,39.98518
-2020,North Carolina,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.00639,39.99137
-2020,New York,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.40044,41.62931
-2020,New Mexico,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.78153,40.84321
-2020,New Jersey,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.73507,40.30472
-2020,New Hampshire,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.05297,40.09355
-2020,Nevada,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.20025,40.1037
-2020,Nebraska,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.69918,40.60847
-2020,National,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.25996,40.45444
-2020,NE-2,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.0969,39.17381
-2020,NE-1,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,38.56529,38.85478
-2020,Montana,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.36878,40.08546
-2020,Missouri,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.15804,40.19518
-2020,Mississippi,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.77549,41.08827
-2020,Minnesota,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.07901,40.19572
-2020,Michigan,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.01251,40.05249
-2020,Massachusetts,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.14961,41.02694
-2020,Maryland,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.63805,40.46122
-2020,Maine,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.44093,39.82014
-2020,ME-2,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.76406,39.89699
-2020,ME-1,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.75981,39.88555
-2020,Louisiana,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.13439,40.33554
-2020,Kentucky,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.11122,39.72685
-2020,Kansas,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.29794,39.94899
-2020,Iowa,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.87011,39.89917
-2020,Indiana,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.59631,40.24755
-2020,Illinois,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.30217,40.35271
-2020,Idaho,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.44791,41.25919
-2020,Hawaii,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.44025,40.59534
-2020,Georgia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.94395,40.04214
-2020,Florida,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.12939,40.2093
-2020,District of Columbia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.68919,40.69819
-2020,Delaware,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.48755,41.50597
-2020,Connecticut,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.34056,40.52726
-2020,Colorado,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.11919,40.33321
-2020,California,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.51727,40.62056
-2020,Arkansas,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.48722,40.47768
-2020,Arizona,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.16162,40.34207
-2020,Alaska,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.04385,40.06605
-2020,Alabama,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.63968,40.33133
-2020,Wyoming,10/17/2020,Convention Bounce for Donald Trump,41.03193,40.51081
-2020,Wisconsin,10/17/2020,Convention Bounce for Donald Trump,40.30467,39.82816
-2020,West Virginia,10/17/2020,Convention Bounce for Donald Trump,40.49452,40.22237
-2020,Washington,10/17/2020,Convention Bounce for Donald Trump,40.88078,39.94987
-2020,Virginia,10/17/2020,Convention Bounce for Donald Trump,41.59193,40.29448
-2020,Vermont,10/17/2020,Convention Bounce for Donald Trump,42.20488,40.20751
-2020,Utah,10/17/2020,Convention Bounce for Donald Trump,41.12257,40.14017
-2020,Texas,10/17/2020,Convention Bounce for Donald Trump,40.35455,40.06181
-2020,Tennessee,10/17/2020,Convention Bounce for Donald Trump,40.70014,40.35703
-2020,South Dakota,10/17/2020,Convention Bounce for Donald Trump,40.9221,40.4308
-2020,South Carolina,10/17/2020,Convention Bounce for Donald Trump,40.80066,39.9179
-2020,Rhode Island,10/17/2020,Convention Bounce for Donald Trump,40.97396,40.09033
-2020,Pennsylvania,10/17/2020,Convention Bounce for Donald Trump,40.02929,39.63807
-2020,Oregon,10/17/2020,Convention Bounce for Donald Trump,41.74274,40.10027
-2020,Oklahoma,10/17/2020,Convention Bounce for Donald Trump,41.88594,40.54319
-2020,Ohio,10/17/2020,Convention Bounce for Donald Trump,40.32097,40.01982
-2020,North Dakota,10/17/2020,Convention Bounce for Donald Trump,41.2492,39.84919
-2020,North Carolina,10/17/2020,Convention Bounce for Donald Trump,40.255,39.73082
-2020,New York,10/17/2020,Convention Bounce for Donald Trump,40.43233,39.24426
-2020,New Mexico,10/17/2020,Convention Bounce for Donald Trump,42.61716,40.83368
-2020,New Jersey,10/17/2020,Convention Bounce for Donald Trump,41.38623,40.15943
-2020,New Hampshire,10/17/2020,Convention Bounce for Donald Trump,40.21518,39.57104
-2020,Nevada,10/17/2020,Convention Bounce for Donald Trump,40.73877,39.55062
-2020,Nebraska,10/17/2020,Convention Bounce for Donald Trump,40.98431,40.38978
-2020,National,10/17/2020,Convention Bounce for Donald Trump,39.71635,39.71168
-2020,NE-2,10/17/2020,Convention Bounce for Donald Trump,41.12374,40.15431
-2020,NE-1,10/17/2020,Convention Bounce for Donald Trump,41.45686,41.47994
-2020,Montana,10/17/2020,Convention Bounce for Donald Trump,41.28462,40.34526
-2020,Missouri,10/17/2020,Convention Bounce for Donald Trump,40.62725,40.23473
-2020,Mississippi,10/17/2020,Convention Bounce for Donald Trump,43.14604,42.01481
-2020,Minnesota,10/17/2020,Convention Bounce for Donald Trump,42.38132,40.35536
-2020,Michigan,10/17/2020,Convention Bounce for Donald Trump,40.24583,39.77455
-2020,Massachusetts,10/17/2020,Convention Bounce for Donald Trump,41.62527,40.0165
-2020,Maryland,10/17/2020,Convention Bounce for Donald Trump,41.32294,40.40766
-2020,Maine,10/17/2020,Convention Bounce for Donald Trump,41.5703,39.69591
-2020,ME-2,10/17/2020,Convention Bounce for Donald Trump,41.91649,39.90884
-2020,ME-1,10/17/2020,Convention Bounce for Donald Trump,41.90113,39.66471
-2020,Louisiana,10/17/2020,Convention Bounce for Donald Trump,42.16623,41.02673
-2020,Kentucky,10/17/2020,Convention Bounce for Donald Trump,41.24722,40.13945
-2020,Kansas,10/17/2020,Convention Bounce for Donald Trump,40.87878,39.85204
-2020,Iowa,10/17/2020,Convention Bounce for Donald Trump,40.63607,40.0727
-2020,Indiana,10/17/2020,Convention Bounce for Donald Trump,41.38007,40.45493
-2020,Illinois,10/17/2020,Convention Bounce for Donald Trump,40.52679,39.44106
-2020,Idaho,10/17/2020,Convention Bounce for Donald Trump,43.85013,41.78595
-2020,Hawaii,10/17/2020,Convention Bounce for Donald Trump,40.67124,40.21822
-2020,Georgia,10/17/2020,Convention Bounce for Donald Trump,40.24843,39.84904
-2020,Florida,10/17/2020,Convention Bounce for Donald Trump,40.00024,39.58363
-2020,District of Columbia,10/17/2020,Convention Bounce for Donald Trump,40.96542,40.50175
-2020,Delaware,10/17/2020,Convention Bounce for Donald Trump,40.32997,38.73416
-2020,Connecticut,10/17/2020,Convention Bounce for Donald Trump,40.45972,40.02729
-2020,Colorado,10/17/2020,Convention Bounce for Donald Trump,40.14714,39.87053
-2020,California,10/17/2020,Convention Bounce for Donald Trump,41.92525,39.86199
-2020,Arkansas,10/17/2020,Convention Bounce for Donald Trump,40.66162,40.30569
-2020,Arizona,10/17/2020,Convention Bounce for Donald Trump,40.35775,39.96056
-2020,Alaska,10/17/2020,Convention Bounce for Donald Trump,40.57746,40.14877
-2020,Alabama,10/17/2020,Convention Bounce for Donald Trump,40.54659,40.1833
+2020,Wyoming,10/25/2020,Joseph R. Biden Jr.,28.75015,29.05787
+2020,Wisconsin,10/25/2020,Joseph R. Biden Jr.,50.8195,50.75669
+2020,West Virginia,10/25/2020,Joseph R. Biden Jr.,35.70656,35.87619
+2020,Washington,10/25/2020,Joseph R. Biden Jr.,58.38919,58.98217
+2020,Virginia,10/25/2020,Joseph R. Biden Jr.,52.54468,52.58944
+2020,Vermont,10/25/2020,Joseph R. Biden Jr.,63.10631,63.60833
+2020,Utah,10/25/2020,Joseph R. Biden Jr.,39.86383,40.31149
+2020,Texas,10/25/2020,Joseph R. Biden Jr.,47.43749,47.48992
+2020,Tennessee,10/25/2020,Joseph R. Biden Jr.,39.93411,41.08655
+2020,South Dakota,10/25/2020,Joseph R. Biden Jr.,39.95718,40.1249
+2020,South Carolina,10/25/2020,Joseph R. Biden Jr.,43.24501,43.51212
+2020,Rhode Island,10/25/2020,Joseph R. Biden Jr.,64.56105,65.15588
+2020,Pennsylvania,10/25/2020,Joseph R. Biden Jr.,50.43783,50.40292
+2020,Oregon,10/25/2020,Joseph R. Biden Jr.,56.89462,57.46679
+2020,Oklahoma,10/25/2020,Joseph R. Biden Jr.,35.96694,36.37001
+2020,Ohio,10/25/2020,Joseph R. Biden Jr.,46.42399,46.46315
+2020,North Dakota,10/25/2020,Joseph R. Biden Jr.,37.4267,37.96553
+2020,North Carolina,10/25/2020,Joseph R. Biden Jr.,49.40398,49.37536
+2020,New York,10/25/2020,Joseph R. Biden Jr.,61.31207,62.38163
+2020,New Mexico,10/25/2020,Joseph R. Biden Jr.,52.77735,53.28148
+2020,New Jersey,10/25/2020,Joseph R. Biden Jr.,55.93444,56.30457
+2020,New Hampshire,10/25/2020,Joseph R. Biden Jr.,53.42147,53.59809
+2020,Nevada,10/25/2020,Joseph R. Biden Jr.,49.91933,50.17095
+2020,Nebraska,10/25/2020,Joseph R. Biden Jr.,43.7412,44.16998
+2020,National,10/25/2020,Joseph R. Biden Jr.,52.03536,52.00879
+2020,NE-2,10/25/2020,Joseph R. Biden Jr.,49.4856,50.47551
+2020,NE-1,10/25/2020,Joseph R. Biden Jr.,44.53462,45.63546
+2020,Montana,10/25/2020,Joseph R. Biden Jr.,44.09071,44.11297
+2020,Missouri,10/25/2020,Joseph R. Biden Jr.,44.55666,44.71225
+2020,Mississippi,10/25/2020,Joseph R. Biden Jr.,38.61592,39.29325
+2020,Minnesota,10/25/2020,Joseph R. Biden Jr.,50.57419,50.59633
+2020,Michigan,10/25/2020,Joseph R. Biden Jr.,50.603,50.55128
+2020,Massachusetts,10/25/2020,Joseph R. Biden Jr.,65.92402,67.01357
+2020,Maryland,10/25/2020,Joseph R. Biden Jr.,62.05597,62.51162
+2020,Maine,10/25/2020,Joseph R. Biden Jr.,53.48011,53.9052
+2020,ME-2,10/25/2020,Joseph R. Biden Jr.,46.92224,47.40342
+2020,ME-1,10/25/2020,Joseph R. Biden Jr.,57.8969,58.45369
+2020,Louisiana,10/25/2020,Joseph R. Biden Jr.,37.90145,38.37326
+2020,Kentucky,10/25/2020,Joseph R. Biden Jr.,38.40096,39.03718
+2020,Kansas,10/25/2020,Joseph R. Biden Jr.,41.75681,41.98828
+2020,Iowa,10/25/2020,Joseph R. Biden Jr.,47.50303,47.52744
+2020,Indiana,10/25/2020,Joseph R. Biden Jr.,40.8608,41.42867
+2020,Illinois,10/25/2020,Joseph R. Biden Jr.,55.07557,55.60978
+2020,Idaho,10/25/2020,Joseph R. Biden Jr.,37.1803,37.67707
+2020,Hawaii,10/25/2020,Joseph R. Biden Jr.,61.7841,62.25869
+2020,Georgia,10/25/2020,Joseph R. Biden Jr.,47.66618,47.63775
+2020,Florida,10/25/2020,Joseph R. Biden Jr.,49.16035,49.09627
+2020,District of Columbia,10/25/2020,Joseph R. Biden Jr.,87.43924,87.63697
+2020,Delaware,10/25/2020,Joseph R. Biden Jr.,57.95073,58.60271
+2020,Connecticut,10/25/2020,Joseph R. Biden Jr.,57.73006,59.34531
+2020,Colorado,10/25/2020,Joseph R. Biden Jr.,53.4382,53.4898
+2020,California,10/25/2020,Joseph R. Biden Jr.,60.45119,60.84735
+2020,Arkansas,10/25/2020,Joseph R. Biden Jr.,36.97858,37.35392
+2020,Arizona,10/25/2020,Joseph R. Biden Jr.,48.70148,48.66019
+2020,Alaska,10/25/2020,Joseph R. Biden Jr.,43.32723,43.45828
+2020,Alabama,10/25/2020,Joseph R. Biden Jr.,38.1097,38.50875
+2020,Wyoming,10/25/2020,Donald Trump,65.79272,65.98846
+2020,Wisconsin,10/25/2020,Donald Trump,43.94266,44.14238
+2020,West Virginia,10/25/2020,Donald Trump,59.34,59.56606
+2020,Washington,10/25/2020,Donald Trump,35.06504,35.37245
+2020,Virginia,10/25/2020,Donald Trump,40.94133,41.15731
+2020,Vermont,10/25/2020,Donald Trump,29.39914,29.60428
+2020,Utah,10/25/2020,Donald Trump,50.62055,50.87462
+2020,Texas,10/25/2020,Donald Trump,47.3931,47.5813
+2020,Tennessee,10/25/2020,Donald Trump,54.41113,54.30996
+2020,South Dakota,10/25/2020,Donald Trump,52.54628,52.70454
+2020,South Carolina,10/25/2020,Donald Trump,50.80905,50.95206
+2020,Rhode Island,10/25/2020,Donald Trump,30.5793,31.12106
+2020,Pennsylvania,10/25/2020,Donald Trump,44.47034,44.66193
+2020,Oregon,10/25/2020,Donald Trump,37.48628,37.80215
+2020,Oklahoma,10/25/2020,Donald Trump,58.15686,58.27877
+2020,Ohio,10/25/2020,Donald Trump,47.75123,47.90654
+2020,North Dakota,10/25/2020,Donald Trump,56.42834,56.42963
+2020,North Carolina,10/25/2020,Donald Trump,46.32233,46.49508
+2020,New York,10/25/2020,Donald Trump,31.59728,31.6316
+2020,New Mexico,10/25/2020,Donald Trump,40.92027,41.24584
+2020,New Jersey,10/25/2020,Donald Trump,36.25295,36.55239
+2020,New Hampshire,10/25/2020,Donald Trump,42.17307,42.38456
+2020,Nevada,10/25/2020,Donald Trump,43.36937,43.59688
+2020,Nebraska,10/25/2020,Donald Trump,50.26812,50.60061
+2020,National,10/25/2020,Donald Trump,42.72324,42.88033
+2020,NE-2,10/25/2020,Donald Trump,43.35145,43.70176
+2020,NE-1,10/25/2020,Donald Trump,49.4463,50.19301
+2020,Montana,10/25/2020,Donald Trump,50.8176,50.91447
+2020,Missouri,10/25/2020,Donald Trump,50.94955,51.21265
+2020,Mississippi,10/25/2020,Donald Trump,54.98618,55.04546
+2020,Minnesota,10/25/2020,Donald Trump,42.47194,42.649
+2020,Michigan,10/25/2020,Donald Trump,42.77364,42.95723
+2020,Massachusetts,10/25/2020,Donald Trump,28.40592,28.5927
+2020,Maryland,10/25/2020,Donald Trump,30.84455,31.09171
+2020,Maine,10/25/2020,Donald Trump,39.66656,39.81154
+2020,ME-2,10/25/2020,Donald Trump,45.1324,45.27149
+2020,ME-1,10/25/2020,Donald Trump,34.0588,34.18593
+2020,Louisiana,10/25/2020,Donald Trump,54.19671,54.48906
+2020,Kentucky,10/25/2020,Donald Trump,56.36015,56.62099
+2020,Kansas,10/25/2020,Donald Trump,51.18341,51.21272
+2020,Iowa,10/25/2020,Donald Trump,46.13499,46.27689
+2020,Indiana,10/25/2020,Donald Trump,51.28091,51.51339
+2020,Illinois,10/25/2020,Donald Trump,38.82875,39.17045
+2020,Idaho,10/25/2020,Donald Trump,57.2988,57.49055
+2020,Hawaii,10/25/2020,Donald Trump,30.64571,31.1226
+2020,Georgia,10/25/2020,Donald Trump,47.0548,47.20893
+2020,Florida,10/25/2020,Donald Trump,46.40206,46.6423
+2020,District of Columbia,10/25/2020,Donald Trump,8.256465,8.382542
+2020,Delaware,10/25/2020,Donald Trump,34.06901,34.22232
+2020,Connecticut,10/25/2020,Donald Trump,33.68662,33.69035
+2020,Colorado,10/25/2020,Donald Trump,39.70572,40.01083
+2020,California,10/25/2020,Donald Trump,31.50512,31.70142
+2020,Arkansas,10/25/2020,Donald Trump,56.19689,56.59906
+2020,Arizona,10/25/2020,Donald Trump,45.8044,46.04098
+2020,Alaska,10/25/2020,Donald Trump,49.32181,49.44971
+2020,Alabama,10/25/2020,Donald Trump,56.44005,56.63197
+2020,Wyoming,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.35516,40.33922
+2020,Wisconsin,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.20342,40.41792
+2020,West Virginia,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.94747,40.16741
+2020,Washington,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.30456,40.2259
+2020,Virginia,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.13279,40.33321
+2020,Vermont,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.71178,40.16783
+2020,Utah,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.30497,40.24109
+2020,Texas,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.83543,40.12103
+2020,Tennessee,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.35202,40.37093
+2020,South Dakota,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.1278,40.2349
+2020,South Carolina,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.92523,39.842
+2020,Rhode Island,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.28331,40.39624
+2020,Pennsylvania,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.2699,40.4179
+2020,Oregon,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.31866,40.15901
+2020,Oklahoma,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.47821,40.2424
+2020,Ohio,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.93899,40.20407
+2020,North Dakota,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.29152,39.81276
+2020,North Carolina,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.2156,40.31104
+2020,New York,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,42.3747,41.54108
+2020,New Mexico,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.79923,40.32486
+2020,New Jersey,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.4282,40.31995
+2020,New Hampshire,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.00212,40.12813
+2020,Nevada,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.01365,40.21305
+2020,Nebraska,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.32377,40.33577
+2020,National,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.21888,40.22822
+2020,NE-2,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.07185,39.07977
+2020,NE-1,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,38.55664,38.78531
+2020,Montana,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.02957,40.19547
+2020,Missouri,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.24965,40.24466
+2020,Mississippi,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,41.73431,41.03756
+2020,Minnesota,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.82526,40.0409
+2020,Michigan,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.29763,40.44283
+2020,Massachusetts,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,42.11554,40.93952
+2020,Maryland,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.23796,40.24801
+2020,Maine,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.43997,39.97473
+2020,ME-2,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.73927,39.81996
+2020,ME-1,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.73643,39.80231
+2020,Louisiana,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.84404,40.32945
+2020,Kentucky,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.11262,39.77317
+2020,Kansas,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.02567,40.06234
+2020,Iowa,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.95665,40.15838
+2020,Indiana,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.51188,40.24054
+2020,Illinois,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.81337,40.04996
+2020,Idaho,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,41.77055,40.86457
+2020,Hawaii,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.1871,40.40382
+2020,Georgia,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.16573,40.26287
+2020,Florida,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.45244,40.56623
+2020,District of Columbia,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.3013,40.36463
+2020,Delaware,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,41.96914,41.15377
+2020,Connecticut,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.27888,40.4194
+2020,Colorado,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.03689,40.29571
+2020,California,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,41.00139,40.4241
+2020,Arkansas,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.18358,40.26787
+2020,Arizona,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.51135,40.62262
+2020,Alaska,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,39.68923,39.79446
+2020,Alabama,10/25/2020,Convention Bounce for Joseph R. Biden Jr.,40.75536,40.56718
+2020,Wyoming,10/25/2020,Convention Bounce for Donald Trump,40.58245,40.45187
+2020,Wisconsin,10/25/2020,Convention Bounce for Donald Trump,39.83169,40.41577
+2020,West Virginia,10/25/2020,Convention Bounce for Donald Trump,40.03634,40.18773
+2020,Washington,10/25/2020,Convention Bounce for Donald Trump,40.66948,40.60663
+2020,Virginia,10/25/2020,Convention Bounce for Donald Trump,39.97083,40.28003
+2020,Vermont,10/25/2020,Convention Bounce for Donald Trump,41.557,40.31711
+2020,Utah,10/25/2020,Convention Bounce for Donald Trump,40.63953,40.45431
+2020,Texas,10/25/2020,Convention Bounce for Donald Trump,39.99152,40.37777
+2020,Tennessee,10/25/2020,Convention Bounce for Donald Trump,40.51099,40.55611
+2020,South Dakota,10/25/2020,Convention Bounce for Donald Trump,40.23228,40.31021
+2020,South Carolina,10/25/2020,Convention Bounce for Donald Trump,40.72047,40.29473
+2020,Rhode Island,10/25/2020,Convention Bounce for Donald Trump,40.52621,40.62069
+2020,Pennsylvania,10/25/2020,Convention Bounce for Donald Trump,40.07228,40.47463
+2020,Oregon,10/25/2020,Convention Bounce for Donald Trump,40.921,40.21189
+2020,Oklahoma,10/25/2020,Convention Bounce for Donald Trump,40.79027,40.46881
+2020,Ohio,10/25/2020,Convention Bounce for Donald Trump,40.12904,40.40895
+2020,North Dakota,10/25/2020,Convention Bounce for Donald Trump,40.9795,39.88166
+2020,North Carolina,10/25/2020,Convention Bounce for Donald Trump,40.50142,40.69236
+2020,New York,10/25/2020,Convention Bounce for Donald Trump,40.35062,39.72461
+2020,New Mexico,10/25/2020,Convention Bounce for Donald Trump,41.88739,41.32968
+2020,New Jersey,10/25/2020,Convention Bounce for Donald Trump,40.88203,40.74328
+2020,New Hampshire,10/25/2020,Convention Bounce for Donald Trump,40.1871,40.08924
+2020,Nevada,10/25/2020,Convention Bounce for Donald Trump,40.23838,40.30287
+2020,Nebraska,10/25/2020,Convention Bounce for Donald Trump,40.56487,40.44474
+2020,National,10/25/2020,Convention Bounce for Donald Trump,40.64213,40.78885
+2020,NE-2,10/25/2020,Convention Bounce for Donald Trump,41.11472,40.66759
+2020,NE-1,10/25/2020,Convention Bounce for Donald Trump,41.443,41.69707
+2020,Montana,10/25/2020,Convention Bounce for Donald Trump,40.18216,40.37305
+2020,Missouri,10/25/2020,Convention Bounce for Donald Trump,40.6834,40.49638
+2020,Mississippi,10/25/2020,Convention Bounce for Donald Trump,42.96514,42.05415
+2020,Minnesota,10/25/2020,Convention Bounce for Donald Trump,40.08488,40.30931
+2020,Michigan,10/25/2020,Convention Bounce for Donald Trump,40.17211,40.5863
+2020,Massachusetts,10/25/2020,Convention Bounce for Donald Trump,41.58083,40.45341
+2020,Maryland,10/25/2020,Convention Bounce for Donald Trump,40.76349,40.63668
+2020,Maine,10/25/2020,Convention Bounce for Donald Trump,41.34853,40.15884
+2020,ME-2,10/25/2020,Convention Bounce for Donald Trump,41.90821,39.99159
+2020,ME-1,10/25/2020,Convention Bounce for Donald Trump,41.89457,39.86642
+2020,Louisiana,10/25/2020,Convention Bounce for Donald Trump,41.67759,41.06476
+2020,Kentucky,10/25/2020,Convention Bounce for Donald Trump,41.00074,40.27262
+2020,Kansas,10/25/2020,Convention Bounce for Donald Trump,40.3395,40.14793
+2020,Iowa,10/25/2020,Convention Bounce for Donald Trump,40.08613,40.27828
+2020,Indiana,10/25/2020,Convention Bounce for Donald Trump,41.24714,40.76911
+2020,Illinois,10/25/2020,Convention Bounce for Donald Trump,39.93203,39.64246
+2020,Idaho,10/25/2020,Convention Bounce for Donald Trump,42.92413,41.50474
+2020,Hawaii,10/25/2020,Convention Bounce for Donald Trump,40.31259,40.70092
+2020,Georgia,10/25/2020,Convention Bounce for Donald Trump,40.34616,40.529
+2020,Florida,10/25/2020,Convention Bounce for Donald Trump,39.99729,40.41946
+2020,District of Columbia,10/25/2020,Convention Bounce for Donald Trump,40.53625,40.52672
+2020,Delaware,10/25/2020,Convention Bounce for Donald Trump,40.21473,39.26485
+2020,Connecticut,10/25/2020,Convention Bounce for Donald Trump,40.42308,40.6823
+2020,Colorado,10/25/2020,Convention Bounce for Donald Trump,40.16581,40.54887
+2020,California,10/25/2020,Convention Bounce for Donald Trump,41.07746,40.2981
+2020,Arkansas,10/25/2020,Convention Bounce for Donald Trump,40.28947,40.43849
+2020,Arizona,10/25/2020,Convention Bounce for Donald Trump,40.32359,40.71483
+2020,Alaska,10/25/2020,Convention Bounce for Donald Trump,40.6735,40.66476
+2020,Alabama,10/25/2020,Convention Bounce for Donald Trump,40.15107,40.10694
+2020,Wyoming,10/24/2020,Joseph R. Biden Jr.,28.71517,29.00715
+2020,Wisconsin,10/24/2020,Joseph R. Biden Jr.,50.78376,50.71091
+2020,West Virginia,10/24/2020,Joseph R. Biden Jr.,35.67093,35.80322
+2020,Washington,10/24/2020,Joseph R. Biden Jr.,58.35138,58.95361
+2020,Virginia,10/24/2020,Joseph R. Biden Jr.,52.50671,52.53909
+2020,Vermont,10/24/2020,Joseph R. Biden Jr.,63.06882,63.54855
+2020,Utah,10/24/2020,Joseph R. Biden Jr.,39.82681,40.28989
+2020,Texas,10/24/2020,Joseph R. Biden Jr.,47.14655,47.22937
+2020,Tennessee,10/24/2020,Joseph R. Biden Jr.,39.89711,40.98438
+2020,South Dakota,10/24/2020,Joseph R. Biden Jr.,39.99259,40.33088
+2020,South Carolina,10/24/2020,Joseph R. Biden Jr.,43.20707,43.41114
+2020,Rhode Island,10/24/2020,Joseph R. Biden Jr.,64.52361,65.11182
+2020,Pennsylvania,10/24/2020,Joseph R. Biden Jr.,50.4008,50.36401
+2020,Oregon,10/24/2020,Joseph R. Biden Jr.,56.85591,57.42024
+2020,Oklahoma,10/24/2020,Joseph R. Biden Jr.,35.93108,36.30117
+2020,Ohio,10/24/2020,Joseph R. Biden Jr.,46.3857,46.41082
+2020,North Dakota,10/24/2020,Joseph R. Biden Jr.,37.3901,37.89354
+2020,North Carolina,10/24/2020,Joseph R. Biden Jr.,48.94668,48.91462
+2020,New York,10/24/2020,Joseph R. Biden Jr.,61.27451,62.3474
+2020,New Mexico,10/24/2020,Joseph R. Biden Jr.,52.73941,53.25801
+2020,New Jersey,10/24/2020,Joseph R. Biden Jr.,55.8968,56.2718
+2020,New Hampshire,10/24/2020,Joseph R. Biden Jr.,53.38368,53.53326
+2020,Nevada,10/24/2020,Joseph R. Biden Jr.,49.88288,50.15725
+2020,Nebraska,10/24/2020,Joseph R. Biden Jr.,43.70195,44.10284
+2020,National,10/24/2020,Joseph R. Biden Jr.,51.9935,51.95222
+2020,NE-2,10/24/2020,Joseph R. Biden Jr.,49.44773,50.43452
+2020,NE-1,10/24/2020,Joseph R. Biden Jr.,44.49759,45.57355
+2020,Montana,10/24/2020,Joseph R. Biden Jr.,44.05264,44.06415
+2020,Missouri,10/24/2020,Joseph R. Biden Jr.,44.52113,44.63677
+2020,Mississippi,10/24/2020,Joseph R. Biden Jr.,38.57917,39.1967
+2020,Minnesota,10/24/2020,Joseph R. Biden Jr.,50.53547,50.55622
+2020,Michigan,10/24/2020,Joseph R. Biden Jr.,50.11415,50.11514
+2020,Massachusetts,10/24/2020,Joseph R. Biden Jr.,65.88766,66.97285
+2020,Maryland,10/24/2020,Joseph R. Biden Jr.,62.01889,62.47697
+2020,Maine,10/24/2020,Joseph R. Biden Jr.,53.44187,53.82893
+2020,ME-2,10/24/2020,Joseph R. Biden Jr.,46.88446,47.3269
+2020,ME-1,10/24/2020,Joseph R. Biden Jr.,57.85981,58.38937
+2020,Louisiana,10/24/2020,Joseph R. Biden Jr.,37.86088,38.26244
+2020,Kentucky,10/24/2020,Joseph R. Biden Jr.,38.36395,38.94965
+2020,Kansas,10/24/2020,Joseph R. Biden Jr.,41.71851,41.94271
+2020,Iowa,10/24/2020,Joseph R. Biden Jr.,47.46607,47.47953
+2020,Indiana,10/24/2020,Joseph R. Biden Jr.,40.82298,41.35239
+2020,Illinois,10/24/2020,Joseph R. Biden Jr.,55.03736,55.56807
+2020,Idaho,10/24/2020,Joseph R. Biden Jr.,37.14325,37.61126
+2020,Hawaii,10/24/2020,Joseph R. Biden Jr.,61.74657,62.23868
+2020,Georgia,10/24/2020,Joseph R. Biden Jr.,47.13574,47.10436
+2020,Florida,10/24/2020,Joseph R. Biden Jr.,48.84332,48.84657
+2020,District of Columbia,10/24/2020,Joseph R. Biden Jr.,87.41475,87.61234
+2020,Delaware,10/24/2020,Joseph R. Biden Jr.,57.91242,58.54423
+2020,Connecticut,10/24/2020,Joseph R. Biden Jr.,57.69066,59.30877
+2020,Colorado,10/24/2020,Joseph R. Biden Jr.,53.40152,53.46754
+2020,California,10/24/2020,Joseph R. Biden Jr.,60.414,60.83049
+2020,Arkansas,10/24/2020,Joseph R. Biden Jr.,36.9426,37.26292
+2020,Arizona,10/24/2020,Joseph R. Biden Jr.,48.66741,48.69667
+2020,Alaska,10/24/2020,Joseph R. Biden Jr.,43.28901,43.40443
+2020,Alabama,10/24/2020,Joseph R. Biden Jr.,38.07325,38.42048
+2020,Wyoming,10/24/2020,Donald Trump,65.8018,65.95076
+2020,Wisconsin,10/24/2020,Donald Trump,43.94586,44.09069
+2020,West Virginia,10/24/2020,Donald Trump,59.34413,59.51926
+2020,Washington,10/24/2020,Donald Trump,35.06848,35.30217
+2020,Virginia,10/24/2020,Donald Trump,40.94364,41.10163
+2020,Vermont,10/24/2020,Donald Trump,29.40526,29.55066
+2020,Utah,10/24/2020,Donald Trump,50.62344,50.81715
+2020,Texas,10/24/2020,Donald Trump,47.58155,47.7373
+2020,Tennessee,10/24/2020,Donald Trump,54.41792,54.24982
+2020,South Dakota,10/24/2020,Donald Trump,53.8819,54.07592
+2020,South Carolina,10/24/2020,Donald Trump,50.81366,50.89338
+2020,Rhode Island,10/24/2020,Donald Trump,30.58805,31.05347
+2020,Pennsylvania,10/24/2020,Donald Trump,44.473,44.61643
+2020,Oregon,10/24/2020,Donald Trump,37.49136,37.71993
+2020,Oklahoma,10/24/2020,Donald Trump,58.16023,58.22863
+2020,Ohio,10/24/2020,Donald Trump,47.75433,47.84795
+2020,North Dakota,10/24/2020,Donald Trump,56.4338,56.38245
+2020,North Carolina,10/24/2020,Donald Trump,46.20702,46.34689
+2020,New York,10/24/2020,Donald Trump,31.60312,31.58516
+2020,New Mexico,10/24/2020,Donald Trump,40.92383,41.15014
+2020,New Jersey,10/24/2020,Donald Trump,36.25588,36.50589
+2020,New Hampshire,10/24/2020,Donald Trump,42.17609,42.31897
+2020,Nevada,10/24/2020,Donald Trump,43.37368,43.52169
+2020,Nebraska,10/24/2020,Donald Trump,50.27784,50.55095
+2020,National,10/24/2020,Donald Trump,42.63977,42.7762
+2020,NE-2,10/24/2020,Donald Trump,43.35284,43.6318
+2020,NE-1,10/24/2020,Donald Trump,49.44791,50.13332
+2020,Montana,10/24/2020,Donald Trump,50.8201,50.86362
+2020,Missouri,10/24/2020,Donald Trump,50.95425,51.14987
+2020,Mississippi,10/24/2020,Donald Trump,54.99056,54.99087
+2020,Minnesota,10/24/2020,Donald Trump,42.47509,42.59387
+2020,Michigan,10/24/2020,Donald Trump,42.59593,42.71065
+2020,Massachusetts,10/24/2020,Donald Trump,28.41283,28.54115
+2020,Maryland,10/24/2020,Donald Trump,30.84857,31.05244
+2020,Maine,10/24/2020,Donald Trump,39.67044,39.74754
+2020,ME-2,10/24/2020,Donald Trump,45.13405,45.2106
+2020,ME-1,10/24/2020,Donald Trump,34.06056,34.12401
+2020,Louisiana,10/24/2020,Donald Trump,54.21372,54.43228
+2020,Kentucky,10/24/2020,Donald Trump,56.36289,56.56589
+2020,Kansas,10/24/2020,Donald Trump,51.18674,51.16304
+2020,Iowa,10/24/2020,Donald Trump,46.13713,46.22414
+2020,Indiana,10/24/2020,Donald Trump,51.28473,51.4455
+2020,Illinois,10/24/2020,Donald Trump,38.83341,39.10277
+2020,Idaho,10/24/2020,Donald Trump,57.3058,57.42588
+2020,Hawaii,10/24/2020,Donald Trump,30.65376,31.05043
+2020,Georgia,10/24/2020,Donald Trump,46.63578,46.75725
+2020,Florida,10/24/2020,Donald Trump,46.21202,46.42041
+2020,District of Columbia,10/24/2020,Donald Trump,8.261457,8.369322
+2020,Delaware,10/24/2020,Donald Trump,34.07416,34.16426
+2020,Connecticut,10/24/2020,Donald Trump,33.69543,33.63828
+2020,Colorado,10/24/2020,Donald Trump,39.70971,39.9413
+2020,California,10/24/2020,Donald Trump,31.50685,31.64109
+2020,Arkansas,10/24/2020,Donald Trump,56.20042,56.54196
+2020,Arizona,10/24/2020,Donald Trump,45.49548,45.66582
+2020,Alaska,10/24/2020,Donald Trump,49.32585,49.40025
+2020,Alabama,10/24/2020,Donald Trump,56.44598,56.58099
+2020,Wyoming,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.17369,40.19083
+2020,Wisconsin,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.02061,40.26793
+2020,West Virginia,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.7653,39.98455
+2020,Washington,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.12175,40.177
+2020,Virginia,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.95012,40.2254
+2020,Vermont,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.52948,40.04767
+2020,Utah,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.12229,40.1317
+2020,Texas,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.6375,39.97748
+2020,Tennessee,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.16949,40.21497
+2020,South Dakota,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.11065,40.14193
+2020,South Carolina,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.74277,39.6517
+2020,Rhode Island,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.1019,40.34438
+2020,Pennsylvania,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.08707,40.27855
+2020,Oregon,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.1363,40.07342
+2020,Oklahoma,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.29544,40.0832
+2020,Ohio,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.75647,40.05305
+2020,North Dakota,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.10913,39.66368
+2020,North Carolina,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.79215,39.971
+2020,New York,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,42.19053,41.49662
+2020,New Mexico,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.61632,40.23392
+2020,New Jersey,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.24531,40.25676
+2020,New Hampshire,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.81962,40.00251
+2020,Nevada,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.8311,40.11136
+2020,Nebraska,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.14232,40.20105
+2020,National,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.22701,40.30437
+2020,NE-2,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,38.89015,39.01389
+2020,NE-1,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,38.37539,38.6597
+2020,Montana,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.84694,40.0273
+2020,Missouri,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.06699,40.09245
+2020,Mississippi,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,41.55097,40.86283
+2020,Minnesota,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.6429,39.92483
+2020,Michigan,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.7176,39.93633
+2020,Massachusetts,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,41.93171,40.87427
+2020,Maryland,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.05534,40.18554
+2020,Maine,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.25725,39.82968
+2020,ME-2,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.55591,39.65134
+2020,ME-1,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.55307,39.67951
+2020,Louisiana,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.66223,40.1552
+2020,Kentucky,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.92992,39.60784
+2020,Kansas,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.84312,39.92881
+2020,Iowa,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.77404,40.00913
+2020,Indiana,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.32905,40.0956
+2020,Illinois,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.63121,39.97499
+2020,Idaho,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,41.5877,40.70176
+2020,Hawaii,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.00484,40.35802
+2020,Georgia,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.73809,39.92139
+2020,Florida,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.86451,40.0766
+2020,District of Columbia,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.11988,40.25467
+2020,Delaware,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,41.78563,41.06235
+2020,Connecticut,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.09649,40.3828
+2020,Colorado,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.85432,40.22379
+2020,California,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.81808,40.32494
+2020,Arkansas,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.00115,40.10171
+2020,Arizona,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.85035,40.10489
+2020,Alaska,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,39.50708,39.64719
+2020,Alabama,10/24/2020,Convention Bounce for Joseph R. Biden Jr.,40.57236,40.3896
+2020,Wyoming,10/24/2020,Convention Bounce for Donald Trump,40.35057,40.2616
+2020,Wisconsin,10/24/2020,Convention Bounce for Donald Trump,39.59878,40.23099
+2020,West Virginia,10/24/2020,Convention Bounce for Donald Trump,39.80363,39.97371
+2020,Washington,10/24/2020,Convention Bounce for Donald Trump,40.43559,40.49912
+2020,Virginia,10/24/2020,Convention Bounce for Donald Trump,39.7378,40.12337
+2020,Vermont,10/24/2020,Convention Bounce for Donald Trump,41.32349,40.15602
+2020,Utah,10/24/2020,Convention Bounce for Donald Trump,40.4059,40.30217
+2020,Texas,10/24/2020,Convention Bounce for Donald Trump,39.88481,40.32306
+2020,Tennessee,10/24/2020,Convention Bounce for Donald Trump,40.27774,40.35862
+2020,South Dakota,10/24/2020,Convention Bounce for Donald Trump,40.29037,40.20025
+2020,South Carolina,10/24/2020,Convention Bounce for Donald Trump,40.48677,40.06656
+2020,Rhode Island,10/24/2020,Convention Bounce for Donald Trump,40.29439,40.52311
+2020,Pennsylvania,10/24/2020,Convention Bounce for Donald Trump,39.83908,40.30201
+2020,Oregon,10/24/2020,Convention Bounce for Donald Trump,40.68774,40.08406
+2020,Oklahoma,10/24/2020,Convention Bounce for Donald Trump,40.55658,40.25882
+2020,Ohio,10/24/2020,Convention Bounce for Donald Trump,39.89589,40.23096
+2020,North Dakota,10/24/2020,Convention Bounce for Donald Trump,40.74587,39.69031
+2020,North Carolina,10/24/2020,Convention Bounce for Donald Trump,39.99105,40.22303
+2020,New York,10/24/2020,Convention Bounce for Donald Trump,40.11711,39.61694
+2020,New Mexico,10/24/2020,Convention Bounce for Donald Trump,41.65258,41.20689
+2020,New Jersey,10/24/2020,Convention Bounce for Donald Trump,40.64804,40.63468
+2020,New Hampshire,10/24/2020,Convention Bounce for Donald Trump,39.95385,39.92423
+2020,Nevada,10/24/2020,Convention Bounce for Donald Trump,40.00502,40.18264
+2020,Nebraska,10/24/2020,Convention Bounce for Donald Trump,40.33301,40.26673
+2020,National,10/24/2020,Convention Bounce for Donald Trump,40.56742,40.88414
+2020,NE-2,10/24/2020,Convention Bounce for Donald Trump,40.88013,40.54736
+2020,NE-1,10/24/2020,Convention Bounce for Donald Trump,41.20803,41.52446
+2020,Montana,10/24/2020,Convention Bounce for Donald Trump,39.94879,40.1679
+2020,Missouri,10/24/2020,Convention Bounce for Donald Trump,40.44974,40.30535
+2020,Mississippi,10/24/2020,Convention Bounce for Donald Trump,42.72998,41.83662
+2020,Minnesota,10/24/2020,Convention Bounce for Donald Trump,39.85169,40.14868
+2020,Michigan,10/24/2020,Convention Bounce for Donald Trump,40.0272,40.25462
+2020,Massachusetts,10/24/2020,Convention Bounce for Donald Trump,41.34639,40.33395
+2020,Maryland,10/24/2020,Convention Bounce for Donald Trump,40.52972,40.50887
+2020,Maine,10/24/2020,Convention Bounce for Donald Trump,41.11436,39.98273
+2020,ME-2,10/24/2020,Convention Bounce for Donald Trump,41.67295,39.79554
+2020,ME-1,10/24/2020,Convention Bounce for Donald Trump,41.65938,39.70302
+2020,Louisiana,10/24/2020,Convention Bounce for Donald Trump,41.44598,40.85587
+2020,Kentucky,10/24/2020,Convention Bounce for Donald Trump,40.76695,40.06491
+2020,Kansas,10/24/2020,Convention Bounce for Donald Trump,40.10603,39.96163
+2020,Iowa,10/24/2020,Convention Bounce for Donald Trump,39.85281,40.09111
+2020,Indiana,10/24/2020,Convention Bounce for Donald Trump,41.01284,40.5844
+2020,Illinois,10/24/2020,Convention Bounce for Donald Trump,39.69928,39.52584
+2020,Idaho,10/24/2020,Convention Bounce for Donald Trump,42.68982,41.30788
+2020,Hawaii,10/24/2020,Convention Bounce for Donald Trump,40.07973,40.59793
+2020,Georgia,10/24/2020,Convention Bounce for Donald Trump,39.86579,40.09092
+2020,Florida,10/24/2020,Convention Bounce for Donald Trump,39.94128,40.25064
+2020,District of Columbia,10/24/2020,Convention Bounce for Donald Trump,40.30442,40.36001
+2020,Delaware,10/24/2020,Convention Bounce for Donald Trump,39.98185,39.12564
+2020,Connecticut,10/24/2020,Convention Bounce for Donald Trump,40.19011,40.58102
+2020,Colorado,10/24/2020,Convention Bounce for Donald Trump,39.93259,40.42846
+2020,California,10/24/2020,Convention Bounce for Donald Trump,40.84332,40.15295
+2020,Arkansas,10/24/2020,Convention Bounce for Donald Trump,40.05642,40.23083
+2020,Arizona,10/24/2020,Convention Bounce for Donald Trump,39.95657,40.29515
+2020,Alaska,10/24/2020,Convention Bounce for Donald Trump,40.43964,40.46444
+2020,Alabama,10/24/2020,Convention Bounce for Donald Trump,39.91809,39.88943
+2020,Wyoming,10/23/2020,Joseph R. Biden Jr.,28.03921,28.37243
+2020,Wisconsin,10/23/2020,Joseph R. Biden Jr.,50.48455,50.49221
+2020,West Virginia,10/23/2020,Joseph R. Biden Jr.,35.69361,35.86182
+2020,Washington,10/23/2020,Joseph R. Biden Jr.,58.42224,59.09731
+2020,Virginia,10/23/2020,Joseph R. Biden Jr.,52.69946,52.75859
+2020,Vermont,10/23/2020,Joseph R. Biden Jr.,62.47404,62.98698
+2020,Utah,10/23/2020,Joseph R. Biden Jr.,39.6123,40.1204
+2020,Texas,10/23/2020,Joseph R. Biden Jr.,47.17032,47.30361
+2020,Tennessee,10/23/2020,Joseph R. Biden Jr.,39.83927,41.08286
+2020,South Dakota,10/23/2020,Joseph R. Biden Jr.,40.11821,40.50938
+2020,South Carolina,10/23/2020,Joseph R. Biden Jr.,43.2982,43.57602
+2020,Rhode Island,10/23/2020,Joseph R. Biden Jr.,63.43416,64.1403
+2020,Pennsylvania,10/23/2020,Joseph R. Biden Jr.,50.46532,50.5206
+2020,Oregon,10/23/2020,Joseph R. Biden Jr.,56.60425,57.23719
+2020,Oklahoma,10/23/2020,Joseph R. Biden Jr.,35.79216,36.22737
+2020,Ohio,10/23/2020,Joseph R. Biden Jr.,46.50103,46.54412
+2020,North Dakota,10/23/2020,Joseph R. Biden Jr.,36.81634,37.32849
+2020,North Carolina,10/23/2020,Joseph R. Biden Jr.,49.08885,49.11457
+2020,New York,10/23/2020,Joseph R. Biden Jr.,61.12264,62.32378
+2020,New Mexico,10/23/2020,Joseph R. Biden Jr.,52.82798,53.42695
+2020,New Jersey,10/23/2020,Joseph R. Biden Jr.,55.9611,56.38623
+2020,New Hampshire,10/23/2020,Joseph R. Biden Jr.,53.52312,53.65435
+2020,Nevada,10/23/2020,Joseph R. Biden Jr.,49.71243,49.97575
+2020,Nebraska,10/23/2020,Joseph R. Biden Jr.,43.637,44.10017
+2020,National,10/23/2020,Joseph R. Biden Jr.,52.02691,52.02253
+2020,NE-2,10/23/2020,Joseph R. Biden Jr.,49.48639,50.43454
+2020,NE-1,10/23/2020,Joseph R. Biden Jr.,44.53228,45.56394
+2020,Montana,10/23/2020,Joseph R. Biden Jr.,43.64567,43.67036
+2020,Missouri,10/23/2020,Joseph R. Biden Jr.,44.60608,44.76257
+2020,Mississippi,10/23/2020,Joseph R. Biden Jr.,38.74429,39.45503
+2020,Minnesota,10/23/2020,Joseph R. Biden Jr.,50.15803,50.1992
+2020,Michigan,10/23/2020,Joseph R. Biden Jr.,50.33997,50.35471
+2020,Massachusetts,10/23/2020,Joseph R. Biden Jr.,65.47669,66.64757
+2020,Maryland,10/23/2020,Joseph R. Biden Jr.,62.12362,62.64338
+2020,Maine,10/23/2020,Joseph R. Biden Jr.,53.56635,53.97226
+2020,ME-2,10/23/2020,Joseph R. Biden Jr.,46.92329,47.31119
+2020,ME-1,10/23/2020,Joseph R. Biden Jr.,57.89867,58.35403
+2020,Louisiana,10/23/2020,Joseph R. Biden Jr.,38.26343,38.77785
+2020,Kentucky,10/23/2020,Joseph R. Biden Jr.,38.35912,38.99947
+2020,Kansas,10/23/2020,Joseph R. Biden Jr.,41.81009,42.04905
+2020,Iowa,10/23/2020,Joseph R. Biden Jr.,47.58658,47.61657
+2020,Indiana,10/23/2020,Joseph R. Biden Jr.,40.69478,41.2891
+2020,Illinois,10/23/2020,Joseph R. Biden Jr.,55.14835,55.75946
+2020,Idaho,10/23/2020,Joseph R. Biden Jr.,36.94492,37.46892
+2020,Hawaii,10/23/2020,Joseph R. Biden Jr.,61.92037,62.495
+2020,Georgia,10/23/2020,Joseph R. Biden Jr.,47.50124,47.5596
+2020,Florida,10/23/2020,Joseph R. Biden Jr.,48.95581,49.00175
+2020,District of Columbia,10/23/2020,Joseph R. Biden Jr.,87.30737,87.54234
+2020,Delaware,10/23/2020,Joseph R. Biden Jr.,58.58528,59.26424
+2020,Connecticut,10/23/2020,Joseph R. Biden Jr.,56.90387,58.72818
+2020,Colorado,10/23/2020,Joseph R. Biden Jr.,52.77982,52.84723
+2020,California,10/23/2020,Joseph R. Biden Jr.,60.56695,61.03755
+2020,Arkansas,10/23/2020,Joseph R. Biden Jr.,37.21387,37.62517
+2020,Arizona,10/23/2020,Joseph R. Biden Jr.,48.62425,48.73225
+2020,Alaska,10/23/2020,Joseph R. Biden Jr.,43.36039,43.4891
+2020,Alabama,10/23/2020,Joseph R. Biden Jr.,38.08631,38.50195
+2020,Wyoming,10/23/2020,Donald Trump,66.59271,66.67075
+2020,Wisconsin,10/23/2020,Donald Trump,43.94905,43.99018
+2020,West Virginia,10/23/2020,Donald Trump,59.29463,59.39486
+2020,Washington,10/23/2020,Donald Trump,34.92687,34.93848
+2020,Virginia,10/23/2020,Donald Trump,40.78288,40.76936
+2020,Vermont,10/23/2020,Donald Trump,29.80206,29.81996
+2020,Utah,10/23/2020,Donald Trump,50.81026,50.84325
+2020,Texas,10/23/2020,Donald Trump,47.80916,47.79274
+2020,Tennessee,10/23/2020,Donald Trump,54.43999,54.10917
+2020,South Dakota,10/23/2020,Donald Trump,53.79017,53.91881
+2020,South Carolina,10/23/2020,Donald Trump,50.76516,50.72166
+2020,Rhode Island,10/23/2020,Donald Trump,31.64838,31.89433
+2020,Pennsylvania,10/23/2020,Donald Trump,44.3433,44.38435
+2020,Oregon,10/23/2020,Donald Trump,37.58022,37.59855
+2020,Oklahoma,10/23/2020,Donald Trump,58.11716,58.0947
+2020,Ohio,10/23/2020,Donald Trump,47.48794,47.50648
+2020,North Dakota,10/23/2020,Donald Trump,57.03482,56.92277
+2020,North Carolina,10/23/2020,Donald Trump,46.1761,46.21943
+2020,New York,10/23/2020,Donald Trump,31.75966,31.56068
+2020,New Mexico,10/23/2020,Donald Trump,40.99101,41.00615
+2020,New Jersey,10/23/2020,Donald Trump,36.27277,36.24247
+2020,New Hampshire,10/23/2020,Donald Trump,42.29754,42.28728
+2020,Nevada,10/23/2020,Donald Trump,43.46212,43.44082
+2020,Nebraska,10/23/2020,Donald Trump,50.8782,51.05564
+2020,National,10/23/2020,Donald Trump,42.31025,42.36177
+2020,NE-2,10/23/2020,Donald Trump,43.35192,43.39866
+2020,NE-1,10/23/2020,Donald Trump,49.44995,49.99623
+2020,Montana,10/23/2020,Donald Trump,51.33631,51.33842
+2020,Missouri,10/23/2020,Donald Trump,51.04843,51.11369
+2020,Mississippi,10/23/2020,Donald Trump,54.48954,54.4083
+2020,Minnesota,10/23/2020,Donald Trump,42.28357,42.31037
+2020,Michigan,10/23/2020,Donald Trump,42.71481,42.76859
+2020,Massachusetts,10/23/2020,Donald Trump,28.33448,28.30113
+2020,Maryland,10/23/2020,Donald Trump,30.76071,30.75854
+2020,Maine,10/23/2020,Donald Trump,39.759,39.6947
+2020,ME-2,10/23/2020,Donald Trump,45.13335,45.10102
+2020,ME-1,10/23/2020,Donald Trump,34.05958,33.98682
+2020,Louisiana,10/23/2020,Donald Trump,54.04081,54.10828
+2020,Kentucky,10/23/2020,Donald Trump,56.37842,56.50278
+2020,Kansas,10/23/2020,Donald Trump,51.06623,50.96659
+2020,Iowa,10/23/2020,Donald Trump,46.29334,46.31462
+2020,Indiana,10/23/2020,Donald Trump,51.44677,51.4871
+2020,Illinois,10/23/2020,Donald Trump,38.73005,38.76415
+2020,Idaho,10/23/2020,Donald Trump,57.5638,57.58753
+2020,Hawaii,10/23/2020,Donald Trump,30.56268,30.72649
+2020,Georgia,10/23/2020,Donald Trump,46.56274,46.59356
+2020,Florida,10/23/2020,Donald Trump,45.60936,45.7004
+2020,District of Columbia,10/23/2020,Donald Trump,8.409886,8.450443
+2020,Delaware,10/23/2020,Donald Trump,33.57689,33.53186
+2020,Connecticut,10/23/2020,Donald Trump,33.83713,33.48835
+2020,Colorado,10/23/2020,Donald Trump,39.73466,39.75978
+2020,California,10/23/2020,Donald Trump,31.4713,31.41809
+2020,Arkansas,10/23/2020,Donald Trump,55.95041,56.20018
+2020,Arizona,10/23/2020,Donald Trump,45.47583,45.51712
+2020,Alaska,10/23/2020,Donald Trump,49.21484,49.20588
+2020,Alabama,10/23/2020,Donald Trump,56.44121,56.48976
+2020,Wyoming,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.53523,40.47905
+2020,Wisconsin,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.06049,40.20256
+2020,West Virginia,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.14217,40.22592
+2020,Washington,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.39816,40.33057
+2020,Virginia,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.21967,40.42603
+2020,Vermont,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.93176,40.23841
+2020,Utah,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.41314,40.33094
+2020,Texas,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.88842,40.14957
+2020,Tennessee,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.37029,40.42118
+2020,South Dakota,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.45938,40.42175
+2020,South Carolina,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.94403,39.84605
+2020,Rhode Island,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.45181,40.52599
+2020,Pennsylvania,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.97196,40.15716
+2020,Oregon,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.57421,40.27848
+2020,Oklahoma,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.6594,40.30817
+2020,Ohio,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.07547,40.27441
+2020,North Dakota,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.40586,39.88683
+2020,North Carolina,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.11994,40.27602
+2020,New York,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,42.38498,41.63165
+2020,New Mexico,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,41.0978,40.49546
+2020,New Jersey,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.54804,40.40258
+2020,New Hampshire,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.03707,40.14379
+2020,Nevada,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.19523,40.36134
+2020,Nebraska,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.49588,40.46278
+2020,National,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.3263,40.48928
+2020,NE-2,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.09489,39.14592
+2020,NE-1,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,38.57919,38.82758
+2020,Montana,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.08421,40.16566
+2020,Missouri,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.28586,40.27464
+2020,Mississippi,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,41.71144,41.04389
+2020,Minnesota,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.94279,40.09563
+2020,Michigan,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.99521,40.19936
+2020,Massachusetts,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,42.08935,40.97574
+2020,Maryland,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.4756,40.40725
+2020,Maine,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.44671,39.85041
+2020,ME-2,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.76273,39.82862
+2020,ME-1,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.75981,39.8189
+2020,Louisiana,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,41.04191,40.35868
+2020,Kentucky,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.17133,39.83694
+2020,Kansas,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.06293,39.98666
+2020,Iowa,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.02966,40.14147
+2020,Indiana,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.55255,40.27676
+2020,Illinois,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.07123,40.23205
+2020,Idaho,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,42.11866,41.04586
+2020,Hawaii,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.33871,40.56494
+2020,Georgia,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.12295,40.25314
+2020,Florida,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.12186,40.34581
+2020,District of Columbia,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.47261,40.53369
+2020,Delaware,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,41.96404,41.2024
+2020,Connecticut,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.28221,40.50896
+2020,Colorado,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.02763,40.33276
+2020,California,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,41.23369,40.55918
+2020,Arkansas,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.23603,40.33376
+2020,Arizona,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.18706,40.38456
+2020,Alaska,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,39.74833,39.81577
+2020,Alabama,10/23/2020,Convention Bounce for Joseph R. Biden Jr.,40.84992,40.62143
+2020,Wyoming,10/23/2020,Convention Bounce for Donald Trump,40.79853,40.39052
+2020,Wisconsin,10/23/2020,Convention Bounce for Donald Trump,40.3097,40.17823
+2020,West Virginia,10/23/2020,Convention Bounce for Donald Trump,40.26695,40.11164
+2020,Washington,10/23/2020,Convention Bounce for Donald Trump,40.79924,40.11756
+2020,Virginia,10/23/2020,Convention Bounce for Donald Trump,40.00374,39.884
+2020,Vermont,10/23/2020,Convention Bounce for Donald Trump,41.89771,40.1346
+2020,Utah,10/23/2020,Convention Bounce for Donald Trump,40.80047,40.16152
+2020,Texas,10/23/2020,Convention Bounce for Donald Trump,40.32623,40.22654
+2020,Tennessee,10/23/2020,Convention Bounce for Donald Trump,40.53867,40.29314
+2020,South Dakota,10/23/2020,Convention Bounce for Donald Trump,40.72665,40.33649
+2020,South Carolina,10/23/2020,Convention Bounce for Donald Trump,40.81166,40.05756
+2020,Rhode Island,10/23/2020,Convention Bounce for Donald Trump,40.73608,40.19344
+2020,Pennsylvania,10/23/2020,Convention Bounce for Donald Trump,39.99208,39.89523
+2020,Oregon,10/23/2020,Convention Bounce for Donald Trump,41.32135,39.93643
+2020,Oklahoma,10/23/2020,Convention Bounce for Donald Trump,41.0524,40.32
+2020,Ohio,10/23/2020,Convention Bounce for Donald Trump,40.19287,40.12453
+2020,North Dakota,10/23/2020,Convention Bounce for Donald Trump,41.1364,39.7677
+2020,North Carolina,10/23/2020,Convention Bounce for Donald Trump,40.2125,40.13095
+2020,New York,10/23/2020,Convention Bounce for Donald Trump,40.40345,39.30064
+2020,New Mexico,10/23/2020,Convention Bounce for Donald Trump,42.20689,40.92878
+2020,New Jersey,10/23/2020,Convention Bounce for Donald Trump,41.105,40.32893
+2020,New Hampshire,10/23/2020,Convention Bounce for Donald Trump,40.24076,39.77769
+2020,Nevada,10/23/2020,Convention Bounce for Donald Trump,40.2567,39.87922
+2020,Nebraska,10/23/2020,Convention Bounce for Donald Trump,40.77689,40.3303
+2020,National,10/23/2020,Convention Bounce for Donald Trump,39.96497,40.00319
+2020,NE-2,10/23/2020,Convention Bounce for Donald Trump,41.1655,40.22625
+2020,NE-1,10/23/2020,Convention Bounce for Donald Trump,41.49438,41.45068
+2020,Montana,10/23/2020,Convention Bounce for Donald Trump,40.40628,40.28026
+2020,Missouri,10/23/2020,Convention Bounce for Donald Trump,40.80929,40.27193
+2020,Mississippi,10/23/2020,Convention Bounce for Donald Trump,42.98141,41.86429
+2020,Minnesota,10/23/2020,Convention Bounce for Donald Trump,40.16343,39.98158
+2020,Michigan,10/23/2020,Convention Bounce for Donald Trump,40.01717,40.00954
+2020,Massachusetts,10/23/2020,Convention Bounce for Donald Trump,41.59246,40.03379
+2020,Maryland,10/23/2020,Convention Bounce for Donald Trump,41.11914,40.40993
+2020,Maine,10/23/2020,Convention Bounce for Donald Trump,41.53733,39.78597
+2020,ME-2,10/23/2020,Convention Bounce for Donald Trump,41.95927,39.84564
+2020,ME-1,10/23/2020,Convention Bounce for Donald Trump,41.94545,39.62376
+2020,Louisiana,10/23/2020,Convention Bounce for Donald Trump,41.99568,40.96829
+2020,Kentucky,10/23/2020,Convention Bounce for Donald Trump,41.07048,40.12477
+2020,Kansas,10/23/2020,Convention Bounce for Donald Trump,40.42934,39.80393
+2020,Iowa,10/23/2020,Convention Bounce for Donald Trump,40.21275,40.06023
+2020,Indiana,10/23/2020,Convention Bounce for Donald Trump,41.34875,40.54687
+2020,Illinois,10/23/2020,Convention Bounce for Donald Trump,40.22844,39.34851
+2020,Idaho,10/23/2020,Convention Bounce for Donald Trump,43.41942,41.52932
+2020,Hawaii,10/23/2020,Convention Bounce for Donald Trump,40.49709,40.24568
+2020,Georgia,10/23/2020,Convention Bounce for Donald Trump,40.18055,40.04398
+2020,Florida,10/23/2020,Convention Bounce for Donald Trump,39.88451,39.89012
+2020,District of Columbia,10/23/2020,Convention Bounce for Donald Trump,40.74521,40.41457
+2020,Delaware,10/23/2020,Convention Bounce for Donald Trump,40.25581,38.90997
+2020,Connecticut,10/23/2020,Convention Bounce for Donald Trump,40.43533,40.1645
+2020,Colorado,10/23/2020,Convention Bounce for Donald Trump,40.15958,40.06653
+2020,California,10/23/2020,Convention Bounce for Donald Trump,41.39457,39.96762
+2020,Arkansas,10/23/2020,Convention Bounce for Donald Trump,40.36792,40.22911
+2020,Arizona,10/23/2020,Convention Bounce for Donald Trump,40.21749,40.05566
+2020,Alaska,10/23/2020,Convention Bounce for Donald Trump,40.68509,40.33696
+2020,Alabama,10/23/2020,Convention Bounce for Donald Trump,40.29266,40.00173
+2020,Wyoming,10/22/2020,Joseph R. Biden Jr.,28.51852,28.87378
+2020,Wisconsin,10/22/2020,Joseph R. Biden Jr.,50.49953,50.51834
+2020,West Virginia,10/22/2020,Joseph R. Biden Jr.,35.08605,35.3602
+2020,Washington,10/22/2020,Joseph R. Biden Jr.,58.4312,59.08254
+2020,Virginia,10/22/2020,Joseph R. Biden Jr.,52.71686,52.78417
+2020,Vermont,10/22/2020,Joseph R. Biden Jr.,62.4651,62.97131
+2020,Utah,10/22/2020,Joseph R. Biden Jr.,38.92994,39.7365
+2020,Texas,10/22/2020,Joseph R. Biden Jr.,47.11637,47.27499
+2020,Tennessee,10/22/2020,Joseph R. Biden Jr.,39.59846,40.86721
+2020,South Dakota,10/22/2020,Joseph R. Biden Jr.,40.5402,40.96462
+2020,South Carolina,10/22/2020,Joseph R. Biden Jr.,43.26793,43.56341
+2020,Rhode Island,10/22/2020,Joseph R. Biden Jr.,63.34903,64.05963
+2020,Pennsylvania,10/22/2020,Joseph R. Biden Jr.,50.46782,50.52097
+2020,Oregon,10/22/2020,Joseph R. Biden Jr.,56.54714,57.16453
+2020,Oklahoma,10/22/2020,Joseph R. Biden Jr.,35.93871,36.35869
+2020,Ohio,10/22/2020,Joseph R. Biden Jr.,46.50337,46.5619
+2020,North Dakota,10/22/2020,Joseph R. Biden Jr.,37.00486,37.51638
+2020,North Carolina,10/22/2020,Joseph R. Biden Jr.,49.18703,49.23129
+2020,New York,10/22/2020,Joseph R. Biden Jr.,61.0954,62.26233
+2020,New Mexico,10/22/2020,Joseph R. Biden Jr.,52.84104,53.42603
+2020,New Jersey,10/22/2020,Joseph R. Biden Jr.,55.95469,56.35046
+2020,New Hampshire,10/22/2020,Joseph R. Biden Jr.,53.52046,53.64272
+2020,Nevada,10/22/2020,Joseph R. Biden Jr.,49.71723,49.96524
+2020,Nebraska,10/22/2020,Joseph R. Biden Jr.,43.1858,43.66801
+2020,National,10/22/2020,Joseph R. Biden Jr.,52.07701,52.07342
+2020,NE-2,10/22/2020,Joseph R. Biden Jr.,49.4899,50.39301
+2020,NE-1,10/22/2020,Joseph R. Biden Jr.,44.53527,45.57452
+2020,Montana,10/22/2020,Joseph R. Biden Jr.,43.76665,43.83553
+2020,Missouri,10/22/2020,Joseph R. Biden Jr.,44.62221,44.78559
+2020,Mississippi,10/22/2020,Joseph R. Biden Jr.,38.78102,39.5078
+2020,Minnesota,10/22/2020,Joseph R. Biden Jr.,50.09977,50.15089
+2020,Michigan,10/22/2020,Joseph R. Biden Jr.,50.65936,50.68132
+2020,Massachusetts,10/22/2020,Joseph R. Biden Jr.,65.44427,66.58607
+2020,Maryland,10/22/2020,Joseph R. Biden Jr.,62.2788,62.75861
+2020,Maine,10/22/2020,Joseph R. Biden Jr.,53.57909,53.98487
+2020,ME-2,10/22/2020,Joseph R. Biden Jr.,46.92768,47.31203
+2020,ME-1,10/22/2020,Joseph R. Biden Jr.,57.90326,58.32455
+2020,Louisiana,10/22/2020,Joseph R. Biden Jr.,38.30011,38.83551
+2020,Kentucky,10/22/2020,Joseph R. Biden Jr.,38.36086,39.0103
+2020,Kansas,10/22/2020,Joseph R. Biden Jr.,41.86092,42.08911
+2020,Iowa,10/22/2020,Joseph R. Biden Jr.,47.47175,47.54006
+2020,Indiana,10/22/2020,Joseph R. Biden Jr.,40.69173,41.29301
+2020,Illinois,10/22/2020,Joseph R. Biden Jr.,55.12275,55.71282
+2020,Idaho,10/22/2020,Joseph R. Biden Jr.,36.91757,37.45036
+2020,Hawaii,10/22/2020,Joseph R. Biden Jr.,62.08113,62.63216
+2020,Georgia,10/22/2020,Joseph R. Biden Jr.,47.42257,47.47701
+2020,Florida,10/22/2020,Joseph R. Biden Jr.,49.16293,49.21829
+2020,District of Columbia,10/22/2020,Joseph R. Biden Jr.,86.79147,87.02876
+2020,Delaware,10/22/2020,Joseph R. Biden Jr.,58.58461,59.25144
+2020,Connecticut,10/22/2020,Joseph R. Biden Jr.,56.87786,58.68498
+2020,Colorado,10/22/2020,Joseph R. Biden Jr.,52.72285,52.78001
+2020,California,10/22/2020,Joseph R. Biden Jr.,60.58076,61.01771
+2020,Arkansas,10/22/2020,Joseph R. Biden Jr.,37.41415,37.84737
+2020,Arizona,10/22/2020,Joseph R. Biden Jr.,48.73432,48.84388
+2020,Alaska,10/22/2020,Joseph R. Biden Jr.,43.32895,43.4375
+2020,Alabama,10/22/2020,Joseph R. Biden Jr.,38.09394,38.53137
+2020,Wyoming,10/22/2020,Donald Trump,66.13916,66.20738
+2020,Wisconsin,10/22/2020,Donald Trump,43.92612,43.93899
+2020,West Virginia,10/22/2020,Donald Trump,59.60786,59.70858
+2020,Washington,10/22/2020,Donald Trump,34.9048,34.81188
+2020,Virginia,10/22/2020,Donald Trump,40.74646,40.68586
+2020,Vermont,10/22/2020,Donald Trump,29.79539,29.75859
+2020,Utah,10/22/2020,Donald Trump,51.26136,51.08243
+2020,Texas,10/22/2020,Donald Trump,47.86441,47.78256
+2020,Tennessee,10/22/2020,Donald Trump,54.6992,54.31414
+2020,South Dakota,10/22/2020,Donald Trump,53.4014,53.5206
+2020,South Carolina,10/22/2020,Donald Trump,50.76274,50.68129
+2020,Rhode Island,10/22/2020,Donald Trump,31.76011,31.89272
+2020,Pennsylvania,10/22/2020,Donald Trump,44.37469,44.38391
+2020,Oregon,10/22/2020,Donald Trump,37.60199,37.48781
+2020,Oklahoma,10/22/2020,Donald Trump,58.04009,58.01206
+2020,Ohio,10/22/2020,Donald Trump,47.53394,47.51403
+2020,North Dakota,10/22/2020,Donald Trump,56.84828,56.71666
+2020,North Carolina,10/22/2020,Donald Trump,46.29738,46.30955
+2020,New York,10/22/2020,Donald Trump,31.67006,31.34227
+2020,New Mexico,10/22/2020,Donald Trump,40.98505,40.86851
+2020,New Jersey,10/22/2020,Donald Trump,36.29079,36.14352
+2020,New Hampshire,10/22/2020,Donald Trump,42.24544,42.17601
+2020,Nevada,10/22/2020,Donald Trump,43.47039,43.36055
+2020,Nebraska,10/22/2020,Donald Trump,50.89207,51.02888
+2020,National,10/22/2020,Donald Trump,42.18176,42.19737
+2020,NE-2,10/22/2020,Donald Trump,43.34978,43.25152
+2020,NE-1,10/22/2020,Donald Trump,49.45712,49.94767
+2020,Montana,10/22/2020,Donald Trump,52.07342,52.05822
+2020,Missouri,10/22/2020,Donald Trump,51.06331,51.0787
+2020,Mississippi,10/22/2020,Donald Trump,54.4535,54.33638
+2020,Minnesota,10/22/2020,Donald Trump,42.24565,42.23998
+2020,Michigan,10/22/2020,Donald Trump,42.6671,42.69129
+2020,Massachusetts,10/22/2020,Donald Trump,28.32908,28.18489
+2020,Maryland,10/22/2020,Donald Trump,30.74033,30.63134
+2020,Maine,10/22/2020,Donald Trump,39.73446,39.61611
+2020,ME-2,10/22/2020,Donald Trump,45.13328,45.07295
+2020,ME-1,10/22/2020,Donald Trump,34.06068,33.9155
+2020,Louisiana,10/22/2020,Donald Trump,54.02271,54.02324
+2020,Kentucky,10/22/2020,Donald Trump,56.38661,56.48696
+2020,Kansas,10/22/2020,Donald Trump,51.04361,50.92359
+2020,Iowa,10/22/2020,Donald Trump,46.56058,46.55115
+2020,Indiana,10/22/2020,Donald Trump,51.46503,51.45293
+2020,Illinois,10/22/2020,Donald Trump,38.51715,38.40096
+2020,Idaho,10/22/2020,Donald Trump,57.25903,57.25657
+2020,Hawaii,10/22/2020,Donald Trump,30.35623,30.39142
+2020,Georgia,10/22/2020,Donald Trump,46.55507,46.55466
+2020,Florida,10/22/2020,Donald Trump,45.42012,45.45075
+2020,District of Columbia,10/22/2020,Donald Trump,8.446495,8.457996
+2020,Delaware,10/22/2020,Donald Trump,33.81464,33.66145
+2020,Connecticut,10/22/2020,Donald Trump,34.07484,33.59965
+2020,Colorado,10/22/2020,Donald Trump,39.73655,39.69695
+2020,California,10/22/2020,Donald Trump,31.45908,31.30071
+2020,Arkansas,10/22/2020,Donald Trump,55.76021,55.97127
+2020,Arizona,10/22/2020,Donald Trump,45.37521,45.35325
+2020,Alaska,10/22/2020,Donald Trump,49.13926,49.11024
+2020,Alabama,10/22/2020,Donald Trump,56.31169,56.33334
+2020,Wyoming,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.57666,40.50448
+2020,Wisconsin,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.07881,40.18489
+2020,West Virginia,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.2608,40.33079
+2020,Washington,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.40845,40.29834
+2020,Virginia,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.25283,40.40786
+2020,Vermont,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.97643,40.25371
+2020,Utah,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.48037,40.25806
+2020,Texas,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.89689,40.10826
+2020,Tennessee,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.38977,40.40816
+2020,South Dakota,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.50069,40.44246
+2020,South Carolina,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.95171,39.82648
+2020,Rhode Island,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.49305,40.5297
+2020,Pennsylvania,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.97006,40.1266
+2020,Oregon,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.61315,40.27248
+2020,Oklahoma,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.3936,40.16444
+2020,Ohio,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.075,40.22
+2020,North Dakota,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.43184,39.90165
+2020,North Carolina,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.98431,40.16229
+2020,New York,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,42.40048,41.61693
+2020,New Mexico,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,41.13698,40.48102
+2020,New Jersey,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.56909,40.386
+2020,New Hampshire,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.04567,40.13264
+2020,Nevada,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.22282,40.36211
+2020,Nebraska,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.52382,40.47273
+2020,National,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.29285,40.44419
+2020,NE-2,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.10294,39.1311
+2020,NE-1,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,38.58681,38.81791
+2020,Montana,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.06649,40.06795
+2020,Missouri,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.30822,40.27263
+2020,Mississippi,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,41.72989,41.05049
+2020,Minnesota,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.98195,40.08152
+2020,Michigan,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.9789,40.14808
+2020,Massachusetts,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,42.10424,40.96253
+2020,Maryland,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.51786,40.40562
+2020,Maine,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.43821,39.82847
+2020,ME-2,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.7699,39.84521
+2020,ME-1,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.76638,39.82304
+2020,Louisiana,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,41.07699,40.35202
+2020,Kentucky,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.18503,39.83679
+2020,Kansas,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.08451,39.99804
+2020,Iowa,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.99092,40.01454
+2020,Indiana,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.56703,40.27165
+2020,Illinois,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.10109,40.23103
+2020,Idaho,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,42.18246,41.08477
+2020,Hawaii,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.36372,40.54797
+2020,Georgia,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.01776,40.14783
+2020,Florida,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.19642,40.38067
+2020,District of Columbia,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.51204,40.55783
+2020,Delaware,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,42.05492,41.23465
+2020,Connecticut,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.30307,40.49728
+2020,Colorado,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.04129,40.30812
+2020,California,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,41.26545,40.54676
+2020,Arkansas,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.25637,40.32375
+2020,Arizona,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.15262,40.33146
+2020,Alaska,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,39.82703,39.90002
+2020,Alabama,10/22/2020,Convention Bounce for Joseph R. Biden Jr.,40.86916,40.61445
+2020,Wyoming,10/22/2020,Convention Bounce for Donald Trump,40.85083,40.41137
+2020,Wisconsin,10/22/2020,Convention Bounce for Donald Trump,40.27078,40.09924
+2020,West Virginia,10/22/2020,Convention Bounce for Donald Trump,40.41863,40.17271
+2020,Washington,10/22/2020,Convention Bounce for Donald Trump,40.82343,40.09045
+2020,Virginia,10/22/2020,Convention Bounce for Donald Trump,40.01255,39.81663
+2020,Vermont,10/22/2020,Convention Bounce for Donald Trump,41.97245,40.15887
+2020,Utah,10/22/2020,Convention Bounce for Donald Trump,41.11902,40.16842
+2020,Texas,10/22/2020,Convention Bounce for Donald Trump,40.2653,40.10883
+2020,Tennessee,10/22/2020,Convention Bounce for Donald Trump,40.57002,40.27936
+2020,South Dakota,10/22/2020,Convention Bounce for Donald Trump,40.78035,40.35028
+2020,South Carolina,10/22/2020,Convention Bounce for Donald Trump,40.83647,40.04165
+2020,Rhode Island,10/22/2020,Convention Bounce for Donald Trump,40.79034,40.1903
+2020,Pennsylvania,10/22/2020,Convention Bounce for Donald Trump,40.00766,39.90806
+2020,Oregon,10/22/2020,Convention Bounce for Donald Trump,41.39327,39.94484
+2020,Oklahoma,10/22/2020,Convention Bounce for Donald Trump,40.82414,40.20595
+2020,Ohio,10/22/2020,Convention Bounce for Donald Trump,40.26753,40.14876
+2020,North Dakota,10/22/2020,Convention Bounce for Donald Trump,41.18043,39.78959
+2020,North Carolina,10/22/2020,Convention Bounce for Donald Trump,40.00256,39.93175
+2020,New York,10/22/2020,Convention Bounce for Donald Trump,40.41711,39.28981
+2020,New Mexico,10/22/2020,Convention Bounce for Donald Trump,42.26027,40.93169
+2020,New Jersey,10/22/2020,Convention Bounce for Donald Trump,41.14896,40.33009
+2020,New Hampshire,10/22/2020,Convention Bounce for Donald Trump,40.26035,39.75229
+2020,Nevada,10/22/2020,Convention Bounce for Donald Trump,40.25894,39.91045
+2020,Nebraska,10/22/2020,Convention Bounce for Donald Trump,40.81285,40.32656
+2020,National,10/22/2020,Convention Bounce for Donald Trump,39.9142,39.94642
+2020,NE-2,10/22/2020,Convention Bounce for Donald Trump,41.18804,40.21989
+2020,NE-1,10/22/2020,Convention Bounce for Donald Trump,41.51923,41.44369
+2020,Montana,10/22/2020,Convention Bounce for Donald Trump,40.57186,40.23319
+2020,Missouri,10/22/2020,Convention Bounce for Donald Trump,40.82816,40.26529
+2020,Mississippi,10/22/2020,Convention Bounce for Donald Trump,43.01841,41.89698
+2020,Minnesota,10/22/2020,Convention Bounce for Donald Trump,40.20343,39.9541
+2020,Michigan,10/22/2020,Convention Bounce for Donald Trump,40.09589,40.05513
+2020,Massachusetts,10/22/2020,Convention Bounce for Donald Trump,41.62123,40.03799
+2020,Maryland,10/22/2020,Convention Bounce for Donald Trump,41.18922,40.43216
+2020,Maine,10/22/2020,Convention Bounce for Donald Trump,41.55639,39.76464
+2020,ME-2,10/22/2020,Convention Bounce for Donald Trump,41.98059,39.8843
+2020,ME-1,10/22/2020,Convention Bounce for Donald Trump,41.96581,39.64545
+2020,Louisiana,10/22/2020,Convention Bounce for Donald Trump,42.0564,40.9969
+2020,Kentucky,10/22/2020,Convention Bounce for Donald Trump,41.09765,40.1348
+2020,Kansas,10/22/2020,Convention Bounce for Donald Trump,40.43302,39.87857
+2020,Iowa,10/22/2020,Convention Bounce for Donald Trump,40.3802,40.08615
+2020,Indiana,10/22/2020,Convention Bounce for Donald Trump,41.37716,40.54639
+2020,Illinois,10/22/2020,Convention Bounce for Donald Trump,40.27042,39.35123
+2020,Idaho,10/22/2020,Convention Bounce for Donald Trump,43.52057,41.60054
+2020,Hawaii,10/22/2020,Convention Bounce for Donald Trump,40.53453,40.23316
+2020,Georgia,10/22/2020,Convention Bounce for Donald Trump,40.32701,40.18034
+2020,Florida,10/22/2020,Convention Bounce for Donald Trump,40.05463,39.97785
+2020,District of Columbia,10/22/2020,Convention Bounce for Donald Trump,40.79623,40.44017
+2020,Delaware,10/22/2020,Convention Bounce for Donald Trump,40.29243,38.89466
+2020,Connecticut,10/22/2020,Convention Bounce for Donald Trump,40.46875,40.15436
+2020,Colorado,10/22/2020,Convention Bounce for Donald Trump,40.16769,40.02946
+2020,California,10/22/2020,Convention Bounce for Donald Trump,41.44561,39.97393
+2020,Arkansas,10/22/2020,Convention Bounce for Donald Trump,40.40222,40.21844
+2020,Arizona,10/22/2020,Convention Bounce for Donald Trump,40.30312,40.10908
+2020,Alaska,10/22/2020,Convention Bounce for Donald Trump,40.58361,40.32513
+2020,Alabama,10/22/2020,Convention Bounce for Donald Trump,40.32585,40.0049
+2020,Wyoming,10/21/2020,Joseph R. Biden Jr.,28.97571,29.32756
+2020,Wisconsin,10/21/2020,Joseph R. Biden Jr.,50.26844,50.30795
+2020,West Virginia,10/21/2020,Joseph R. Biden Jr.,35.11183,35.36724
+2020,Washington,10/21/2020,Joseph R. Biden Jr.,58.53417,59.18598
+2020,Virginia,10/21/2020,Joseph R. Biden Jr.,52.91785,53.25793
+2020,Vermont,10/21/2020,Joseph R. Biden Jr.,62.44761,62.92134
+2020,Utah,10/21/2020,Joseph R. Biden Jr.,38.89592,39.69241
+2020,Texas,10/21/2020,Joseph R. Biden Jr.,46.86986,47.05593
+2020,Tennessee,10/21/2020,Joseph R. Biden Jr.,39.58808,40.8476
+2020,South Dakota,10/21/2020,Joseph R. Biden Jr.,40.44647,40.86683
+2020,South Carolina,10/21/2020,Joseph R. Biden Jr.,42.91593,43.2117
+2020,Rhode Island,10/21/2020,Joseph R. Biden Jr.,63.26069,63.9487
+2020,Pennsylvania,10/21/2020,Joseph R. Biden Jr.,50.30728,50.37622
+2020,Oregon,10/21/2020,Joseph R. Biden Jr.,56.52925,57.13128
+2020,Oklahoma,10/21/2020,Joseph R. Biden Jr.,35.80909,36.22329
+2020,Ohio,10/21/2020,Joseph R. Biden Jr.,46.35662,46.43439
+2020,North Dakota,10/21/2020,Joseph R. Biden Jr.,36.73582,37.22085
+2020,North Carolina,10/21/2020,Joseph R. Biden Jr.,49.25036,49.28844
+2020,New York,10/21/2020,Joseph R. Biden Jr.,61.08493,62.25547
+2020,New Mexico,10/21/2020,Joseph R. Biden Jr.,52.85085,53.43384
+2020,New Jersey,10/21/2020,Joseph R. Biden Jr.,55.94491,56.31691
+2020,New Hampshire,10/21/2020,Joseph R. Biden Jr.,53.58691,53.68248
+2020,Nevada,10/21/2020,Joseph R. Biden Jr.,49.78595,50.00858
+2020,Nebraska,10/21/2020,Joseph R. Biden Jr.,43.19406,43.67397
+2020,National,10/21/2020,Joseph R. Biden Jr.,52.13803,52.13742
+2020,NE-2,10/21/2020,Joseph R. Biden Jr.,49.49027,50.35466
+2020,NE-1,10/21/2020,Joseph R. Biden Jr.,44.51926,45.52914
+2020,Montana,10/21/2020,Joseph R. Biden Jr.,43.73716,43.90005
+2020,Missouri,10/21/2020,Joseph R. Biden Jr.,44.62347,44.77224
+2020,Mississippi,10/21/2020,Joseph R. Biden Jr.,39.01191,39.72584
+2020,Minnesota,10/21/2020,Joseph R. Biden Jr.,50.1284,50.20564
+2020,Michigan,10/21/2020,Joseph R. Biden Jr.,50.69847,50.74179
+2020,Massachusetts,10/21/2020,Joseph R. Biden Jr.,65.4066,66.54166
+2020,Maryland,10/21/2020,Joseph R. Biden Jr.,62.29555,62.75817
+2020,Maine,10/21/2020,Joseph R. Biden Jr.,53.58665,53.9514
+2020,ME-2,10/21/2020,Joseph R. Biden Jr.,46.92566,47.26397
+2020,ME-1,10/21/2020,Joseph R. Biden Jr.,57.90045,58.26835
+2020,Louisiana,10/21/2020,Joseph R. Biden Jr.,38.32591,38.84525
+2020,Kentucky,10/21/2020,Joseph R. Biden Jr.,38.27794,38.91125
+2020,Kansas,10/21/2020,Joseph R. Biden Jr.,42.10634,42.47288
+2020,Iowa,10/21/2020,Joseph R. Biden Jr.,47.43372,47.49546
+2020,Indiana,10/21/2020,Joseph R. Biden Jr.,40.57934,41.17425
+2020,Illinois,10/21/2020,Joseph R. Biden Jr.,55.14087,55.714
+2020,Idaho,10/21/2020,Joseph R. Biden Jr.,37.21128,37.73499
+2020,Hawaii,10/21/2020,Joseph R. Biden Jr.,62.02563,62.61762
+2020,Georgia,10/21/2020,Joseph R. Biden Jr.,47.38666,47.45851
+2020,Florida,10/21/2020,Joseph R. Biden Jr.,48.99514,49.06839
+2020,District of Columbia,10/21/2020,Joseph R. Biden Jr.,86.78076,87.02547
+2020,Delaware,10/21/2020,Joseph R. Biden Jr.,58.57901,59.22473
+2020,Connecticut,10/21/2020,Joseph R. Biden Jr.,56.84438,58.63785
+2020,Colorado,10/21/2020,Joseph R. Biden Jr.,52.25621,52.31521
+2020,California,10/21/2020,Joseph R. Biden Jr.,61.1991,61.85056
+2020,Arkansas,10/21/2020,Joseph R. Biden Jr.,37.4086,37.84806
+2020,Arizona,10/21/2020,Joseph R. Biden Jr.,48.85274,48.95101
+2020,Alaska,10/21/2020,Joseph R. Biden Jr.,43.43903,43.54498
+2020,Alabama,10/21/2020,Joseph R. Biden Jr.,38.09886,38.52689
+2020,Wyoming,10/21/2020,Donald Trump,66.17099,66.23954
+2020,Wisconsin,10/21/2020,Donald Trump,44.02575,44.02488
+2020,West Virginia,10/21/2020,Donald Trump,59.57646,59.64945
+2020,Washington,10/21/2020,Donald Trump,34.88627,34.81616
+2020,Virginia,10/21/2020,Donald Trump,40.62269,40.43894
+2020,Vermont,10/21/2020,Donald Trump,29.78441,29.73915
+2020,Utah,10/21/2020,Donald Trump,51.15228,51.01148
+2020,Texas,10/21/2020,Donald Trump,48.10905,48.02841
+2020,Tennessee,10/21/2020,Donald Trump,54.70916,54.32151
+2020,South Dakota,10/21/2020,Donald Trump,53.50836,53.62175
+2020,South Carolina,10/21/2020,Donald Trump,50.88569,50.78564
+2020,Rhode Island,10/21/2020,Donald Trump,31.85225,32.00021
+2020,Pennsylvania,10/21/2020,Donald Trump,44.22258,44.21533
+2020,Oregon,10/21/2020,Donald Trump,37.63609,37.5285
+2020,Oklahoma,10/21/2020,Donald Trump,58.04975,58.0311
+2020,Ohio,10/21/2020,Donald Trump,47.43064,47.39338
+2020,North Dakota,10/21/2020,Donald Trump,57.09282,56.97107
+2020,North Carolina,10/21/2020,Donald Trump,46.17876,46.18036
+2020,New York,10/21/2020,Donald Trump,31.77447,31.49647
+2020,New Mexico,10/21/2020,Donald Trump,40.86326,40.764
+2020,New Jersey,10/21/2020,Donald Trump,36.3004,36.16961
+2020,New Hampshire,10/21/2020,Donald Trump,42.2591,42.16611
+2020,Nevada,10/21/2020,Donald Trump,43.57939,43.49799
+2020,Nebraska,10/21/2020,Donald Trump,50.90258,51.04926
+2020,National,10/21/2020,Donald Trump,42.20773,42.22536
+2020,NE-2,10/21/2020,Donald Trump,43.33762,43.26617
+2020,NE-1,10/21/2020,Donald Trump,49.44884,49.97555
+2020,Montana,10/21/2020,Donald Trump,52.07209,52.01994
+2020,Missouri,10/21/2020,Donald Trump,51.05888,51.05242
+2020,Mississippi,10/21/2020,Donald Trump,54.40792,54.28902
+2020,Minnesota,10/21/2020,Donald Trump,42.18539,42.17711
+2020,Michigan,10/21/2020,Donald Trump,42.65606,42.6567
+2020,Massachusetts,10/21/2020,Donald Trump,28.31627,28.2068
+2020,Maryland,10/21/2020,Donald Trump,30.70834,30.62253
+2020,Maine,10/21/2020,Donald Trump,39.69942,39.55154
+2020,ME-2,10/21/2020,Donald Trump,45.12209,45.03402
+2020,ME-1,10/21/2020,Donald Trump,34.05134,33.8955
+2020,Louisiana,10/21/2020,Donald Trump,53.95708,53.94841
+2020,Kentucky,10/21/2020,Donald Trump,56.3861,56.48918
+2020,Kansas,10/21/2020,Donald Trump,52.05761,51.94048
+2020,Iowa,10/21/2020,Donald Trump,46.45807,46.44373
+2020,Indiana,10/21/2020,Donald Trump,51.57706,51.56585
+2020,Illinois,10/21/2020,Donald Trump,38.70519,38.60835
+2020,Idaho,10/21/2020,Donald Trump,57.30896,57.30159
+2020,Hawaii,10/21/2020,Donald Trump,30.38285,30.45716
+2020,Georgia,10/21/2020,Donald Trump,46.50481,46.49208
+2020,Florida,10/21/2020,Donald Trump,45.44283,45.46817
+2020,District of Columbia,10/21/2020,Donald Trump,8.920348,8.944662
+2020,Delaware,10/21/2020,Donald Trump,33.61189,33.46473
+2020,Connecticut,10/21/2020,Donald Trump,34.07296,33.64732
+2020,Colorado,10/21/2020,Donald Trump,39.9458,39.90891
+2020,California,10/21/2020,Donald Trump,31.38707,31.23748
+2020,Arkansas,10/21/2020,Donald Trump,55.76605,55.97657
+2020,Arizona,10/21/2020,Donald Trump,45.19814,45.18226
+2020,Alaska,10/21/2020,Donald Trump,49.10909,49.07354
+2020,Alabama,10/21/2020,Donald Trump,56.30631,56.3206
+2020,Wyoming,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.59938,40.52531
+2020,Wisconsin,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.01644,40.11285
+2020,West Virginia,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.29246,40.36779
+2020,Washington,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.41046,40.253
+2020,Virginia,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.98941,40.68582
+2020,Vermont,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.99934,40.25245
+2020,Utah,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.48436,40.24554
+2020,Texas,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,39.84738,40.03822
+2020,Tennessee,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.40369,40.4248
+2020,South Dakota,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.53035,40.47118
+2020,South Carolina,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,39.89507,39.80825
+2020,Rhode Island,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.51492,40.51067
+2020,Pennsylvania,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.05217,40.16497
+2020,Oregon,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.64705,40.25824
+2020,Oklahoma,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.39834,40.16187
+2020,Ohio,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.07665,40.20446
+2020,North Dakota,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.42892,39.90562
+2020,North Carolina,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.14134,40.27431
+2020,New York,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,42.39083,41.58562
+2020,New Mexico,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,41.15899,40.44579
+2020,New Jersey,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.57451,40.35432
+2020,New Hampshire,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.04111,40.12854
+2020,Nevada,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.19319,40.35622
+2020,Nebraska,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.55259,40.48874
+2020,National,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.23776,40.39614
+2020,NE-2,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,39.0955,39.10616
+2020,NE-1,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,38.5689,38.79885
+2020,Montana,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.34254,40.10179
+2020,Missouri,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.30772,40.27722
+2020,Mississippi,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,41.72739,41.07138
+2020,Minnesota,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,39.92611,40.08607
+2020,Michigan,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.04506,40.15634
+2020,Massachusetts,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,42.10673,40.95938
+2020,Maryland,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.54182,40.39991
+2020,Maine,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.41356,39.80282
+2020,ME-2,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.7624,39.85537
+2020,ME-1,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.75821,39.8172
+2020,Louisiana,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,41.08821,40.34952
+2020,Kentucky,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.1809,39.84481
+2020,Kansas,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.20992,39.9915
+2020,Iowa,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,39.9798,40.0063
+2020,Indiana,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.56531,40.2676
+2020,Illinois,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.12882,40.21706
+2020,Idaho,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,42.22249,41.11534
+2020,Hawaii,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.3824,40.51873
+2020,Georgia,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.02707,40.14065
+2020,Florida,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.19771,40.3548
+2020,District of Columbia,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.54652,40.57365
+2020,Delaware,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,42.12468,41.27716
+2020,Connecticut,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.30678,40.47276
+2020,Colorado,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.05611,40.2966
+2020,California,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,41.30716,40.44834
+2020,Arkansas,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.26392,40.33603
+2020,Arizona,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.16833,40.31565
+2020,Alaska,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,39.81964,39.90472
+2020,Alabama,10/21/2020,Convention Bounce for Joseph R. Biden Jr.,40.87154,40.6273
+2020,Wyoming,10/21/2020,Convention Bounce for Donald Trump,40.80858,40.37537
+2020,Wisconsin,10/21/2020,Convention Bounce for Donald Trump,40.10723,39.91911
+2020,West Virginia,10/21/2020,Convention Bounce for Donald Trump,40.3839,40.16353
+2020,Washington,10/21/2020,Convention Bounce for Donald Trump,40.75932,39.96955
+2020,Virginia,10/21/2020,Convention Bounce for Donald Trump,40.98198,39.88739
+2020,Vermont,10/21/2020,Convention Bounce for Donald Trump,41.94174,40.10446
+2020,Utah,10/21/2020,Convention Bounce for Donald Trump,41.05282,40.08894
+2020,Texas,10/21/2020,Convention Bounce for Donald Trump,40.19197,39.99812
+2020,Tennessee,10/21/2020,Convention Bounce for Donald Trump,40.51801,40.23827
+2020,South Dakota,10/21/2020,Convention Bounce for Donald Trump,40.7486,40.32576
+2020,South Carolina,10/21/2020,Convention Bounce for Donald Trump,40.7625,39.99342
+2020,Rhode Island,10/21/2020,Convention Bounce for Donald Trump,40.74911,40.10561
+2020,Pennsylvania,10/21/2020,Convention Bounce for Donald Trump,40.03316,39.84258
+2020,Oregon,10/21/2020,Convention Bounce for Donald Trump,41.3791,39.87771
+2020,Oklahoma,10/21/2020,Convention Bounce for Donald Trump,40.76664,40.18835
+2020,Ohio,10/21/2020,Convention Bounce for Donald Trump,40.21475,40.08507
+2020,North Dakota,10/21/2020,Convention Bounce for Donald Trump,41.11351,39.73426
+2020,North Carolina,10/21/2020,Convention Bounce for Donald Trump,40.18829,40.05274
+2020,New York,10/21/2020,Convention Bounce for Donald Trump,40.34632,39.19941
+2020,New Mexico,10/21/2020,Convention Bounce for Donald Trump,42.21782,40.83125
+2020,New Jersey,10/21/2020,Convention Bounce for Donald Trump,41.09348,40.23293
+2020,New Hampshire,10/21/2020,Convention Bounce for Donald Trump,40.18487,39.67791
+2020,Nevada,10/21/2020,Convention Bounce for Donald Trump,40.12106,39.85802
+2020,Nebraska,10/21/2020,Convention Bounce for Donald Trump,40.78049,40.27586
+2020,National,10/21/2020,Convention Bounce for Donald Trump,39.79316,39.8511
+2020,NE-2,10/21/2020,Convention Bounce for Donald Trump,41.10892,40.12794
+2020,NE-1,10/21/2020,Convention Bounce for Donald Trump,41.44753,41.38533
+2020,Montana,10/21/2020,Convention Bounce for Donald Trump,41.20182,40.36979
+2020,Missouri,10/21/2020,Convention Bounce for Donald Trump,40.73773,40.19141
+2020,Mississippi,10/21/2020,Convention Bounce for Donald Trump,42.95444,41.86684
+2020,Minnesota,10/21/2020,Convention Bounce for Donald Trump,40.05224,39.87152
+2020,Michigan,10/21/2020,Convention Bounce for Donald Trump,40.18733,40.02719
+2020,Massachusetts,10/21/2020,Convention Bounce for Donald Trump,41.55649,39.98824
+2020,Maryland,10/21/2020,Convention Bounce for Donald Trump,41.15847,40.38517
+2020,Maine,10/21/2020,Convention Bounce for Donald Trump,41.47458,39.67536
+2020,ME-2,10/21/2020,Convention Bounce for Donald Trump,41.90144,39.84209
+2020,ME-1,10/21/2020,Convention Bounce for Donald Trump,41.88609,39.58422
+2020,Louisiana,10/21/2020,Convention Bounce for Donald Trump,42.01604,40.95024
+2020,Kentucky,10/21/2020,Convention Bounce for Donald Trump,41.02411,40.0849
+2020,Kansas,10/21/2020,Convention Bounce for Donald Trump,40.60264,39.90216
+2020,Iowa,10/21/2020,Convention Bounce for Donald Trump,40.32563,40.07406
+2020,Indiana,10/21/2020,Convention Bounce for Donald Trump,41.3094,40.47709
+2020,Illinois,10/21/2020,Convention Bounce for Donald Trump,40.23193,39.26988
+2020,Idaho,10/21/2020,Convention Bounce for Donald Trump,43.50856,41.58398
+2020,Hawaii,10/21/2020,Convention Bounce for Donald Trump,40.48624,40.14834
+2020,Georgia,10/21/2020,Convention Bounce for Donald Trump,40.27088,40.09672
+2020,Florida,10/21/2020,Convention Bounce for Donald Trump,39.94505,39.82555
+2020,District of Columbia,10/21/2020,Convention Bounce for Donald Trump,40.77069,40.40068
+2020,Delaware,10/21/2020,Convention Bounce for Donald Trump,40.23277,38.81361
+2020,Connecticut,10/21/2020,Convention Bounce for Donald Trump,40.40335,40.06712
+2020,Colorado,10/21/2020,Convention Bounce for Donald Trump,40.10868,39.93959
+2020,California,10/21/2020,Convention Bounce for Donald Trump,41.62417,39.74067
+2020,Arkansas,10/21/2020,Convention Bounce for Donald Trump,40.34217,40.16529
+2020,Arizona,10/21/2020,Convention Bounce for Donald Trump,40.24115,40.06026
+2020,Alaska,10/21/2020,Convention Bounce for Donald Trump,40.49756,40.25605
+2020,Alabama,10/21/2020,Convention Bounce for Donald Trump,40.26225,39.96052
+2020,Wyoming,10/20/2020,Joseph R. Biden Jr.,28.91288,29.32759
+2020,Wisconsin,10/20/2020,Joseph R. Biden Jr.,50.88589,50.99165
+2020,West Virginia,10/20/2020,Joseph R. Biden Jr.,35.1068,35.41357
+2020,Washington,10/20/2020,Joseph R. Biden Jr.,58.52213,59.23675
+2020,Virginia,10/20/2020,Joseph R. Biden Jr.,52.90941,53.29266
+2020,Vermont,10/20/2020,Joseph R. Biden Jr.,62.71405,63.24788
+2020,Utah,10/20/2020,Joseph R. Biden Jr.,38.84321,39.72459
+2020,Texas,10/20/2020,Joseph R. Biden Jr.,46.79348,47.04121
+2020,Tennessee,10/20/2020,Joseph R. Biden Jr.,39.55306,40.90389
+2020,South Dakota,10/20/2020,Joseph R. Biden Jr.,40.36516,40.85698
+2020,South Carolina,10/20/2020,Joseph R. Biden Jr.,42.92114,43.24306
+2020,Rhode Island,10/20/2020,Joseph R. Biden Jr.,62.64531,63.42491
+2020,Pennsylvania,10/20/2020,Joseph R. Biden Jr.,50.41357,50.53093
+2020,Oregon,10/20/2020,Joseph R. Biden Jr.,56.4985,57.17916
+2020,Oklahoma,10/20/2020,Joseph R. Biden Jr.,35.74799,36.47784
+2020,Ohio,10/20/2020,Joseph R. Biden Jr.,46.78194,46.90437
+2020,North Dakota,10/20/2020,Joseph R. Biden Jr.,36.87703,37.43268
+2020,North Carolina,10/20/2020,Joseph R. Biden Jr.,49.24661,49.3055
+2020,New York,10/20/2020,Joseph R. Biden Jr.,61.0419,62.30169
+2020,New Mexico,10/20/2020,Joseph R. Biden Jr.,52.84747,53.50001
+2020,New Jersey,10/20/2020,Joseph R. Biden Jr.,55.92829,56.34359
+2020,New Hampshire,10/20/2020,Joseph R. Biden Jr.,53.56996,53.71818
+2020,Nevada,10/20/2020,Joseph R. Biden Jr.,48.96656,49.41629
+2020,Nebraska,10/20/2020,Joseph R. Biden Jr.,43.59451,44.17905
+2020,National,10/20/2020,Joseph R. Biden Jr.,52.18524,52.20845
+2020,NE-2,10/20/2020,Joseph R. Biden Jr.,49.48725,50.43441
+2020,NE-1,10/20/2020,Joseph R. Biden Jr.,44.51844,45.63072
+2020,Montana,10/20/2020,Joseph R. Biden Jr.,43.70868,43.92183
+2020,Missouri,10/20/2020,Joseph R. Biden Jr.,44.62741,44.82615
+2020,Mississippi,10/20/2020,Joseph R. Biden Jr.,39.21037,39.97092
+2020,Minnesota,10/20/2020,Joseph R. Biden Jr.,49.42358,49.51623
+2020,Michigan,10/20/2020,Joseph R. Biden Jr.,50.70545,50.75436
+2020,Massachusetts,10/20/2020,Joseph R. Biden Jr.,65.16043,66.34934
+2020,Maryland,10/20/2020,Joseph R. Biden Jr.,62.14319,62.66183
+2020,Maine,10/20/2020,Joseph R. Biden Jr.,53.59018,54.01425
+2020,ME-2,10/20/2020,Joseph R. Biden Jr.,46.92278,47.29914
+2020,ME-1,10/20/2020,Joseph R. Biden Jr.,57.89816,58.3115
+2020,Louisiana,10/20/2020,Joseph R. Biden Jr.,38.45148,39.01693
+2020,Kentucky,10/20/2020,Joseph R. Biden Jr.,38.33626,39.03333
+2020,Kansas,10/20/2020,Joseph R. Biden Jr.,42.75539,43.57468
+2020,Iowa,10/20/2020,Joseph R. Biden Jr.,47.14592,47.32564
+2020,Indiana,10/20/2020,Joseph R. Biden Jr.,40.66515,41.33573
+2020,Illinois,10/20/2020,Joseph R. Biden Jr.,55.14855,55.79914
+2020,Idaho,10/20/2020,Joseph R. Biden Jr.,37.13859,37.73364
+2020,Hawaii,10/20/2020,Joseph R. Biden Jr.,61.96857,62.64186
+2020,Georgia,10/20/2020,Joseph R. Biden Jr.,47.21021,47.34932
+2020,Florida,10/20/2020,Joseph R. Biden Jr.,48.7886,48.8889
+2020,District of Columbia,10/20/2020,Joseph R. Biden Jr.,86.75514,87.02479
+2020,Delaware,10/20/2020,Joseph R. Biden Jr.,58.55598,59.26838
+2020,Connecticut,10/20/2020,Joseph R. Biden Jr.,56.7809,58.68037
+2020,Colorado,10/20/2020,Joseph R. Biden Jr.,52.21725,52.31397
+2020,California,10/20/2020,Joseph R. Biden Jr.,61.19347,61.88295
+2020,Arkansas,10/20/2020,Joseph R. Biden Jr.,37.38771,37.88538
+2020,Arizona,10/20/2020,Joseph R. Biden Jr.,48.80433,48.98331
+2020,Alaska,10/20/2020,Joseph R. Biden Jr.,43.02863,43.2129
+2020,Alabama,10/20/2020,Joseph R. Biden Jr.,38.07035,38.54428
+2020,Wyoming,10/20/2020,Donald Trump,65.73737,65.73624
+2020,Wisconsin,10/20/2020,Donald Trump,43.73956,43.69314
+2020,West Virginia,10/20/2020,Donald Trump,59.37099,59.40889
+2020,Washington,10/20/2020,Donald Trump,34.87882,34.68077
+2020,Virginia,10/20/2020,Donald Trump,40.62167,40.34607
+2020,Vermont,10/20/2020,Donald Trump,29.79334,29.68868
+2020,Utah,10/20/2020,Donald Trump,51.33494,51.04393
+2020,Texas,10/20/2020,Donald Trump,48.38562,48.23697
+2020,Tennessee,10/20/2020,Donald Trump,54.72058,54.23223
+2020,South Dakota,10/20/2020,Donald Trump,53.57902,53.63433
+2020,South Carolina,10/20/2020,Donald Trump,50.88362,50.74606
+2020,Rhode Island,10/20/2020,Donald Trump,32.431,32.43508
+2020,Pennsylvania,10/20/2020,Donald Trump,44.3169,44.26393
+2020,Oregon,10/20/2020,Donald Trump,37.64762,37.39986
+2020,Oklahoma,10/20/2020,Donald Trump,57.49417,57.3763
+2020,Ohio,10/20/2020,Donald Trump,47.11892,47.04866
+2020,North Dakota,10/20/2020,Donald Trump,56.9235,56.74877
+2020,North Carolina,10/20/2020,Donald Trump,46.16843,46.13628
+2020,New York,10/20/2020,Donald Trump,31.81683,31.37401
+2020,New Mexico,10/20/2020,Donald Trump,40.9828,40.73504
+2020,New Jersey,10/20/2020,Donald Trump,36.32084,36.06813
+2020,New Hampshire,10/20/2020,Donald Trump,42.21681,42.08097
+2020,Nevada,10/20/2020,Donald Trump,43.59664,43.28293
+2020,Nebraska,10/20/2020,Donald Trump,50.49923,50.56389
+2020,National,10/20/2020,Donald Trump,41.9324,41.90575
+2020,NE-2,10/20/2020,Donald Trump,43.33269,43.10667
+2020,NE-1,10/20/2020,Donald Trump,49.45021,49.84258
+2020,Montana,10/20/2020,Donald Trump,52.09267,51.99875
+2020,Missouri,10/20/2020,Donald Trump,50.94933,50.90121
+2020,Mississippi,10/20/2020,Donald Trump,54.17696,53.9902
+2020,Minnesota,10/20/2020,Donald Trump,42.33628,42.28612
+2020,Michigan,10/20/2020,Donald Trump,42.78118,42.7548
+2020,Massachusetts,10/20/2020,Donald Trump,28.50566,28.26869
+2020,Maryland,10/20/2020,Donald Trump,30.70021,30.49268
+2020,Maine,10/20/2020,Donald Trump,39.67624,39.49117
+2020,ME-2,10/20/2020,Donald Trump,45.11858,45.00459
+2020,ME-1,10/20/2020,Donald Trump,34.05037,33.84551
+2020,Louisiana,10/20/2020,Donald Trump,53.83298,53.74807
+2020,Kentucky,10/20/2020,Donald Trump,56.40688,56.4469
+2020,Kansas,10/20/2020,Donald Trump,50.13944,49.93681
+2020,Iowa,10/20/2020,Donald Trump,47.27975,47.16924
+2020,Indiana,10/20/2020,Donald Trump,51.49229,51.39926
+2020,Illinois,10/20/2020,Donald Trump,38.49385,38.24201
+2020,Idaho,10/20/2020,Donald Trump,57.37582,57.28429
+2020,Hawaii,10/20/2020,Donald Trump,30.42915,30.32609
+2020,Georgia,10/20/2020,Donald Trump,46.58574,46.52189
+2020,Florida,10/20/2020,Donald Trump,45.36445,45.33245
+2020,District of Columbia,10/20/2020,Donald Trump,8.940637,8.917267
+2020,Delaware,10/20/2020,Donald Trump,33.64576,33.37407
+2020,Connecticut,10/20/2020,Donald Trump,34.11566,33.50974
+2020,Colorado,10/20/2020,Donald Trump,39.98545,39.86644
+2020,California,10/20/2020,Donald Trump,31.43768,31.14456
+2020,Arkansas,10/20/2020,Donald Trump,55.78819,55.93554
+2020,Arizona,10/20/2020,Donald Trump,45.20344,45.10438
+2020,Alaska,10/20/2020,Donald Trump,48.11437,47.99113
+2020,Alabama,10/20/2020,Donald Trump,56.33174,56.29165
+2020,Wyoming,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.63877,40.5493
+2020,Wisconsin,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.1074,40.17358
+2020,West Virginia,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.33754,40.38573
+2020,Washington,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.41724,40.21614
+2020,Virginia,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,41.00671,40.66252
+2020,Vermont,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,41.03553,40.2398
+2020,Utah,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.50749,40.2524
+2020,Texas,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.77685,40.02565
+2020,Tennessee,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.41176,40.42706
+2020,South Dakota,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.55265,40.48014
+2020,South Carolina,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.90433,39.80172
+2020,Rhode Island,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.55751,40.5026
+2020,Pennsylvania,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.90437,40.10857
+2020,Oregon,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.69132,40.26583
+2020,Oklahoma,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.73744,40.20618
+2020,Ohio,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.87489,40.12469
+2020,North Dakota,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.46037,39.91523
+2020,North Carolina,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.14739,40.24515
+2020,New York,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,42.39821,41.5805
+2020,New Mexico,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,41.19732,40.44303
+2020,New Jersey,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.59489,40.33614
+2020,New Hampshire,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.05072,40.09929
+2020,Nevada,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.23377,40.16452
+2020,Nebraska,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.60379,40.509
+2020,National,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.22483,40.40654
+2020,NE-2,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.1038,39.0955
+2020,NE-1,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,38.57614,38.79772
+2020,Montana,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.35715,40.09346
+2020,Missouri,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.32073,40.2593
+2020,Mississippi,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,41.74351,41.08286
+2020,Minnesota,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.8835,40.05365
+2020,Michigan,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.17535,40.2908
+2020,Massachusetts,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,42.12336,40.95023
+2020,Maryland,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.57465,40.39868
+2020,Maine,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.40231,39.76255
+2020,ME-2,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.77044,39.84772
+2020,ME-1,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.7658,39.80381
+2020,Louisiana,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,41.10557,40.35781
+2020,Kentucky,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.19299,39.83889
+2020,Kansas,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.24948,39.88269
+2020,Iowa,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,39.89709,39.95065
+2020,Indiana,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.57891,40.2579
+2020,Illinois,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.17007,40.22985
+2020,Idaho,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,42.27613,41.14459
+2020,Hawaii,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.39862,40.52695
+2020,Georgia,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.05323,40.1188
+2020,Florida,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.21278,40.37279
+2020,District of Columbia,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.57634,40.59129
+2020,Delaware,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,42.20762,41.30848
+2020,Connecticut,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.32895,40.46425
+2020,Colorado,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.07443,40.25735
+2020,California,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,41.37886,40.49168
+2020,Arkansas,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.28664,40.33827
+2020,Arizona,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.12194,40.23843
+2020,Alaska,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.02872,40.14568
+2020,Alabama,10/20/2020,Convention Bounce for Joseph R. Biden Jr.,40.89227,40.63281
+2020,Wyoming,10/20/2020,Convention Bounce for Donald Trump,40.8593,40.3566
+2020,Wisconsin,10/20/2020,Convention Bounce for Donald Trump,40.12923,39.78593
+2020,West Virginia,10/20/2020,Convention Bounce for Donald Trump,40.43492,40.14338
+2020,Washington,10/20/2020,Convention Bounce for Donald Trump,40.76836,39.84922
+2020,Virginia,10/20/2020,Convention Bounce for Donald Trump,41.00266,39.78308
+2020,Vermont,10/20/2020,Convention Bounce for Donald Trump,42.00179,40.02716
+2020,Utah,10/20/2020,Convention Bounce for Donald Trump,41.0794,40.03065
+2020,Texas,10/20/2020,Convention Bounce for Donald Trump,40.16491,39.93846
+2020,Tennessee,10/20/2020,Convention Bounce for Donald Trump,40.52801,40.18707
+2020,South Dakota,10/20/2020,Convention Bounce for Donald Trump,40.77824,40.2858
+2020,South Carolina,10/20/2020,Convention Bounce for Donald Trump,40.77757,39.94169
+2020,Rhode Island,10/20/2020,Convention Bounce for Donald Trump,40.80629,39.99826
+2020,Pennsylvania,10/20/2020,Convention Bounce for Donald Trump,39.84972,39.66131
+2020,Oregon,10/20/2020,Convention Bounce for Donald Trump,41.4441,39.82014
+2020,Oklahoma,10/20/2020,Convention Bounce for Donald Trump,41.75131,40.40211
+2020,Ohio,10/20/2020,Convention Bounce for Donald Trump,39.98543,39.89476
+2020,North Dakota,10/20/2020,Convention Bounce for Donald Trump,41.15829,39.69386
+2020,North Carolina,10/20/2020,Convention Bounce for Donald Trump,40.19765,39.99619
+2020,New York,10/20/2020,Convention Bounce for Donald Trump,40.35807,39.12716
+2020,New Mexico,10/20/2020,Convention Bounce for Donald Trump,42.26006,40.78218
+2020,New Jersey,10/20/2020,Convention Bounce for Donald Trump,41.12473,40.12895
+2020,New Hampshire,10/20/2020,Convention Bounce for Donald Trump,40.19439,39.55586
+2020,Nevada,10/20/2020,Convention Bounce for Donald Trump,40.62325,39.54556
+2020,Nebraska,10/20/2020,Convention Bounce for Donald Trump,40.84929,40.23723
+2020,National,10/20/2020,Convention Bounce for Donald Trump,39.70306,39.74951
+2020,NE-2,10/20/2020,Convention Bounce for Donald Trump,41.1157,40.0287
+2020,NE-1,10/20/2020,Convention Bounce for Donald Trump,41.45501,41.33398
+2020,Montana,10/20/2020,Convention Bounce for Donald Trump,41.22915,40.31059
+2020,Missouri,10/20/2020,Convention Bounce for Donald Trump,40.74781,40.11731
+2020,Mississippi,10/20/2020,Convention Bounce for Donald Trump,42.98081,41.85069
+2020,Minnesota,10/20/2020,Convention Bounce for Donald Trump,40.20938,39.92734
+2020,Michigan,10/20/2020,Convention Bounce for Donald Trump,40.22147,40.04691
+2020,Massachusetts,10/20/2020,Convention Bounce for Donald Trump,41.57863,39.90486
+2020,Maryland,10/20/2020,Convention Bounce for Donald Trump,41.20721,40.33041
+2020,Maine,10/20/2020,Convention Bounce for Donald Trump,41.47641,39.55767
+2020,ME-2,10/20/2020,Convention Bounce for Donald Trump,41.90857,39.78375
+2020,ME-1,10/20/2020,Convention Bounce for Donald Trump,41.89361,39.50383
+2020,Louisiana,10/20/2020,Convention Bounce for Donald Trump,42.03975,40.91705
+2020,Kentucky,10/20/2020,Convention Bounce for Donald Trump,41.0373,40.03508
+2020,Kansas,10/20/2020,Convention Bounce for Donald Trump,40.7312,39.62067
+2020,Iowa,10/20/2020,Convention Bounce for Donald Trump,40.43542,40.04069
+2020,Indiana,10/20/2020,Convention Bounce for Donald Trump,41.33,40.40477
+2020,Illinois,10/20/2020,Convention Bounce for Donald Trump,40.27812,39.20127
+2020,Idaho,10/20/2020,Convention Bounce for Donald Trump,43.58354,41.57374
+2020,Hawaii,10/20/2020,Convention Bounce for Donald Trump,40.50687,40.06201
+2020,Georgia,10/20/2020,Convention Bounce for Donald Trump,40.25886,39.93507
+2020,Florida,10/20/2020,Convention Bounce for Donald Trump,39.9044,39.69102
+2020,District of Columbia,10/20/2020,Convention Bounce for Donald Trump,40.81023,40.38149
+2020,Delaware,10/20/2020,Convention Bounce for Donald Trump,40.25726,38.71875
+2020,Connecticut,10/20/2020,Convention Bounce for Donald Trump,40.43107,39.97361
+2020,Colorado,10/20/2020,Convention Bounce for Donald Trump,40.10665,39.79066
+2020,California,10/20/2020,Convention Bounce for Donald Trump,41.68317,39.7048
+2020,Arkansas,10/20/2020,Convention Bounce for Donald Trump,40.36926,40.11731
+2020,Arizona,10/20/2020,Convention Bounce for Donald Trump,40.21949,39.86224
+2020,Alaska,10/20/2020,Convention Bounce for Donald Trump,40.34762,39.92609
+2020,Alabama,10/20/2020,Convention Bounce for Donald Trump,40.28945,39.93624
+2020,Wyoming,10/19/2020,Joseph R. Biden Jr.,29.33796,29.85487
+2020,Wisconsin,10/19/2020,Joseph R. Biden Jr.,50.84814,50.97334
+2020,West Virginia,10/19/2020,Joseph R. Biden Jr.,35.32911,35.7106
+2020,Washington,10/19/2020,Joseph R. Biden Jr.,58.46651,59.32447
+2020,Virginia,10/19/2020,Joseph R. Biden Jr.,52.89655,53.37989
+2020,Vermont,10/19/2020,Joseph R. Biden Jr.,62.67591,63.34767
+2020,Utah,10/19/2020,Joseph R. Biden Jr.,38.77826,39.84415
+2020,Texas,10/19/2020,Joseph R. Biden Jr.,46.77259,47.17656
+2020,Tennessee,10/19/2020,Joseph R. Biden Jr.,39.53889,40.99088
+2020,South Dakota,10/19/2020,Joseph R. Biden Jr.,40.26783,40.86995
+2020,South Carolina,10/19/2020,Joseph R. Biden Jr.,42.93744,43.31306
+2020,Rhode Island,10/19/2020,Joseph R. Biden Jr.,62.98663,63.975
+2020,Pennsylvania,10/19/2020,Joseph R. Biden Jr.,50.48584,50.6403
+2020,Oregon,10/19/2020,Joseph R. Biden Jr.,56.47185,57.34634
+2020,Oklahoma,10/19/2020,Joseph R. Biden Jr.,35.50175,36.32957
+2020,Ohio,10/19/2020,Joseph R. Biden Jr.,46.68308,46.84817
+2020,North Dakota,10/19/2020,Joseph R. Biden Jr.,36.83304,37.50713
+2020,North Carolina,10/19/2020,Joseph R. Biden Jr.,48.98032,49.10968
+2020,New York,10/19/2020,Joseph R. Biden Jr.,61.03513,62.48552
+2020,New Mexico,10/19/2020,Joseph R. Biden Jr.,52.85505,54.00971
+2020,New Jersey,10/19/2020,Joseph R. Biden Jr.,55.57614,56.21407
+2020,New Hampshire,10/19/2020,Joseph R. Biden Jr.,53.55703,53.8012
+2020,Nevada,10/19/2020,Joseph R. Biden Jr.,49.04232,49.65408
+2020,Nebraska,10/19/2020,Joseph R. Biden Jr.,43.57957,44.29617
+2020,National,10/19/2020,Joseph R. Biden Jr.,52.40319,52.47891
+2020,NE-2,10/19/2020,Joseph R. Biden Jr.,49.48339,50.62676
+2020,NE-1,10/19/2020,Joseph R. Biden Jr.,44.52294,45.76844
+2020,Montana,10/19/2020,Joseph R. Biden Jr.,43.69606,43.98962
+2020,Missouri,10/19/2020,Joseph R. Biden Jr.,44.7649,45.0342
+2020,Mississippi,10/19/2020,Joseph R. Biden Jr.,39.21672,40.0604
+2020,Minnesota,10/19/2020,Joseph R. Biden Jr.,50.15654,50.73041
+2020,Michigan,10/19/2020,Joseph R. Biden Jr.,50.49615,50.65983
+2020,Massachusetts,10/19/2020,Joseph R. Biden Jr.,65.31215,66.68687
+2020,Maryland,10/19/2020,Joseph R. Biden Jr.,62.16792,62.83533
+2020,Maine,10/19/2020,Joseph R. Biden Jr.,53.58793,54.11456
+2020,ME-2,10/19/2020,Joseph R. Biden Jr.,46.92424,47.38684
+2020,ME-1,10/19/2020,Joseph R. Biden Jr.,57.90451,58.45142
+2020,Louisiana,10/19/2020,Joseph R. Biden Jr.,38.45283,39.1081
+2020,Kentucky,10/19/2020,Joseph R. Biden Jr.,37.99246,38.99884
+2020,Kansas,10/19/2020,Joseph R. Biden Jr.,42.61234,43.57441
+2020,Iowa,10/19/2020,Joseph R. Biden Jr.,47.82697,48.03973
+2020,Indiana,10/19/2020,Joseph R. Biden Jr.,40.6642,41.41919
+2020,Illinois,10/19/2020,Joseph R. Biden Jr.,55.36353,56.20364
+2020,Idaho,10/19/2020,Joseph R. Biden Jr.,37.08715,37.80542
+2020,Hawaii,10/19/2020,Joseph R. Biden Jr.,61.95391,62.84303
+2020,Georgia,10/19/2020,Joseph R. Biden Jr.,47.56661,47.77115
+2020,Florida,10/19/2020,Joseph R. Biden Jr.,48.85613,49.01377
+2020,District of Columbia,10/19/2020,Joseph R. Biden Jr.,86.73755,87.078
+2020,Delaware,10/19/2020,Joseph R. Biden Jr.,58.75586,59.62181
+2020,Connecticut,10/19/2020,Joseph R. Biden Jr.,56.71327,58.83474
+2020,Colorado,10/19/2020,Joseph R. Biden Jr.,52.34259,52.53976
+2020,California,10/19/2020,Joseph R. Biden Jr.,61.3742,62.24266
+2020,Arkansas,10/19/2020,Joseph R. Biden Jr.,37.37922,37.94993
+2020,Arizona,10/19/2020,Joseph R. Biden Jr.,49.04793,49.30791
+2020,Alaska,10/19/2020,Joseph R. Biden Jr.,42.93412,43.22175
+2020,Alabama,10/19/2020,Joseph R. Biden Jr.,38.08728,38.62169
+2020,Wyoming,10/19/2020,Donald Trump,65.82166,65.8069
+2020,Wisconsin,10/19/2020,Donald Trump,43.76595,43.71562
+2020,West Virginia,10/19/2020,Donald Trump,59.36432,59.37573
+2020,Washington,10/19/2020,Donald Trump,34.87596,34.64631
+2020,Virginia,10/19/2020,Donald Trump,40.62599,40.30512
+2020,Vermont,10/19/2020,Donald Trump,29.49422,29.33495
+2020,Utah,10/19/2020,Donald Trump,51.33742,51.03942
+2020,Texas,10/19/2020,Donald Trump,48.23845,48.04906
+2020,Tennessee,10/19/2020,Donald Trump,54.75551,54.21896
+2020,South Dakota,10/19/2020,Donald Trump,53.70787,53.74775
+2020,South Carolina,10/19/2020,Donald Trump,50.88571,50.71025
+2020,Rhode Island,10/19/2020,Donald Trump,32.56796,32.50885
+2020,Pennsylvania,10/19/2020,Donald Trump,44.21895,44.15347
+2020,Oregon,10/19/2020,Donald Trump,37.66646,37.37188
+2020,Oklahoma,10/19/2020,Donald Trump,57.55721,57.41105
+2020,Ohio,10/19/2020,Donald Trump,47.19485,47.10966
+2020,North Dakota,10/19/2020,Donald Trump,56.95389,56.74947
+2020,North Carolina,10/19/2020,Donald Trump,45.91193,45.84419
+2020,New York,10/19/2020,Donald Trump,31.8356,31.37551
+2020,New Mexico,10/19/2020,Donald Trump,40.62958,40.2606
+2020,New Jersey,10/19/2020,Donald Trump,36.61008,36.31136
+2020,New Hampshire,10/19/2020,Donald Trump,42.25483,42.07792
+2020,Nevada,10/19/2020,Donald Trump,43.52602,43.19396
+2020,Nebraska,10/19/2020,Donald Trump,50.54958,50.58788
+2020,National,10/19/2020,Donald Trump,41.78621,41.74397
+2020,NE-2,10/19/2020,Donald Trump,43.33932,43.05948
+2020,NE-1,10/19/2020,Donald Trump,49.45927,49.8186
+2020,Montana,10/19/2020,Donald Trump,52.10836,51.99188
+2020,Missouri,10/19/2020,Donald Trump,50.98338,50.91143
+2020,Mississippi,10/19/2020,Donald Trump,54.16624,53.95415
+2020,Minnesota,10/19/2020,Donald Trump,41.91919,41.6153
+2020,Michigan,10/19/2020,Donald Trump,42.79678,42.72443
+2020,Massachusetts,10/19/2020,Donald Trump,28.49999,28.21692
+2020,Maryland,10/19/2020,Donald Trump,30.69001,30.44677
+2020,Maine,10/19/2020,Donald Trump,39.68009,39.43394
+2020,ME-2,10/19/2020,Donald Trump,45.12755,44.96703
+2020,ME-1,10/19/2020,Donald Trump,34.0593,33.79129
+2020,Louisiana,10/19/2020,Donald Trump,53.85582,53.74432
+2020,Kentucky,10/19/2020,Donald Trump,56.58571,56.56023
+2020,Kansas,10/19/2020,Donald Trump,50.14682,49.90804
+2020,Iowa,10/19/2020,Donald Trump,47.76661,47.64903
+2020,Indiana,10/19/2020,Donald Trump,51.52,51.40022
+2020,Illinois,10/19/2020,Donald Trump,38.49855,38.20144
+2020,Idaho,10/19/2020,Donald Trump,57.43809,57.32575
+2020,Hawaii,10/19/2020,Donald Trump,30.45359,30.33231
+2020,Georgia,10/19/2020,Donald Trump,46.72998,46.64601
+2020,Florida,10/19/2020,Donald Trump,45.26435,45.21059
+2020,District of Columbia,10/19/2020,Donald Trump,8.976695,8.940557
+2020,Delaware,10/19/2020,Donald Trump,33.67828,33.34824
+2020,Connecticut,10/19/2020,Donald Trump,33.9209,33.26577
+2020,Colorado,10/19/2020,Donald Trump,39.50976,39.35331
+2020,California,10/19/2020,Donald Trump,31.49402,31.19777
+2020,Arkansas,10/19/2020,Donald Trump,55.81986,55.93843
+2020,Arizona,10/19/2020,Donald Trump,45.49517,45.39281
+2020,Alaska,10/19/2020,Donald Trump,48.2544,48.10606
+2020,Alabama,10/19/2020,Donald Trump,56.3251,56.25998
+2020,Wyoming,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.73428,40.64594
+2020,Wisconsin,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.26702,40.31498
+2020,West Virginia,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.40963,40.46966
+2020,Washington,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.49083,40.23544
+2020,Virginia,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.07878,40.69519
+2020,Vermont,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.125,40.36091
+2020,Utah,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.56961,40.32953
+2020,Texas,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,39.87181,40.06868
+2020,Tennessee,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.49769,40.49058
+2020,South Dakota,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.64478,40.58194
+2020,South Carolina,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,39.96387,39.83985
+2020,Rhode Island,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.6595,40.58642
+2020,Pennsylvania,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.30653,40.41969
+2020,Oregon,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.78773,40.36148
+2020,Oklahoma,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.81937,40.27657
+2020,Ohio,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.09161,40.3204
+2020,North Dakota,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.52995,40.02076
+2020,North Carolina,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.18324,40.28266
+2020,New York,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,42.46267,41.62986
+2020,New Mexico,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.78528,40.82755
+2020,New Jersey,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.76181,40.33884
+2020,New Hampshire,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.11252,40.18746
+2020,Nevada,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.2977,40.19978
+2020,Nebraska,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.68715,40.61121
+2020,National,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.23951,40.45791
+2020,NE-2,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,39.16536,39.19251
+2020,NE-1,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,38.63823,38.89501
+2020,Montana,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.42803,40.16425
+2020,Missouri,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.38987,40.30956
+2020,Mississippi,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.81348,41.13923
+2020,Minnesota,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.06839,40.23886
+2020,Michigan,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.00552,40.14047
+2020,Massachusetts,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,42.19434,41.03734
+2020,Maryland,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.66512,40.46729
+2020,Maine,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.479,39.87855
+2020,ME-2,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.8327,39.96197
+2020,ME-1,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.82823,39.93672
+2020,Louisiana,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.18062,40.41153
+2020,Kentucky,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.16079,39.75444
+2020,Kansas,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.32413,39.97829
+2020,Iowa,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,39.86188,40.0222
+2020,Indiana,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.64536,40.31231
+2020,Illinois,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.26625,40.31207
+2020,Idaho,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,42.39071,41.25416
+2020,Hawaii,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.46915,40.56701
+2020,Georgia,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.11357,40.17682
+2020,Florida,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.26158,40.41011
+2020,District of Columbia,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.67326,40.67274
+2020,Delaware,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,42.34593,41.423
+2020,Connecticut,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.38838,40.51999
+2020,Colorado,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.16675,40.28366
+2020,California,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,41.50008,40.58693
+2020,Arkansas,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.36384,40.3727
+2020,Arizona,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.27951,40.42925
+2020,Alaska,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.09264,40.19039
+2020,Alabama,10/19/2020,Convention Bounce for Joseph R. Biden Jr.,40.95987,40.67739
+2020,Wyoming,10/19/2020,Convention Bounce for Donald Trump,41.01608,40.49396
+2020,Wisconsin,10/19/2020,Convention Bounce for Donald Trump,40.39761,40.05309
+2020,West Virginia,10/19/2020,Convention Bounce for Donald Trump,40.56395,40.28224
+2020,Washington,10/19/2020,Convention Bounce for Donald Trump,40.89887,39.89203
+2020,Virginia,10/19/2020,Convention Bounce for Donald Trump,41.13142,39.80635
+2020,Vermont,10/19/2020,Convention Bounce for Donald Trump,42.16162,40.20712
+2020,Utah,10/19/2020,Convention Bounce for Donald Trump,41.19751,40.11325
+2020,Texas,10/19/2020,Convention Bounce for Donald Trump,40.26512,39.84267
+2020,Tennessee,10/19/2020,Convention Bounce for Donald Trump,40.67311,40.28621
+2020,South Dakota,10/19/2020,Convention Bounce for Donald Trump,40.9321,40.43969
+2020,South Carolina,10/19/2020,Convention Bounce for Donald Trump,40.89665,40.01456
+2020,Rhode Island,10/19/2020,Convention Bounce for Donald Trump,40.97412,40.0543
+2020,Pennsylvania,10/19/2020,Convention Bounce for Donald Trump,40.26768,39.97997
+2020,Oregon,10/19/2020,Convention Bounce for Donald Trump,41.61104,39.92775
+2020,Oklahoma,10/19/2020,Convention Bounce for Donald Trump,41.90293,40.52174
+2020,Ohio,10/19/2020,Convention Bounce for Donald Trump,40.42491,40.22992
+2020,North Dakota,10/19/2020,Convention Bounce for Donald Trump,41.29037,39.86951
+2020,North Carolina,10/19/2020,Convention Bounce for Donald Trump,40.39468,40.08978
+2020,New York,10/19/2020,Convention Bounce for Donald Trump,40.47802,39.14626
+2020,New Mexico,10/19/2020,Convention Bounce for Donald Trump,42.64804,40.75636
+2020,New Jersey,10/19/2020,Convention Bounce for Donald Trump,41.42125,40.17093
+2020,New Hampshire,10/19/2020,Convention Bounce for Donald Trump,40.30866,39.67765
+2020,Nevada,10/19/2020,Convention Bounce for Donald Trump,40.74944,39.54527
+2020,Nebraska,10/19/2020,Convention Bounce for Donald Trump,40.99208,40.38354
+2020,National,10/19/2020,Convention Bounce for Donald Trump,39.61763,39.65462
+2020,NE-2,10/19/2020,Convention Bounce for Donald Trump,41.23319,40.13807
+2020,NE-1,10/19/2020,Convention Bounce for Donald Trump,41.57207,41.49672
+2020,Montana,10/19/2020,Convention Bounce for Donald Trump,41.36603,40.42457
+2020,Missouri,10/19/2020,Convention Bounce for Donald Trump,40.87285,40.22816
+2020,Mississippi,10/19/2020,Convention Bounce for Donald Trump,43.11219,41.95346
+2020,Minnesota,10/19/2020,Convention Bounce for Donald Trump,42.29283,40.31866
+2020,Michigan,10/19/2020,Convention Bounce for Donald Trump,40.12483,39.81725
+2020,Massachusetts,10/19/2020,Convention Bounce for Donald Trump,41.70608,39.99567
+2020,Maryland,10/19/2020,Convention Bounce for Donald Trump,41.36905,40.40057
+2020,Maine,10/19/2020,Convention Bounce for Donald Trump,41.61808,39.7415
+2020,ME-2,10/19/2020,Convention Bounce for Donald Trump,42.02603,39.97774
+2020,ME-1,10/19/2020,Convention Bounce for Donald Trump,42.01054,39.70371
+2020,Louisiana,10/19/2020,Convention Bounce for Donald Trump,42.17435,41.01153
+2020,Kentucky,10/19/2020,Convention Bounce for Donald Trump,41.37394,40.17295
+2020,Kansas,10/19/2020,Convention Bounce for Donald Trump,40.86612,39.77071
+2020,Iowa,10/19/2020,Convention Bounce for Donald Trump,40.62793,40.34642
+2020,Indiana,10/19/2020,Convention Bounce for Donald Trump,41.45571,40.48558
+2020,Illinois,10/19/2020,Convention Bounce for Donald Trump,40.43143,39.27305
+2020,Idaho,10/19/2020,Convention Bounce for Donald Trump,43.7814,41.74705
+2020,Hawaii,10/19/2020,Convention Bounce for Donald Trump,40.63351,40.04374
+2020,Georgia,10/19/2020,Convention Bounce for Donald Trump,40.3728,40.00117
+2020,Florida,10/19/2020,Convention Bounce for Donald Trump,40.20279,39.9154
+2020,District of Columbia,10/19/2020,Convention Bounce for Donald Trump,40.97028,40.47463
+2020,Delaware,10/19/2020,Convention Bounce for Donald Trump,40.39167,38.78283
+2020,Connecticut,10/19/2020,Convention Bounce for Donald Trump,40.54381,39.9909
+2020,Colorado,10/19/2020,Convention Bounce for Donald Trump,40.2493,39.77148
+2020,California,10/19/2020,Convention Bounce for Donald Trump,41.84072,39.7451
+2020,Arkansas,10/19/2020,Convention Bounce for Donald Trump,40.50294,40.1778
+2020,Arizona,10/19/2020,Convention Bounce for Donald Trump,40.4101,40.02745
+2020,Alaska,10/19/2020,Convention Bounce for Donald Trump,40.47831,40.00361
+2020,Alabama,10/19/2020,Convention Bounce for Donald Trump,40.40902,40.01994
+2020,Wyoming,10/18/2020,Joseph R. Biden Jr.,29.27687,29.82437
+2020,Wisconsin,10/18/2020,Joseph R. Biden Jr.,50.75274,50.94035
+2020,West Virginia,10/18/2020,Joseph R. Biden Jr.,35.54224,35.94792
+2020,Washington,10/18/2020,Joseph R. Biden Jr.,58.07549,59.4121
+2020,Virginia,10/18/2020,Joseph R. Biden Jr.,52.82036,53.55145
+2020,Vermont,10/18/2020,Joseph R. Biden Jr.,62.63068,63.34655
+2020,Utah,10/18/2020,Joseph R. Biden Jr.,38.74442,39.84355
+2020,Texas,10/18/2020,Joseph R. Biden Jr.,46.82427,47.22083
+2020,Tennessee,10/18/2020,Joseph R. Biden Jr.,39.55371,41.0262
+2020,South Dakota,10/18/2020,Joseph R. Biden Jr.,39.69587,40.33597
+2020,South Carolina,10/18/2020,Joseph R. Biden Jr.,42.99249,43.39745
+2020,Rhode Island,10/18/2020,Joseph R. Biden Jr.,62.91145,63.96052
+2020,Pennsylvania,10/18/2020,Joseph R. Biden Jr.,50.54563,50.76453
+2020,Oregon,10/18/2020,Joseph R. Biden Jr.,56.44172,57.37841
+2020,Oklahoma,10/18/2020,Joseph R. Biden Jr.,35.64653,36.50312
+2020,Ohio,10/18/2020,Joseph R. Biden Jr.,46.61488,46.79514
+2020,North Dakota,10/18/2020,Joseph R. Biden Jr.,36.55984,37.26547
+2020,North Carolina,10/18/2020,Joseph R. Biden Jr.,48.95442,49.12605
+2020,New York,10/18/2020,Joseph R. Biden Jr.,61.04339,62.50105
+2020,New Mexico,10/18/2020,Joseph R. Biden Jr.,52.85838,54.03874
+2020,New Jersey,10/18/2020,Joseph R. Biden Jr.,55.56245,56.25069
+2020,New Hampshire,10/18/2020,Joseph R. Biden Jr.,53.61448,53.88269
+2020,Nevada,10/18/2020,Joseph R. Biden Jr.,48.95475,49.61093
+2020,Nebraska,10/18/2020,Joseph R. Biden Jr.,43.54682,44.30358
+2020,National,10/18/2020,Joseph R. Biden Jr.,52.32499,52.42488
+2020,NE-2,10/18/2020,Joseph R. Biden Jr.,49.48123,50.66618
+2020,NE-1,10/18/2020,Joseph R. Biden Jr.,44.52057,45.74504
+2020,Montana,10/18/2020,Joseph R. Biden Jr.,43.62199,43.93002
+2020,Missouri,10/18/2020,Joseph R. Biden Jr.,44.63119,44.92749
+2020,Mississippi,10/18/2020,Joseph R. Biden Jr.,39.21685,40.07904
+2020,Minnesota,10/18/2020,Joseph R. Biden Jr.,50.13739,50.74978
+2020,Michigan,10/18/2020,Joseph R. Biden Jr.,50.52188,50.67803
+2020,Massachusetts,10/18/2020,Joseph R. Biden Jr.,65.28814,66.68302
+2020,Maryland,10/18/2020,Joseph R. Biden Jr.,62.18505,62.8955
+2020,Maine,10/18/2020,Joseph R. Biden Jr.,53.5802,54.14188
+2020,ME-2,10/18/2020,Joseph R. Biden Jr.,46.92103,47.40203
+2020,ME-1,10/18/2020,Joseph R. Biden Jr.,57.9015,58.48325
+2020,Louisiana,10/18/2020,Joseph R. Biden Jr.,38.44488,39.12947
+2020,Kentucky,10/18/2020,Joseph R. Biden Jr.,38.00216,39.02392
+2020,Kansas,10/18/2020,Joseph R. Biden Jr.,42.59805,43.58551
+2020,Iowa,10/18/2020,Joseph R. Biden Jr.,47.60735,47.85994
+2020,Indiana,10/18/2020,Joseph R. Biden Jr.,40.74794,41.51796
+2020,Illinois,10/18/2020,Joseph R. Biden Jr.,55.37212,56.27671
+2020,Idaho,10/18/2020,Joseph R. Biden Jr.,36.71849,37.47044
+2020,Hawaii,10/18/2020,Joseph R. Biden Jr.,61.95747,62.86748
+2020,Georgia,10/18/2020,Joseph R. Biden Jr.,47.71985,47.91813
+2020,Florida,10/18/2020,Joseph R. Biden Jr.,48.84776,49.05043
+2020,District of Columbia,10/18/2020,Joseph R. Biden Jr.,86.71786,87.08208
+2020,Delaware,10/18/2020,Joseph R. Biden Jr.,58.94312,59.85073
+2020,Connecticut,10/18/2020,Joseph R. Biden Jr.,56.90684,59.04701
+2020,Colorado,10/18/2020,Joseph R. Biden Jr.,53.27097,53.49958
+2020,California,10/18/2020,Joseph R. Biden Jr.,61.38473,62.30211
+2020,Arkansas,10/18/2020,Joseph R. Biden Jr.,39.51114,40.41014
+2020,Arizona,10/18/2020,Joseph R. Biden Jr.,48.97505,49.29282
+2020,Alaska,10/18/2020,Joseph R. Biden Jr.,43.07658,43.39434
+2020,Alabama,10/18/2020,Joseph R. Biden Jr.,38.134,38.81382
+2020,Wyoming,10/18/2020,Donald Trump,65.89583,65.90859
+2020,Wisconsin,10/18/2020,Donald Trump,43.65116,43.58488
+2020,West Virginia,10/18/2020,Donald Trump,58.97278,59.00217
+2020,Washington,10/18/2020,Donald Trump,34.60344,34.25873
+2020,Virginia,10/18/2020,Donald Trump,40.4431,40.16038
+2020,Vermont,10/18/2020,Donald Trump,29.83605,29.6836
+2020,Utah,10/18/2020,Donald Trump,51.39594,51.17486
+2020,Texas,10/18/2020,Donald Trump,48.70924,48.59669
+2020,Tennessee,10/18/2020,Donald Trump,54.7533,54.24369
+2020,South Dakota,10/18/2020,Donald Trump,54.30199,54.36919
+2020,South Carolina,10/18/2020,Donald Trump,50.84978,50.68219
+2020,Rhode Island,10/18/2020,Donald Trump,32.1792,32.14476
+2020,Pennsylvania,10/18/2020,Donald Trump,44.13777,44.05989
+2020,Oregon,10/18/2020,Donald Trump,37.68917,37.43324
+2020,Oklahoma,10/18/2020,Donald Trump,57.43264,57.32614
+2020,Ohio,10/18/2020,Donald Trump,47.25997,47.18343
+2020,North Dakota,10/18/2020,Donald Trump,57.25307,57.08053
+2020,North Carolina,10/18/2020,Donald Trump,45.96674,45.89349
+2020,New York,10/18/2020,Donald Trump,31.86959,31.44917
+2020,New Mexico,10/18/2020,Donald Trump,40.77738,40.47944
+2020,New Jersey,10/18/2020,Donald Trump,36.54978,36.26116
+2020,New Hampshire,10/18/2020,Donald Trump,42.30048,42.1202
+2020,Nevada,10/18/2020,Donald Trump,43.6134,43.32467
+2020,Nebraska,10/18/2020,Donald Trump,50.60488,50.66843
+2020,National,10/18/2020,Donald Trump,41.89364,41.85215
+2020,NE-2,10/18/2020,Donald Trump,43.36129,43.13095
+2020,NE-1,10/18/2020,Donald Trump,49.47372,49.86674
+2020,Montana,10/18/2020,Donald Trump,52.20797,52.10223
+2020,Missouri,10/18/2020,Donald Trump,51.18848,51.13506
+2020,Mississippi,10/18/2020,Donald Trump,54.16657,53.98433
+2020,Minnesota,10/18/2020,Donald Trump,41.94942,41.65916
+2020,Michigan,10/18/2020,Donald Trump,42.8458,42.78379
+2020,Massachusetts,10/18/2020,Donald Trump,28.33998,28.07331
+2020,Maryland,10/18/2020,Donald Trump,30.68862,30.47014
+2020,Maine,10/18/2020,Donald Trump,39.69353,39.45066
+2020,ME-2,10/18/2020,Donald Trump,45.14981,44.99184
+2020,ME-1,10/18/2020,Donald Trump,34.08031,33.82065
+2020,Louisiana,10/18/2020,Donald Trump,53.89214,53.81384
+2020,Kentucky,10/18/2020,Donald Trump,56.60984,56.61609
+2020,Kansas,10/18/2020,Donald Trump,50.29211,50.09016
+2020,Iowa,10/18/2020,Donald Trump,47.80397,47.67908
+2020,Indiana,10/18/2020,Donald Trump,51.45318,51.34857
+2020,Illinois,10/18/2020,Donald Trump,38.50196,38.24514
+2020,Idaho,10/18/2020,Donald Trump,57.83087,57.75331
+2020,Hawaii,10/18/2020,Donald Trump,30.4904,30.40779
+2020,Georgia,10/18/2020,Donald Trump,46.69696,46.62828
+2020,Florida,10/18/2020,Donald Trump,45.24199,45.19418
+2020,District of Columbia,10/18/2020,Donald Trump,8.573548,8.545649
+2020,Delaware,10/18/2020,Donald Trump,33.52749,33.22192
+2020,Connecticut,10/18/2020,Donald Trump,33.76324,33.12938
+2020,Colorado,10/18/2020,Donald Trump,39.82076,39.66058
+2020,California,10/18/2020,Donald Trump,31.35086,31.10326
+2020,Arkansas,10/18/2020,Donald Trump,54.31905,54.55609
+2020,Arizona,10/18/2020,Donald Trump,45.55269,45.4723
+2020,Alaska,10/18/2020,Donald Trump,48.27039,48.14474
+2020,Alabama,10/18/2020,Donald Trump,56.54796,56.51419
+2020,Wyoming,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.89514,40.7651
+2020,Wisconsin,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.36154,40.38544
+2020,West Virginia,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.55034,40.5848
+2020,Washington,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.62548,40.33232
+2020,Virginia,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.39365,40.66011
+2020,Vermont,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.28563,40.46723
+2020,Utah,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.71845,40.40173
+2020,Texas,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,39.89514,40.146
+2020,Tennessee,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.62553,40.58354
+2020,South Dakota,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.81393,40.70752
+2020,South Carolina,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.099,39.92902
+2020,Rhode Island,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.80816,40.65545
+2020,Pennsylvania,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.38965,40.45462
+2020,Oregon,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.95702,40.45102
+2020,Oklahoma,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.9707,40.37727
+2020,Ohio,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.22824,40.40284
+2020,North Dakota,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.68035,40.12974
+2020,North Carolina,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.31585,40.33307
+2020,New York,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,42.60125,41.69321
+2020,New Mexico,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.94528,40.88667
+2020,New Jersey,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.90977,40.38481
+2020,New Hampshire,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.24848,40.26532
+2020,Nevada,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.43343,40.24846
+2020,Nebraska,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.84889,40.72059
+2020,National,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.26741,40.46018
+2020,NE-2,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,39.29816,39.25856
+2020,NE-1,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,38.7662,38.98943
+2020,Montana,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.57104,40.26374
+2020,Missouri,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.46406,40.36274
+2020,Mississippi,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.95337,41.23981
+2020,Minnesota,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.21249,40.31422
+2020,Michigan,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.34612,40.38518
+2020,Massachusetts,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,42.33768,41.11764
+2020,Maryland,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.82723,40.53577
+2020,Maine,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.62539,39.99136
+2020,ME-2,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.96704,40.08067
+2020,ME-1,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.96271,40.03765
+2020,Louisiana,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.32565,40.50108
+2020,Kentucky,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.30059,39.86998
+2020,Kansas,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.47218,40.07024
+2020,Iowa,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.02602,40.10609
+2020,Indiana,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.78445,40.39592
+2020,Illinois,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.43787,40.40434
+2020,Idaho,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,42.56735,41.37222
+2020,Hawaii,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.6103,40.61213
+2020,Georgia,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.11544,40.22503
+2020,Florida,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.39704,40.46461
+2020,District of Columbia,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.83342,40.78119
+2020,Delaware,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,42.55238,41.54439
+2020,Connecticut,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.52741,40.58141
+2020,Colorado,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.33298,40.31376
+2020,California,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,41.66274,40.6706
+2020,Arkansas,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.64179,40.60304
+2020,Arizona,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.39306,40.45017
+2020,Alaska,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.22363,40.25546
+2020,Alabama,10/18/2020,Convention Bounce for Joseph R. Biden Jr.,40.82734,40.49308
+2020,Wyoming,10/18/2020,Convention Bounce for Donald Trump,41.25956,40.68174
+2020,Wisconsin,10/18/2020,Convention Bounce for Donald Trump,40.43574,40.00057
+2020,West Virginia,10/18/2020,Convention Bounce for Donald Trump,40.78157,40.45776
+2020,Washington,10/18/2020,Convention Bounce for Donald Trump,41.14634,39.95832
+2020,Virginia,10/18/2020,Convention Bounce for Donald Trump,41.86093,40.37273
+2020,Vermont,10/18/2020,Convention Bounce for Donald Trump,42.41376,40.37157
+2020,Utah,10/18/2020,Convention Bounce for Donald Trump,41.42437,40.26268
+2020,Texas,10/18/2020,Convention Bounce for Donald Trump,40.61842,40.27626
+2020,Tennessee,10/18/2020,Convention Bounce for Donald Trump,40.87367,40.43848
+2020,South Dakota,10/18/2020,Convention Bounce for Donald Trump,41.18775,40.63765
+2020,South Carolina,10/18/2020,Convention Bounce for Donald Trump,41.11193,40.15865
+2020,Rhode Island,10/18/2020,Convention Bounce for Donald Trump,41.20319,40.17354
+2020,Pennsylvania,10/18/2020,Convention Bounce for Donald Trump,40.47657,40.05888
+2020,Oregon,10/18/2020,Convention Bounce for Donald Trump,41.87177,40.08616
+2020,Oklahoma,10/18/2020,Convention Bounce for Donald Trump,42.144,40.70827
+2020,Ohio,10/18/2020,Convention Bounce for Donald Trump,40.62552,40.36451
+2020,North Dakota,10/18/2020,Convention Bounce for Donald Trump,41.52242,40.04934
+2020,North Carolina,10/18/2020,Convention Bounce for Donald Trump,40.57141,40.14254
+2020,New York,10/18/2020,Convention Bounce for Donald Trump,40.69134,39.27266
+2020,New Mexico,10/18/2020,Convention Bounce for Donald Trump,42.88655,40.88403
+2020,New Jersey,10/18/2020,Convention Bounce for Donald Trump,41.65383,40.24915
+2020,New Hampshire,10/18/2020,Convention Bounce for Donald Trump,40.51707,39.80343
+2020,Nevada,10/18/2020,Convention Bounce for Donald Trump,40.96817,39.64278
+2020,Nebraska,10/18/2020,Convention Bounce for Donald Trump,41.2384,40.56083
+2020,National,10/18/2020,Convention Bounce for Donald Trump,39.70925,39.67812
+2020,NE-2,10/18/2020,Convention Bounce for Donald Trump,41.4406,40.26091
+2020,NE-1,10/18/2020,Convention Bounce for Donald Trump,41.77414,41.6601
+2020,Montana,10/18/2020,Convention Bounce for Donald Trump,41.61071,40.59712
+2020,Missouri,10/18/2020,Convention Bounce for Donald Trump,41.03297,40.4265
+2020,Mississippi,10/18/2020,Convention Bounce for Donald Trump,43.33451,42.13074
+2020,Minnesota,10/18/2020,Convention Bounce for Donald Trump,42.53058,40.45158
+2020,Michigan,10/18/2020,Convention Bounce for Donald Trump,40.60181,40.18055
+2020,Massachusetts,10/18/2020,Convention Bounce for Donald Trump,41.92855,40.13614
+2020,Maryland,10/18/2020,Convention Bounce for Donald Trump,41.61971,40.5298
+2020,Maine,10/18/2020,Convention Bounce for Donald Trump,41.84971,39.91562
+2020,ME-2,10/18/2020,Convention Bounce for Donald Trump,42.23453,40.15352
+2020,ME-1,10/18/2020,Convention Bounce for Donald Trump,42.21931,39.85939
+2020,Louisiana,10/18/2020,Convention Bounce for Donald Trump,42.39973,41.17912
+2020,Kentucky,10/18/2020,Convention Bounce for Donald Trump,41.57657,40.34956
+2020,Kansas,10/18/2020,Convention Bounce for Donald Trump,41.09715,39.94246
+2020,Iowa,10/18/2020,Convention Bounce for Donald Trump,40.87825,40.43024
+2020,Indiana,10/18/2020,Convention Bounce for Donald Trump,41.67431,40.63282
+2020,Illinois,10/18/2020,Convention Bounce for Donald Trump,40.68271,39.42371
+2020,Idaho,10/18/2020,Convention Bounce for Donald Trump,44.0522,41.94287
+2020,Hawaii,10/18/2020,Convention Bounce for Donald Trump,40.85136,40.1421
+2020,Georgia,10/18/2020,Convention Bounce for Donald Trump,40.52484,40.17133
+2020,Florida,10/18/2020,Convention Bounce for Donald Trump,40.30803,39.89833
+2020,District of Columbia,10/18/2020,Convention Bounce for Donald Trump,41.2138,40.64738
+2020,Delaware,10/18/2020,Convention Bounce for Donald Trump,40.61469,38.90745
+2020,Connecticut,10/18/2020,Convention Bounce for Donald Trump,40.75805,40.10467
+2020,Colorado,10/18/2020,Convention Bounce for Donald Trump,40.49675,39.89731
+2020,California,10/18/2020,Convention Bounce for Donald Trump,42.09069,39.89015
+2020,Arkansas,10/18/2020,Convention Bounce for Donald Trump,40.92149,40.48727
+2020,Arizona,10/18/2020,Convention Bounce for Donald Trump,40.57966,40.07653
+2020,Alaska,10/18/2020,Convention Bounce for Donald Trump,40.6932,40.13589
+2020,Alabama,10/18/2020,Convention Bounce for Donald Trump,40.84427,40.41515
+2020,Wyoming,10/17/2020,Joseph R. Biden Jr.,29.22702,29.7839
+2020,Wisconsin,10/17/2020,Joseph R. Biden Jr.,50.68571,50.87995
+2020,West Virginia,10/17/2020,Joseph R. Biden Jr.,35.74904,36.14792
+2020,Washington,10/17/2020,Joseph R. Biden Jr.,58.10157,59.43769
+2020,Virginia,10/17/2020,Joseph R. Biden Jr.,52.81768,53.54598
+2020,Vermont,10/17/2020,Joseph R. Biden Jr.,62.59893,63.31374
+2020,Utah,10/17/2020,Joseph R. Biden Jr.,38.55162,39.63248
+2020,Texas,10/17/2020,Joseph R. Biden Jr.,46.82671,47.20718
+2020,Tennessee,10/17/2020,Joseph R. Biden Jr.,39.33787,40.80589
+2020,South Dakota,10/17/2020,Joseph R. Biden Jr.,39.18908,39.82773
+2020,South Carolina,10/17/2020,Joseph R. Biden Jr.,43.01058,43.405
+2020,Rhode Island,10/17/2020,Joseph R. Biden Jr.,62.82217,63.89444
+2020,Pennsylvania,10/17/2020,Joseph R. Biden Jr.,50.54824,50.78564
+2020,Oregon,10/17/2020,Joseph R. Biden Jr.,56.42404,57.35913
+2020,Oklahoma,10/17/2020,Joseph R. Biden Jr.,35.60489,36.45029
+2020,Ohio,10/17/2020,Joseph R. Biden Jr.,46.66724,46.86577
+2020,North Dakota,10/17/2020,Joseph R. Biden Jr.,36.30633,37.00699
+2020,North Carolina,10/17/2020,Joseph R. Biden Jr.,48.90947,49.10449
+2020,New York,10/17/2020,Joseph R. Biden Jr.,61.04202,62.51055
+2020,New Mexico,10/17/2020,Joseph R. Biden Jr.,52.75467,53.91899
+2020,New Jersey,10/17/2020,Joseph R. Biden Jr.,55.55673,56.2393
+2020,New Hampshire,10/17/2020,Joseph R. Biden Jr.,53.53488,53.78933
+2020,Nevada,10/17/2020,Joseph R. Biden Jr.,48.96136,49.59921
+2020,Nebraska,10/17/2020,Joseph R. Biden Jr.,43.54059,44.30027
+2020,National,10/17/2020,Joseph R. Biden Jr.,52.31566,52.43217
+2020,NE-2,10/17/2020,Joseph R. Biden Jr.,49.48574,50.65726
+2020,NE-1,10/17/2020,Joseph R. Biden Jr.,44.52556,45.72703
+2020,Montana,10/17/2020,Joseph R. Biden Jr.,43.60371,43.90314
+2020,Missouri,10/17/2020,Joseph R. Biden Jr.,44.63897,44.93647
+2020,Mississippi,10/17/2020,Joseph R. Biden Jr.,39.22615,40.08042
+2020,Minnesota,10/17/2020,Joseph R. Biden Jr.,50.13106,50.73669
+2020,Michigan,10/17/2020,Joseph R. Biden Jr.,50.48161,50.6576
+2020,Massachusetts,10/17/2020,Joseph R. Biden Jr.,65.23333,66.63249
+2020,Maryland,10/17/2020,Joseph R. Biden Jr.,62.19276,62.9152
+2020,Maine,10/17/2020,Joseph R. Biden Jr.,53.58266,54.13092
+2020,ME-2,10/17/2020,Joseph R. Biden Jr.,46.92542,47.3856
+2020,ME-1,10/17/2020,Joseph R. Biden Jr.,57.90574,58.46666
+2020,Louisiana,10/17/2020,Joseph R. Biden Jr.,38.45708,39.12964
+2020,Kentucky,10/17/2020,Joseph R. Biden Jr.,37.92134,38.92636
+2020,Kansas,10/17/2020,Joseph R. Biden Jr.,42.47355,43.44872
+2020,Iowa,10/17/2020,Joseph R. Biden Jr.,47.52417,47.79501
+2020,Indiana,10/17/2020,Joseph R. Biden Jr.,40.73825,41.50182
+2020,Illinois,10/17/2020,Joseph R. Biden Jr.,55.58045,56.49282
+2020,Idaho,10/17/2020,Joseph R. Biden Jr.,36.37931,37.12182
+2020,Hawaii,10/17/2020,Joseph R. Biden Jr.,62.15596,63.05962
+2020,Georgia,10/17/2020,Joseph R. Biden Jr.,47.65253,47.87275
+2020,Florida,10/17/2020,Joseph R. Biden Jr.,48.85631,49.07163
+2020,District of Columbia,10/17/2020,Joseph R. Biden Jr.,86.7134,87.08395
+2020,Delaware,10/17/2020,Joseph R. Biden Jr.,58.73023,59.64571
+2020,Connecticut,10/17/2020,Joseph R. Biden Jr.,56.88165,59.03971
+2020,Colorado,10/17/2020,Joseph R. Biden Jr.,52.84676,53.09605
+2020,California,10/17/2020,Joseph R. Biden Jr.,61.39834,62.29893
+2020,Arkansas,10/17/2020,Joseph R. Biden Jr.,39.50231,40.40059
+2020,Arizona,10/17/2020,Joseph R. Biden Jr.,48.71687,49.02567
+2020,Alaska,10/17/2020,Joseph R. Biden Jr.,43.25089,43.91416
+2020,Alabama,10/17/2020,Joseph R. Biden Jr.,38.12605,38.79713
+2020,Wyoming,10/17/2020,Donald Trump,65.93545,65.90678
+2020,Wisconsin,10/17/2020,Donald Trump,43.19148,43.08061
+2020,West Virginia,10/17/2020,Donald Trump,58.75339,58.74582
+2020,Washington,10/17/2020,Donald Trump,34.58011,34.20134
+2020,Virginia,10/17/2020,Donald Trump,40.42302,40.12173
+2020,Vermont,10/17/2020,Donald Trump,29.8127,29.59326
+2020,Utah,10/17/2020,Donald Trump,51.48979,51.20708
+2020,Texas,10/17/2020,Donald Trump,48.69751,48.55051
+2020,Tennessee,10/17/2020,Donald Trump,54.9622,54.41651
+2020,South Dakota,10/17/2020,Donald Trump,54.80495,54.81973
+2020,South Carolina,10/17/2020,Donald Trump,50.83089,50.64436
+2020,Rhode Island,10/17/2020,Donald Trump,32.25472,32.17572
+2020,Pennsylvania,10/17/2020,Donald Trump,44.10266,43.98957
+2020,Oregon,10/17/2020,Donald Trump,37.67501,37.34758
+2020,Oklahoma,10/17/2020,Donald Trump,57.65778,57.50927
+2020,Ohio,10/17/2020,Donald Trump,47.21986,47.10728
+2020,North Dakota,10/17/2020,Donald Trump,57.27455,57.0416
+2020,North Carolina,10/17/2020,Donald Trump,45.97039,45.87294
+2020,New York,10/17/2020,Donald Trump,31.86004,31.41744
+2020,New Mexico,10/17/2020,Donald Trump,40.87419,40.49746
+2020,New Jersey,10/17/2020,Donald Trump,36.65149,36.34549
+2020,New Hampshire,10/17/2020,Donald Trump,42.36663,42.1472
+2020,Nevada,10/17/2020,Donald Trump,43.59032,43.2455
+2020,Nebraska,10/17/2020,Donald Trump,50.61038,50.61123
+2020,National,10/17/2020,Donald Trump,41.84135,41.78012
+2020,NE-2,10/17/2020,Donald Trump,43.34458,43.05257
+2020,NE-1,10/17/2020,Donald Trump,49.45707,49.78401
+2020,Montana,10/17/2020,Donald Trump,52.19035,52.04518
+2020,Missouri,10/17/2020,Donald Trump,51.19533,51.11435
+2020,Mississippi,10/17/2020,Donald Trump,53.92711,53.72064
+2020,Minnesota,10/17/2020,Donald Trump,41.93587,41.59219
+2020,Michigan,10/17/2020,Donald Trump,42.86758,42.77513
+2020,Massachusetts,10/17/2020,Donald Trump,28.4845,28.19889
+2020,Maryland,10/17/2020,Donald Trump,30.66998,30.42228
+2020,Maine,10/17/2020,Donald Trump,39.56082,39.24774
+2020,ME-2,10/17/2020,Donald Trump,45.13255,44.909
+2020,ME-1,10/17/2020,Donald Trump,34.06425,33.73425
+2020,Louisiana,10/17/2020,Donald Trump,53.81908,53.71013
+2020,Kentucky,10/17/2020,Donald Trump,56.5891,56.55366
+2020,Kansas,10/17/2020,Donald Trump,50.38302,50.11747
+2020,Iowa,10/17/2020,Donald Trump,47.73398,47.56056
+2020,Indiana,10/17/2020,Donald Trump,51.45066,51.30875
+2020,Illinois,10/17/2020,Donald Trump,38.28516,37.97274
+2020,Idaho,10/17/2020,Donald Trump,58.16641,58.02143
+2020,Hawaii,10/17/2020,Donald Trump,30.28533,30.15575
+2020,Georgia,10/17/2020,Donald Trump,46.69211,46.5982
+2020,Florida,10/17/2020,Donald Trump,45.19509,45.12068
+2020,District of Columbia,10/17/2020,Donald Trump,8.593171,8.557153
+2020,Delaware,10/17/2020,Donald Trump,33.53782,33.1904
+2020,Connecticut,10/17/2020,Donald Trump,33.96624,33.30737
+2020,Colorado,10/17/2020,Donald Trump,40.17897,39.9979
+2020,California,10/17/2020,Donald Trump,31.33309,31.01913
+2020,Arkansas,10/17/2020,Donald Trump,54.31985,54.52356
+2020,Arizona,10/17/2020,Donald Trump,45.25578,45.12587
+2020,Alaska,10/17/2020,Donald Trump,48.77197,48.77647
+2020,Alabama,10/17/2020,Donald Trump,56.53962,56.47707
+2020,Wyoming,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.92149,40.73829
+2020,Wisconsin,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.39492,40.39046
+2020,West Virginia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.5509,40.54271
+2020,Washington,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.62052,40.23608
+2020,Virginia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.40649,40.59527
+2020,Vermont,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.30579,40.4194
+2020,Utah,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.70635,40.32857
+2020,Texas,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.8828,40.07072
+2020,Tennessee,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.62646,40.5309
+2020,South Dakota,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.81557,40.6683
+2020,South Carolina,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.09074,39.87631
+2020,Rhode Island,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.82557,40.5689
+2020,Pennsylvania,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.32706,40.33095
+2020,Oregon,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.97908,40.38317
+2020,Oklahoma,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.97776,40.33588
+2020,Ohio,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.2345,40.32061
+2020,North Dakota,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.6854,40.08956
+2020,North Carolina,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.26337,40.21045
+2020,New York,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.59329,41.61163
+2020,New Mexico,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.96368,40.81128
+2020,New Jersey,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.91446,40.29592
+2020,New Hampshire,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.23559,40.19146
+2020,Nevada,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.42491,40.15723
+2020,Nebraska,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.86492,40.68119
+2020,National,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.16257,40.30452
+2020,NE-2,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,39.28932,39.17893
+2020,NE-1,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,38.75706,38.93753
+2020,Montana,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.56724,40.20968
+2020,Missouri,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.39884,40.35038
+2020,Mississippi,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.95005,41.1981
+2020,Minnesota,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.21233,40.24441
+2020,Michigan,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.2882,40.25162
+2020,Massachusetts,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.33266,41.03474
+2020,Maryland,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.82449,40.47056
+2020,Maine,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.62653,39.93994
+2020,ME-2,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.95813,40.03883
+2020,ME-1,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.95385,39.98196
+2020,Louisiana,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.31564,40.43793
+2020,Kentucky,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.29717,39.83284
+2020,Kansas,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.4787,40.01845
+2020,Iowa,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.04339,40.02177
+2020,Indiana,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.78078,40.33027
+2020,Illinois,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.46264,40.34145
+2020,Idaho,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.59914,41.34056
+2020,Hawaii,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.6141,40.52237
+2020,Georgia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.12845,40.16623
+2020,Florida,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.3755,40.3606
+2020,District of Columbia,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.85083,40.75093
+2020,Delaware,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,42.61277,41.5085
+2020,Connecticut,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.53164,40.49733
+2020,Colorado,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.34296,40.28134
+2020,California,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,41.68669,40.62123
+2020,Arkansas,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.65174,40.55721
+2020,Arizona,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.34658,40.40271
+2020,Alaska,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.22452,40.12676
+2020,Alabama,10/17/2020,Convention Bounce for Joseph R. Biden Jr.,40.83216,40.46016
+2020,Wyoming,10/17/2020,Convention Bounce for Donald Trump,41.20739,40.60207
+2020,Wisconsin,10/17/2020,Convention Bounce for Donald Trump,40.53231,40.03099
+2020,West Virginia,10/17/2020,Convention Bounce for Donald Trump,40.69769,40.34756
+2020,Washington,10/17/2020,Convention Bounce for Donald Trump,41.05338,39.85467
+2020,Virginia,10/17/2020,Convention Bounce for Donald Trump,41.78786,40.30723
+2020,Vermont,10/17/2020,Convention Bounce for Donald Trump,42.36356,40.27704
+2020,Utah,10/17/2020,Convention Bounce for Donald Trump,41.3277,40.16235
+2020,Texas,10/17/2020,Convention Bounce for Donald Trump,40.52282,40.16463
+2020,Tennessee,10/17/2020,Convention Bounce for Donald Trump,40.78917,40.32802
+2020,South Dakota,10/17/2020,Convention Bounce for Donald Trump,41.10479,40.53673
+2020,South Carolina,10/17/2020,Convention Bounce for Donald Trump,41.02041,40.04903
+2020,Rhode Island,10/17/2020,Convention Bounce for Donald Trump,41.1415,40.05516
+2020,Pennsylvania,10/17/2020,Convention Bounce for Donald Trump,40.29749,39.83209
+2020,Oregon,10/17/2020,Convention Bounce for Donald Trump,41.82057,39.99818
+2020,Oklahoma,10/17/2020,Convention Bounce for Donald Trump,42.07667,40.6244
+2020,Ohio,10/17/2020,Convention Bounce for Donald Trump,40.5269,40.16822
+2020,North Dakota,10/17/2020,Convention Bounce for Donald Trump,41.4454,39.95601
+2020,North Carolina,10/17/2020,Convention Bounce for Donald Trump,40.42532,39.93042
+2020,New York,10/17/2020,Convention Bounce for Donald Trump,40.60016,39.17272
+2020,New Mexico,10/17/2020,Convention Bounce for Donald Trump,42.82078,40.80515
+2020,New Jersey,10/17/2020,Convention Bounce for Donald Trump,41.58125,40.13911
+2020,New Hampshire,10/17/2020,Convention Bounce for Donald Trump,40.4133,39.68761
+2020,Nevada,10/17/2020,Convention Bounce for Donald Trump,40.88094,39.52892
+2020,Nebraska,10/17/2020,Convention Bounce for Donald Trump,41.17476,40.47258
+2020,National,10/17/2020,Convention Bounce for Donald Trump,39.60932,39.54361
+2020,NE-2,10/17/2020,Convention Bounce for Donald Trump,41.34404,40.15539
+2020,NE-1,10/17/2020,Convention Bounce for Donald Trump,41.67693,41.56359
+2020,Montana,10/17/2020,Convention Bounce for Donald Trump,41.51719,40.48476
+2020,Missouri,10/17/2020,Convention Bounce for Donald Trump,40.89758,40.38855
+2020,Mississippi,10/17/2020,Convention Bounce for Donald Trump,43.24931,42.02847
+2020,Minnesota,10/17/2020,Convention Bounce for Donald Trump,42.45959,40.34866
+2020,Michigan,10/17/2020,Convention Bounce for Donald Trump,40.45383,39.96407
+2020,Massachusetts,10/17/2020,Convention Bounce for Donald Trump,41.83149,40.01493
+2020,Maryland,10/17/2020,Convention Bounce for Donald Trump,41.53274,40.41682
+2020,Maine,10/17/2020,Convention Bounce for Donald Trump,41.77311,39.80893
+2020,ME-2,10/17/2020,Convention Bounce for Donald Trump,42.1375,40.04793
+2020,ME-1,10/17/2020,Convention Bounce for Donald Trump,42.1222,39.75524
+2020,Louisiana,10/17/2020,Convention Bounce for Donald Trump,42.31157,41.0636
+2020,Kentucky,10/17/2020,Convention Bounce for Donald Trump,41.47265,40.24731
+2020,Kansas,10/17/2020,Convention Bounce for Donald Trump,41.02496,39.85662
+2020,Iowa,10/17/2020,Convention Bounce for Donald Trump,40.82356,40.24367
+2020,Indiana,10/17/2020,Convention Bounce for Donald Trump,41.58707,40.5295
+2020,Illinois,10/17/2020,Convention Bounce for Donald Trump,40.62376,39.33558
+2020,Idaho,10/17/2020,Convention Bounce for Donald Trump,44.01318,41.86885
+2020,Hawaii,10/17/2020,Convention Bounce for Donald Trump,40.77131,40.04756
+2020,Georgia,10/17/2020,Convention Bounce for Donald Trump,40.44307,40.00395
+2020,Florida,10/17/2020,Convention Bounce for Donald Trump,40.18699,39.71658
+2020,District of Columbia,10/17/2020,Convention Bounce for Donald Trump,41.15132,40.56569
+2020,Delaware,10/17/2020,Convention Bounce for Donald Trump,40.53275,38.78065
+2020,Connecticut,10/17/2020,Convention Bounce for Donald Trump,40.67805,39.9972
+2020,Colorado,10/17/2020,Convention Bounce for Donald Trump,40.42315,39.83295
+2020,California,10/17/2020,Convention Bounce for Donald Trump,42.03793,39.80282
+2020,Arkansas,10/17/2020,Convention Bounce for Donald Trump,40.84816,40.38279
+2020,Arizona,10/17/2020,Convention Bounce for Donald Trump,40.57707,40.07478
+2020,Alaska,10/17/2020,Convention Bounce for Donald Trump,40.73351,40.15849
+2020,Alabama,10/17/2020,Convention Bounce for Donald Trump,40.76749,40.31598
 2020,Wyoming,10/16/2020,Joseph R. Biden Jr.,29.62835,30.16007
 2020,Wisconsin,10/16/2020,Joseph R. Biden Jr.,50.64762,50.83831
 2020,West Virginia,10/16/2020,Joseph R. Biden Jr.,35.55404,35.91106

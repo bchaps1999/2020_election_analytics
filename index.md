@@ -2,6 +2,7 @@
 
 #### [Home](https://bchaps1999.github.io/2020_election_analytics/)
 
+# [Changes Over Time - 10/24/2020](posts/week_7.md)
 # [The Probability of a Biden Victory - 10/17/2020](posts/week_6.md)
 # [Developing the Model: Adding Polling Data - 10/10/2020](posts/week_5.md)
 # [Using Prediction Markets to Predict Vote Percent - 10/3/2020](posts/week_4.md)
