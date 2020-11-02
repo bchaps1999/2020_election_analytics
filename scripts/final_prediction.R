@@ -555,6 +555,17 @@ combined_outsamp_errors %>%
 
 # Plots
 
+dem_polls_markets %>% 
+  filter(state != "District of Columbia") %>% 
+  ggplot(aes(x = price, y = pv2p)) + 
+  geom_point() + 
+  geom_smooth(method = "lm", formula = y ~ poly(x, 3)) + 
+  labs(title = "PredictIt Market Price and Vote Percent by State - Hillary Clinton",
+       x = "PredictIt Market Price on 5 Nov. 2016(USD)", 
+       y = "Two-Party Vote Percent in 2016 Election") +
+  theme_minimal()+
+  ggsave("market_price.png")
+
 data("fifty_states")
 
 oct_31$state <- tolower(oct_31$state)
