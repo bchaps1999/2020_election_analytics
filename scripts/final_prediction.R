@@ -372,7 +372,7 @@ predict_ec <- function(date) {
   
 }
 
-predict_probability <- function(date) {
+predict_simulations <- function(date) {
   
   dem_predictions <- predict_state_vote(date)
   
@@ -404,15 +404,35 @@ predict_probability <- function(date) {
     
   }
   
-  dem_state_predicted %>%
+  dem_state_predicted
+  
+}
+
+predict_probability <- function(date) {
+  
+  predict_simulations(date) %>%
     mutate(ec_votes = ifelse(prediction > 50, ec_votes, 0)) %>%
     group_by(rep) %>%
     summarize(national_ec_votes = sum(ec_votes)) %>% 
     filter(national_ec_votes >= 270) %>% 
     count() %>% 
-    summarize(n/1000)
+    summarize(n/1000) 
   
 }
+
+predict_probability("10/31/2020")
+
+set.seed(2020)
+
+simulations <- predict_simulations("10/31/2020")
+
+simulations %>% 
+  mutate(ec_votes = ifelse(prediction > 50, ec_votes, 0)) %>%
+  group_by(rep) %>%
+  summarize(national_ec_votes = sum(ec_votes)) %>% 
+  filter(national_ec_votes >= 270) %>% 
+  count() %>% 
+  summarize(n/1000) 
 
 oct_31 <- predict_state_vote("10/31/2020")
 
