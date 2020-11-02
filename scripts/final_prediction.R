@@ -575,6 +575,20 @@ ggplot(oct_31, aes(map_id = state)) +
   theme_minimal() +
   ggsave(filename = "final_map.png")
 
+oct_31 %>% 
+  mutate(winner = ifelse(fit > 50, TRUE, FALSE)) %>% 
+  ggplot(aes(map_id = state)) + 
+  geom_map(aes(fill = winner), map = fifty_states, color = "black") + 
+  expand_limits(x = fifty_states$long, y = fifty_states$lat) +
+  coord_map() +
+  scale_fill_manual(values = c("red","blue"),
+                    labels = c("Trump", "Biden")) +
+  scale_x_continuous(breaks = NULL) + 
+  scale_y_continuous(breaks = NULL) +
+  labs(x = "", y = "", fill = "Winner", title = "Predicted Election Winner by State") + 
+  theme_minimal()  +
+  ggsave(filename = "final_winner_map.png")
+
 simulations %>% 
   ggplot(aes(x = national_ec_votes)) + 
   geom_histogram(binwidth = 1) + 

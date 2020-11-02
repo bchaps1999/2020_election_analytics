@@ -2,19 +2,21 @@
 
 My final predictions for the 2020 US Presidential election are as follows:
 
-*National Two-Party Vote Percent:*
+**National Two-Party Vote Percent:**
 - Joe Biden: 52.465%
 - Donald Trump: 47.535%
 
-*Electoral College Votes:*
+**Electoral College Votes:**
 - Joe Biden: 290
 - Donald Trump: 248
 
-*Probability of Winning:*
+**Probability of Winning:**
 - Joe Biden: 93.3%
 - Donald Trump: 6.7%
 
 ![](../figures/final_map.png)
+
+![](../figures/final_winner_map.png)
 
 ### Formula for the Model
 
