@@ -2,6 +2,7 @@
 
 #### [Home](https://bchaps1999.github.io/2020_election_analytics/)
 
+# [Post-Election Reflection on Model - 11/23/2020](posts/election_reflection.md)
 # [Final Election Prediction - 11/1/2020](posts/final_prediction.md)
 # [Changes Over Time - 10/24/2020](posts/week_7.md)
 # [The Probability of a Biden Victory - 10/17/2020](posts/week_6.md)
