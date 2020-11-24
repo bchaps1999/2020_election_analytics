@@ -30,7 +30,7 @@ polls_2020 <- read_csv("../data/presidential_poll_averages_2020.csv") %>%
   
 
 polls_2016 <- polls %>% 
-  filter(days_left >= 30) %>% 
+  filter(days_left >= 9) %>% 
   group_by(state, party) %>%  
   filter(days_left == min(days_left)) %>% 
   select(state, party, avg_poll) %>% 
@@ -111,12 +111,11 @@ add_market_data <- function(state_name){
 states <- states %>% 
   as_tibble() %>% 
   filter(value != "New Jersey",
-         value != "South Carolina",
          value != "Alabama",
          !is.na(value)) %>% 
   pull(value)
 
-for (k in 1:47) {
+for (k in 1:48) {
   
   state_k = states[k]
   
@@ -125,7 +124,7 @@ for (k in 1:47) {
 }
 
 market_vote_2016 <- market_data_2016 %>% 
-  filter(date == as.Date("11/7/2016", "%m/%d/%Y"),
+  filter(date == as.Date("10/29/2016", "%m/%d/%Y"),
          party != "Libertarian") %>% 
   pivot_longer(cols = c(everything(),-party,-date), names_to = "state", values_to = "price")
 
@@ -174,7 +173,7 @@ for (k in 1:49) {
 }
 
 market_vote_2020 <- market_data_2020 %>% 
-  filter(date == as.Date("10/16/2020", "%m/%d/%Y"),
+  filter(date == as.Date("10/24/2020", "%m/%d/%Y"),
          party != "Libertarian") %>% 
   pivot_longer(cols = c(everything(),-party,-date), names_to = "state", values_to = "price")
 
@@ -196,7 +195,7 @@ dem_polls_markets <- polls_markets %>%
   filter(party == "Democratic")
 
 polls_today <- polls_2020 %>% 
-  filter(date == as.Date("10/16/2020", "%m/%d/%Y"))
+  filter(date == as.Date("10/24/2020", "%m/%d/%Y"))
 
 polls_markets_2020 <- market_vote_2020 %>% 
   pivot_wider(names_from = party, values_from = price) %>%
@@ -225,7 +224,7 @@ resid(poll_model) %>%
 
 poll_outsamp_errors <- sapply(1:1000, function(i){
   train_ind <- sample(seq_len(nrow(rep_polls_markets)), 
-                      size = floor(0.75 * nrow(rep_polls_markets)))
+                      size = 48)
   train <- rep_polls_markets[train_ind, ]
   test <- rep_polls_markets[-train_ind, ]
   outsamp_mod <- lm(pv2p ~ avg_poll_2p, data = train)
@@ -253,7 +252,7 @@ resid(market_model) %>%
 
 market_outsamp_errors <- sapply(1:1000, function(i){
   train_ind <- sample(seq_len(nrow(rep_polls_markets)), 
-                      size = floor(0.75 * nrow(rep_polls_markets)))
+                      size = 48)
   train <- rep_polls_markets[train_ind, ]
   test <- rep_polls_markets[-train_ind, ]
   outsamp_mod <- lm(pv2p ~ poly(price,3), data = train)
@@ -281,7 +280,7 @@ resid(poll_market_model) %>%
 
 combined_outsamp_errors <- sapply(1:1000, function(i){
   train_ind <- sample(seq_len(nrow(rep_polls_markets)), 
-                      size = floor(0.75 * nrow(rep_polls_markets)))
+                      size = 48)
   train <- rep_polls_markets[train_ind, ]
   test <- rep_polls_markets[-train_ind, ]
   outsamp_mod <- lm(pv2p ~ avg_poll_2p + poly(price,3), data = train)
@@ -418,8 +417,7 @@ dem_predictions %>%
                     name = "Election Winner", 
                     labels = c("Trump", "Biden")) + 
   labs(title = "Predicted Election Winner by State") + 
-  theme_void() + 
-  ggsave("oct_17_map.png")
+  theme_void() 
   
 dem_ec_predicted %>% 
   ggplot(aes(x = national_ec_votes)) +
@@ -428,8 +426,7 @@ dem_ec_predicted %>%
        x = "Number of Electoral College Votes",
        y = "Number of Simulations") +
   theme_minimal() +
-  geom_vline(xintercept=270)  + 
-  ggsave("oct_17_biden.png")
+  geom_vline(xintercept=270)
 
 rep_ec_predicted %>% 
   ggplot(aes(x = national_ec_votes)) +
@@ -438,5 +435,4 @@ rep_ec_predicted %>%
        x = "Number of Electoral College Votes",
        y = "Number of Simulations") +
   theme_minimal() +
-  geom_vline(xintercept=270)  + 
-  ggsave("oct_17_trump.png")
+  geom_vline(xintercept=270)

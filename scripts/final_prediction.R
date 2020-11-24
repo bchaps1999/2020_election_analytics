@@ -416,11 +416,19 @@ predict_probability <- function(date) {
     summarize(national_ec_votes = sum(ec_votes)) %>% 
     filter(national_ec_votes >= 270) %>% 
     count() %>% 
-    summarize(n/1000) 
+    summarize(n/1000) %>% 
+    pull()
   
 }
 
-predict_probability("10/31/2020")
+simulations %>% 
+  mutate(ec_votes = ifelse(prediction > 50, ec_votes, 0)) %>%
+  group_by(state) %>% 
+  filter(ec_votes > 0) %>% 
+  count() %>% 
+  summarize(n/1000) %>% 
+  view()
+  
 
 set.seed(2020)
 
@@ -452,6 +460,10 @@ model_over_time <-
     dem_ec = map_dbl(date, predict_ec),
     chances = map_dbl(date, predict_probability)
   )
+
+model_over_time %>% 
+  ggplot(aes(x = date, y = chances)) + 
+  geom_line()
 
 ## Model validation
 
@@ -583,8 +595,7 @@ dem_polls_markets %>%
   labs(title = "PredictIt Market Price and Vote Percent by State - Hillary Clinton",
        x = "PredictIt Market Price on 5 Nov. 2016(USD)", 
        y = "Two-Party Vote Percent in 2016 Election") +
-  theme_minimal()+
-  ggsave("market_price.png")
+  theme_minimal()
 
 data("fifty_states")
 
@@ -603,8 +614,7 @@ ggplot(oct_31, aes(map_id = state)) +
   scale_x_continuous(breaks = NULL) + 
   scale_y_continuous(breaks = NULL) +
   labs(x = "", y = "", fill = "Percent", title = "Predicted Percent of Two-Party Popular Vote for Biden by State") + 
-  theme_minimal() +
-  ggsave(filename = "final_map.png")
+  theme_minimal()
 
 oct_31 %>% 
   mutate(winner = ifelse(fit > 50, TRUE, FALSE)) %>% 
@@ -617,8 +627,7 @@ oct_31 %>%
   scale_x_continuous(breaks = NULL) + 
   scale_y_continuous(breaks = NULL) +
   labs(x = "", y = "", fill = "Winner", title = "Predicted Election Winner by State") + 
-  theme_minimal()  +
-  ggsave(filename = "final_winner_map.png")
+  theme_minimal()
 
 simulations %>% 
   ggplot(aes(x = national_ec_votes)) + 
@@ -626,5 +635,13 @@ simulations %>%
   labs(title = "Disitribution of Electoral College Votes Over 1000 Simlations",
        x = "Electoral College Votes for Joe Biden",
        y = "Number of Simulations") + 
-  geom_vline(xintercept = 270, color = "red") + 
-  ggsave(filename = "final_ec.png")
+  geom_vline(xintercept = 270, color = "red")
+
+library(tidyverse)
+results_2020 <- read_csv("../data/results_2020.csv") %>% 
+  right_join(oct_31, by = "state") %>% 
+  mutate(dem_pv2p = dem_pv2p * 100,
+         error = (dem_pv2p - fit)^2)
+
+results_2020 %>% 
+  summarize(sqrt(mean(error)))

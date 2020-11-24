@@ -140,7 +140,6 @@ add_market_data <- function(state_name) {
 states <- states %>%
   as_tibble() %>%
   filter(value != "New Jersey",
-         value != "South Carolina",
          value != "Alabama",!is.na(value)) %>%
   pull(value)
 
@@ -243,14 +242,11 @@ rmse_2016 <- function(date) {
     ) %>%
     left_join(polls_2016, by = c("state", "party"))
   
-  rep_polls_markets <- polls_markets %>%
-    filter(party == "Republican")
-  
   dem_polls_markets <- polls_markets %>%
     filter(party == "Democratic")
   
   poll_market_model <-
-    lm(pv2p ~ avg_poll_2p + poly(price, 3), data = rep_polls_markets)
+    lm(pv2p ~ avg_poll_2p + poly(price, 3), data = dem_polls_markets)
   
   resid(poll_market_model) %>%
     as_tibble() %>%
@@ -370,6 +366,8 @@ predict_vote <- function(date_today) {
   
 }
 
+predict("10/24/2020")
+
 predict_election <- function(date_today) {
   
   days_remaining = as.numeric(difftime(
@@ -461,6 +459,9 @@ predict_election <- function(date_today) {
   dem_poll_market_model <-
     lm(pv2p ~ poly(price, 3) + avg_poll_2p, data = dem_polls_markets)
   
+  dem_poll_market_model %>% 
+    summary()
+  
   set.seed(2020)
   
   dem_predictions <- predict(dem_poll_market_model,
@@ -485,6 +486,8 @@ predict_election <- function(date_today) {
   
   for (i in 1:1000) {
     for (j in 1:50) {
+      i = 1
+      j = 1
       k = (i - 1) * 50 + j
       state = dem_predictions$state[j]
       vote = dem_predictions$fit[j]
@@ -542,8 +545,7 @@ rmse_changes %>%
   theme_minimal() +
   labs(title = "Changes in Regression Model RMSE in Weeks Before 2016 Election",
        x = "Date",
-       y = "RMSE") +
-  ggsave("rmse_change.png")
+       y = "RMSE")
 
 model_over_time %>%
   ggplot(aes(x = date, y = chances)) +
