@@ -1,4 +1,4 @@
-### Election Narratives: The Suburban Vote - 12/10/2020
+## Election Narratives: The Suburban Vote - 12/10/2020
 
 Unsurprisingly, the suburbs turned out to be a key component of the 2020 presidential election. Even before the election, the candidates recognized the importance of winning over suburban voters, as both Donald Trump and Joe Biden targeted suburban areas with campaign stops and their rhetoric. In the weeks after the election, the suburbs have remained a popular topic, as many political pundits and journalists have made claims about how Biden won because of the support he received from suburban voters. An example of this narrative appearing in the media is this Bloomberg article titled [“How Suburbs Swung the 2020 Election”](https://www.bloomberg.com/graphics/2020-suburban-density-election/).
 
