@@ -2,6 +2,7 @@
 
 #### [Home](https://bchaps1999.github.io/2020_election_analytics/)
 
+# [Election Narratives: The Suburban Vote - 12/10/2020](posts/narrative.md)
 # [Post-Election Reflection on Model - 11/23/2020](posts/post_election_reflection.md)
 # [Final Election Prediction - 11/1/2020](posts/final_prediction.md)
 # [Changes Over Time - 10/24/2020](posts/week_7.md)
